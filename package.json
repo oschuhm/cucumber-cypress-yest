@@ -1,0 +1,27 @@
+{
+  "name": "cucumber-yest",
+  "version": "1.0.0",
+  "description": "sample project for yest and cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Oliver Schuhmacher",
+  "license": "ISC",
+  "devDependencies": {
+    "-": "^0.0.1",
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.0",
+    "@cypress/webpack-preprocessor": "^6.0.1",
+    "cypress": "^13.6.2"
+  }, 
+
+  "cypress-cucumber-preprocessor": { 
+
+    "stepDefinitions": [ 
+
+      "cypress/e2e/step_definitions/*.cy.js" 
+
+    ] 
+
+  } 
+}

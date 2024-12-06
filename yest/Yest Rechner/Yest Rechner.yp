@@ -13,8 +13,8 @@
       <metadata key="jiraWorkflow_Fields" value="{}"/>
       <metadata key="jiraWorkflow_Key" value="YES-54"/>
       <metadata key="jiraWorkflow_UserUrl" value="https://mbtdemo.atlassian.net/browse/YES-54"/>
-      <metadata key="jiraWorkflow_WorkflowVersion" value="9"/>
-      <metadata key="jiraWorkflow_WorkflowContent" value="{&quot;id&quot;:&quot;dpQMPsW2W3pnZBLw3PPddJ7vB273q95S&quot;,&quot;yest4JiraVersion&quot;:3,&quot;groups&quot;:[],&quot;nodes&quot;:[{&quot;type&quot;:&quot;start&quot;,&quot;id&quot;:&quot;bzUkB8Un6QV6yRjap0OJ9tTYX9RiCD7b&quot;,&quot;bounds&quot;:[240,110,31,31]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;,&quot;name&quot;:&quot;IntA auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;VHZqkf7Uykyx5d330FOE1rtHnrAMYkHh&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;7A4KTit4X9Ks02T5QgKMot4OjdOcffmc&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#attachment&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;2HGMl8tWvcFz14O1gj2o3uEReoFa5YT9&quot;,&quot;cells&quot;:{&quot;7A4KTit4X9Ks02T5QgKMot4OjdOcffmc&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;local-file-attachment&quot;,&quot;data&quot;:&quot;{\&quot;locationId\&quot;:\&quot;DefaultLocationId\&quot;,\&quot;relativePath\&quot;:\&quot;2024-12-05 17_29_02-cucumber-yest.png\&quot;}&quot;,&quot;rendering&quot;:&quot;2024-12-05 17_29_02-cucumber-yest.png&quot;},&quot;VHZqkf7Uykyx5d330FOE1rtHnrAMYkHh&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl A in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntA&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]}}}]},&quot;bounds&quot;:[205,184,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;,&quot;name&quot;:&quot;Operation auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;pbQ4TF4GNBDGISe2H40RqHMThCpFxe11&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;Rechenarten&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;},{&quot;id&quot;:&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;Story&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;8d5qQIKQkLmrPawaHVrQjVr7KKgxeQnc&quot;,&quot;cells&quot;:{&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Addieren&quot;},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Addieren auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10062\&quot;,\&quot;key\&quot;:\&quot;YES-46\&quot;}&quot;,&quot;rendering&quot;:&quot;YES-46: Zahlen addieren&quot;},&quot;pbQ4TF4GNBDGISe2H40RqHMThCpFxe11&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Addieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Addieren&quot;}}}}},{&quot;id&quot;:&quot;AafnvlRCd8zirAx9Paw7AbFVBnXbdg86&quot;,&quot;cells&quot;:{&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;J3jMh1tq1XNbStBg0kRQ3y2Upiv6nLtD&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Subtrahieren auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10063\&quot;,\&quot;key\&quot;:\&quot;YES-47\&quot;}&quot;,&quot;rendering&quot;:&quot;YES-47: Zahlen subtrahieren&quot;},&quot;pbQ4TF4GNBDGISe2H40RqHMThCpFxe11&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;}}}}},{&quot;id&quot;:&quot;WIBmAPNhXzPB5nXYlbIPLiXVOCObs9rk&quot;,&quot;cells&quot;:{&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;qTYoPGrS1wDaRKmP5mpp5SS7bxoaH6On&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Multiplizieren auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10064\&quot;,\&quot;key\&quot;:\&quot;YES-48\&quot;}&quot;,&quot;rendering&quot;:&quot;YES-48: Zahlen multiplizieren&quot;},&quot;pbQ4TF4GNBDGISe2H40RqHMThCpFxe11&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;}}}}},{&quot;id&quot;:&quot;fbzPG4dtJISHcgGYe2I3CpPF1u2wdxib&quot;,&quot;cells&quot;:{&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Dividieren&quot;},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;TSUO4TJo0BiNcqo9fdbHTb3IS3MNnTgU&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Dividieren auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10065\&quot;,\&quot;key\&quot;:\&quot;YES-49\&quot;}&quot;,&quot;rendering&quot;:&quot;YES-49: Zahlen dividieren&quot;},&quot;pbQ4TF4GNBDGISe2H40RqHMThCpFxe11&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Dividieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Dividieren&quot;}}}}}]},&quot;bounds&quot;:[205,268,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;,&quot;name&quot;:&quot;IntB auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;,&quot;kind&quot;:&quot;STEP&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;OIyLjn3ddLrx0e6nfLli3sRat30n0xBu&quot;,&quot;cells&quot;:{&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;BG2k342V4gSa5hLukfKVaVecJNHSWwZn&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl B &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;  in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]},&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}}}},{&quot;id&quot;:&quot;BdaJjFMyQypnRb5C4GatWUaoXwX5gYMX&quot;,&quot;cells&quot;:{&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;BG2k342V4gSa5hLukfKVaVecJNHSWwZn&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl B &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;  in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]},&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}}}}]},&quot;bounds&quot;:[205,342,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;,&quot;name&quot;:&quot;Ergebnis prüfen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;Rechenarten&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;dQotX9SdreqW2IIElR72P89fPqJv0F0X&quot;,&quot;cells&quot;:{&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}},&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;&lt;> Dividieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;NOT_EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Dividieren&quot;}}}}},{&quot;id&quot;:&quot;MYKHvPTR58dF1z9KCa6oRf8MzQhSM8Se&quot;,&quot;cells&quot;:{&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;&lt;> Dividieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;NOT_EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Dividieren&quot;}}}}},{&quot;id&quot;:&quot;0dKFtZkmPQcbjnYvEEUGcKwpH9MooCU6&quot;,&quot;cells&quot;:{&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Dividieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Dividieren&quot;}}}}},{&quot;id&quot;:&quot;Oexmv15YZwnerlKKZFBRd8HxmFzEy5lJ&quot;,&quot;cells&quot;:{&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;h4VGgPy0prXswtwX14JRJHEgIHnMgERW&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Der Rechner zeigt einen Fehler an&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Fehlermeldung&quot;}],&quot;styleRanges&quot;:[]}}}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Error&quot;},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}},&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Dividieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Dividieren&quot;}}}}}]},&quot;bounds&quot;:[205,420,101,51]},{&quot;type&quot;:&quot;end&quot;,&quot;id&quot;:&quot;PV53FHo9nrewysJhXBiDGtrTrssedlOh&quot;,&quot;bounds&quot;:[240,495,31,31]}],&quot;connections&quot;:[{&quot;id&quot;:&quot;9R9cRRCMeDlkdFCYjjzKhCbSUp4T8DBr&quot;,&quot;source&quot;:&quot;bzUkB8Un6QV6yRjap0OJ9tTYX9RiCD7b&quot;,&quot;target&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;},{&quot;id&quot;:&quot;5gd1GBcZ3tbuqrPZIPDAwU71y6x3UOEt&quot;,&quot;source&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;,&quot;target&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;},{&quot;id&quot;:&quot;88D4UZgp4ng8lNjSe0VUFVgBo5BOqY9B&quot;,&quot;source&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;,&quot;target&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;},{&quot;id&quot;:&quot;MU3QtS0hczMnjtaT3Rvj5823iYZ6pQWT&quot;,&quot;source&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;,&quot;target&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;},{&quot;id&quot;:&quot;k5xj0KvsBGU5WbheN9eB91ooGfrUP9F8&quot;,&quot;source&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;,&quot;target&quot;:&quot;PV53FHo9nrewysJhXBiDGtrTrssedlOh&quot;}]}"/>
+      <metadata key="jiraWorkflow_WorkflowVersion" value="10"/>
+      <metadata key="jiraWorkflow_WorkflowContent" value="{&quot;id&quot;:&quot;dpQMPsW2W3pnZBLw3PPddJ7vB273q95S&quot;,&quot;yest4JiraVersion&quot;:3,&quot;groups&quot;:[],&quot;nodes&quot;:[{&quot;type&quot;:&quot;start&quot;,&quot;id&quot;:&quot;bzUkB8Un6QV6yRjap0OJ9tTYX9RiCD7b&quot;,&quot;bounds&quot;:[240,110,31,31]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;,&quot;name&quot;:&quot;IntA auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;VHZqkf7Uykyx5d330FOE1rtHnrAMYkHh&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;7A4KTit4X9Ks02T5QgKMot4OjdOcffmc&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#attachment&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;2HGMl8tWvcFz14O1gj2o3uEReoFa5YT9&quot;,&quot;cells&quot;:{&quot;VHZqkf7Uykyx5d330FOE1rtHnrAMYkHh&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl A in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntA&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]},&quot;7A4KTit4X9Ks02T5QgKMot4OjdOcffmc&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;local-file-attachment&quot;,&quot;data&quot;:&quot;{\&quot;locationId\&quot;:\&quot;DefaultLocationId\&quot;,\&quot;relativePath\&quot;:\&quot;2024-12-05 17_29_02-cucumber-yest.png\&quot;}&quot;,&quot;rendering&quot;:&quot;2024-12-05 17_29_02-cucumber-yest.png&quot;}}}]},&quot;bounds&quot;:[205,184,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;,&quot;name&quot;:&quot;Operation auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;pbQ4TF4GNBDGISe2H40RqHMThCpFxe11&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;Rechenarten&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;},{&quot;id&quot;:&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;Story&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;8d5qQIKQkLmrPawaHVrQjVr7KKgxeQnc&quot;,&quot;cells&quot;:{&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Addieren&quot;},&quot;pbQ4TF4GNBDGISe2H40RqHMThCpFxe11&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Addieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Addieren&quot;}}},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Addieren auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10062\&quot;,\&quot;key\&quot;:\&quot;YES-46\&quot;}&quot;,&quot;rendering&quot;:&quot;YES-46: Zahlen addieren&quot;}}},{&quot;id&quot;:&quot;AafnvlRCd8zirAx9Paw7AbFVBnXbdg86&quot;,&quot;cells&quot;:{&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;},&quot;pbQ4TF4GNBDGISe2H40RqHMThCpFxe11&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;}}},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;J3jMh1tq1XNbStBg0kRQ3y2Upiv6nLtD&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Subtrahieren auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10063\&quot;,\&quot;key\&quot;:\&quot;YES-47\&quot;}&quot;,&quot;rendering&quot;:&quot;YES-47: Zahlen subtrahieren&quot;}}},{&quot;id&quot;:&quot;WIBmAPNhXzPB5nXYlbIPLiXVOCObs9rk&quot;,&quot;cells&quot;:{&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;},&quot;pbQ4TF4GNBDGISe2H40RqHMThCpFxe11&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;}}},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;qTYoPGrS1wDaRKmP5mpp5SS7bxoaH6On&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Multiplizieren auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10064\&quot;,\&quot;key\&quot;:\&quot;YES-48\&quot;}&quot;,&quot;rendering&quot;:&quot;YES-48: Zahlen multiplizieren&quot;}}},{&quot;id&quot;:&quot;fbzPG4dtJISHcgGYe2I3CpPF1u2wdxib&quot;,&quot;cells&quot;:{&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Dividieren&quot;},&quot;pbQ4TF4GNBDGISe2H40RqHMThCpFxe11&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Dividieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Dividieren&quot;}}},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;TSUO4TJo0BiNcqo9fdbHTb3IS3MNnTgU&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Dividieren auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10065\&quot;,\&quot;key\&quot;:\&quot;YES-49\&quot;}&quot;,&quot;rendering&quot;:&quot;YES-49: Zahlen dividieren&quot;}}}]},&quot;bounds&quot;:[205,268,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;,&quot;name&quot;:&quot;IntB auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;,&quot;kind&quot;:&quot;STEP&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;OIyLjn3ddLrx0e6nfLli3sRat30n0xBu&quot;,&quot;cells&quot;:{&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;BG2k342V4gSa5hLukfKVaVecJNHSWwZn&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl B &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;  in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]},&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}}}},{&quot;id&quot;:&quot;BdaJjFMyQypnRb5C4GatWUaoXwX5gYMX&quot;,&quot;cells&quot;:{&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;BG2k342V4gSa5hLukfKVaVecJNHSWwZn&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl B &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;  in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]},&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}}}}]},&quot;bounds&quot;:[205,342,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;,&quot;name&quot;:&quot;Ergebnis prüfen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;Rechenarten&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;dQotX9SdreqW2IIElR72P89fPqJv0F0X&quot;,&quot;cells&quot;:{&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Addieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Addieren&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}}}},{&quot;id&quot;:&quot;MYKHvPTR58dF1z9KCa6oRf8MzQhSM8Se&quot;,&quot;cells&quot;:{&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Addieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Addieren&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}}}},{&quot;id&quot;:&quot;0dKFtZkmPQcbjnYvEEUGcKwpH9MooCU6&quot;,&quot;cells&quot;:{&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Dividieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Dividieren&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}}}},{&quot;id&quot;:&quot;Oexmv15YZwnerlKKZFBRd8HxmFzEy5lJ&quot;,&quot;cells&quot;:{&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Dividieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Dividieren&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;h4VGgPy0prXswtwX14JRJHEgIHnMgERW&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Der Rechner zeigt einen Fehler an&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Fehlermeldung&quot;}],&quot;styleRanges&quot;:[]}}}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Error&quot;},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}}}},{&quot;id&quot;:&quot;CJ5j24PQHHnetluCBZeijkaZMqct7VJ3&quot;,&quot;cells&quot;:{&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}}}},{&quot;id&quot;:&quot;cLqZWLb3u5h5DFscmjvFff6t20PaeQF4&quot;,&quot;cells&quot;:{&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}}}},{&quot;id&quot;:&quot;Y1jsvhTNTt3fnXr9aN5BSRgVjyFPUkzI&quot;,&quot;cells&quot;:{&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}}}},{&quot;id&quot;:&quot;dBNo3aM3BxeVuuZlfE1RYMV0YFEiqXnt&quot;,&quot;cells&quot;:{&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}}}}]},&quot;bounds&quot;:[205,420,101,51]},{&quot;type&quot;:&quot;end&quot;,&quot;id&quot;:&quot;PV53FHo9nrewysJhXBiDGtrTrssedlOh&quot;,&quot;bounds&quot;:[240,495,31,31]}],&quot;connections&quot;:[{&quot;id&quot;:&quot;9R9cRRCMeDlkdFCYjjzKhCbSUp4T8DBr&quot;,&quot;source&quot;:&quot;bzUkB8Un6QV6yRjap0OJ9tTYX9RiCD7b&quot;,&quot;target&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;},{&quot;id&quot;:&quot;5gd1GBcZ3tbuqrPZIPDAwU71y6x3UOEt&quot;,&quot;source&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;,&quot;target&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;},{&quot;id&quot;:&quot;88D4UZgp4ng8lNjSe0VUFVgBo5BOqY9B&quot;,&quot;source&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;,&quot;target&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;},{&quot;id&quot;:&quot;MU3QtS0hczMnjtaT3Rvj5823iYZ6pQWT&quot;,&quot;source&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;,&quot;target&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;},{&quot;id&quot;:&quot;k5xj0KvsBGU5WbheN9eB91ooGfrUP9F8&quot;,&quot;source&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;,&quot;target&quot;:&quot;PV53FHo9nrewysJhXBiDGtrTrssedlOh&quot;}]}"/>
       <flowElements xsi:type="yest:StartPoint" id="bzUkB8Un6QV6yRjap0OJ9tTYX9RiCD7b" name="" outgoings="9R9cRRCMeDlkdFCYjjzKhCbSUp4T8DBr"/>
       <flowElements xsi:type="yest:Task" id="f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C" name="IntA auswählen" incomings="9R9cRRCMeDlkdFCYjjzKhCbSUp4T8DBr" outgoings="5gd1GBcZ3tbuqrPZIPDAwU71y6x3UOEt">
         <table>
@@ -146,7 +146,7 @@
               </value>
             </cells>
             <cells key="eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7">
-              <value xsi:type="yest:DataValueCell" value="E8jUUGp3S7RsvEMKR0JfYqPyDt6e5Bgz"/>
+              <value xsi:type="yest:DataValueCell" value="7izPQD3vP1Hb3aD702k6bj3HoCGZQLjz"/>
             </cells>
             <cells key="dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL">
               <value xsi:type="yest:DataValueCell" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
@@ -157,7 +157,7 @@
           </decisions>
           <decisions id="MYKHvPTR58dF1z9KCa6oRf8MzQhSM8Se">
             <cells key="eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7">
-              <value xsi:type="yest:DataValueCell" value="E8jUUGp3S7RsvEMKR0JfYqPyDt6e5Bgz"/>
+              <value xsi:type="yest:DataValueCell" value="7izPQD3vP1Hb3aD702k6bj3HoCGZQLjz"/>
             </cells>
             <cells key="dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL">
               <value xsi:type="yest:DataValueCell" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
@@ -201,6 +201,70 @@
             </cells>
             <cells key="0jHfay8MwProX56tbzIoTRW9NlNYXGSV">
               <value xsi:type="yest:StringCell" value="Error"/>
+            </cells>
+          </decisions>
+          <decisions id="CJ5j24PQHHnetluCBZeijkaZMqct7VJ3">
+            <cells key="eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7">
+              <value xsi:type="yest:DataValueCell" value="Rdk9tZbIxpeZbMhKB6Oqcxq4P5qlKp0N"/>
+            </cells>
+            <cells key="dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL">
+              <value xsi:type="yest:DataValueCell" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+            </cells>
+            <cells key="zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="0jHfay8MwProX56tbzIoTRW9NlNYXGSV">
+              <value xsi:type="yest:StringCell" value="Success"/>
+            </cells>
+          </decisions>
+          <decisions id="cLqZWLb3u5h5DFscmjvFff6t20PaeQF4">
+            <cells key="eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7">
+              <value xsi:type="yest:DataValueCell" value="Rdk9tZbIxpeZbMhKB6Oqcxq4P5qlKp0N"/>
+            </cells>
+            <cells key="dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL">
+              <value xsi:type="yest:DataValueCell" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+            </cells>
+            <cells key="zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="0jHfay8MwProX56tbzIoTRW9NlNYXGSV">
+              <value xsi:type="yest:StringCell" value="Success"/>
+            </cells>
+          </decisions>
+          <decisions id="Y1jsvhTNTt3fnXr9aN5BSRgVjyFPUkzI">
+            <cells key="eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7">
+              <value xsi:type="yest:DataValueCell" value="TdBsbsWYxsRfujw18Ip61JUETz5vk2a0"/>
+            </cells>
+            <cells key="dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL">
+              <value xsi:type="yest:DataValueCell" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+            </cells>
+            <cells key="zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="0jHfay8MwProX56tbzIoTRW9NlNYXGSV">
+              <value xsi:type="yest:StringCell" value="Success"/>
+            </cells>
+          </decisions>
+          <decisions id="dBNo3aM3BxeVuuZlfE1RYMV0YFEiqXnt">
+            <cells key="eWwDb5ys4pwuzXbsEyMtLNjgXJZmhAI7">
+              <value xsi:type="yest:DataValueCell" value="TdBsbsWYxsRfujw18Ip61JUETz5vk2a0"/>
+            </cells>
+            <cells key="dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL">
+              <value xsi:type="yest:DataValueCell" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+            </cells>
+            <cells key="zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="0jHfay8MwProX56tbzIoTRW9NlNYXGSV">
+              <value xsi:type="yest:StringCell" value="Success"/>
             </cells>
           </decisions>
         </table>
@@ -426,100 +490,76 @@
       </diagram>
     </testElements>
     <testElements xsi:type="yest:AutomationConfiguration" id="DxbNVKynIE34XVNTAr8mS8wiHaT50vRx" name="Grundrechenarten" publisherId="com.smartesting.publishers.cucumber.CucumberEditor">
-      <campaign folders="ACgWyJAx2tp2mSjCE5P37dWYfeJWhjUB" dataSetCollections="yRLlwI6z3lxxytcD7B7WdnyqFdzpEbJ4">
+      <campaign folders="ACgWyJAx2tp2mSjCE5P37dWYfeJWhjUB" dataSetCollections="IunXbXAombI6xeazbqB9PranVq2yZskX">
         <metadata key="useAllDataSetCollections" value="false"/>
-        <dataSetCombinations key="LMm5UwNLeMppkoTkfTHdIaFD9Zx2OWHY">
-          <value id="aYV9tPm3nGu7WJ6EAvZp86EUGZ84TNxr" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="VH1tUcHxTidJE6JJh7NsckLtW18Ogv7H"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="VH1tUcHxTidJE6JJh7NsckLtW18Ogv7H"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="VH1tUcHxTidJE6JJh7NsckLtW18Ogv7H"/>
-          </value>
-          <value id="JUmteGNEXvZYe2xA5BMFUIyKB6zNJxou" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="JG6P4cg6YR8a9wwbkSt4ZgqVSEV0a2Q9"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="JG6P4cg6YR8a9wwbkSt4ZgqVSEV0a2Q9"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="JG6P4cg6YR8a9wwbkSt4ZgqVSEV0a2Q9"/>
-          </value>
-          <value id="DlozVPNDx6cNr1LMbVQhg6TdNkradcdx" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="9NFjvJ3eV5d4MejVWHpRRjdsxNSXAfu4"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="9NFjvJ3eV5d4MejVWHpRRjdsxNSXAfu4"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="9NFjvJ3eV5d4MejVWHpRRjdsxNSXAfu4"/>
-          </value>
-          <value id="iCzmmlSwKm3bX3WMsxz4kwcqQiKJv3f7" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="bPwPqfWCFG8iYQONS1BedGAStrfTJj1e"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="bPwPqfWCFG8iYQONS1BedGAStrfTJj1e"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="bPwPqfWCFG8iYQONS1BedGAStrfTJj1e"/>
-          </value>
-          <value id="StNx92AlTGOsCT9kCMvcITo8SEz2P00N" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="RjHDFsIRDeGVMzRQ6jjEoR9YRsDWcTfR"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="RjHDFsIRDeGVMzRQ6jjEoR9YRsDWcTfR"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="RjHDFsIRDeGVMzRQ6jjEoR9YRsDWcTfR"/>
+        <dataSetCombinations key="GDN753egXHBuQbxW70rcSGwpv5GGVdRG">
+          <value id="0AsMyAuqgBO4iCRVw2WFbMwUmRAfud6N" name="Data set">
+            <dataSets key="Qk0UHDs9JsPOjwPXD7FTLpRvy20qSom0" value="tbph7dpZqqJHJgaP5R5z1PAiMg2OeRwF"/>
+            <dataSets key="wOQOS4ZrnyglF6QeQ3YNOKP22G7lEGTT"/>
+            <dataSets key="1fD7iqzhm8Ku9ec7CQtqFEGFZvF9DIiQ" value="tbph7dpZqqJHJgaP5R5z1PAiMg2OeRwF"/>
+            <dataSets key="Nn0MAIcUNMfDPeFQio5Xzy6pl9WfS1Wy" value="tbph7dpZqqJHJgaP5R5z1PAiMg2OeRwF"/>
           </value>
         </dataSetCombinations>
-        <dataSetCombinations key="WBQgGgXBiisBeJ4cNfQIsW9t5Inrozzc">
-          <value id="rGfatXW1kq0gDzHV0bbFZv7Pd5yDVwGU" name="Data set">
-            <dataSets key="mxhDjq5vWGfBCPWIFY1LP4Pw1VhLRjtl" value="cSu32AYauY0mn8mBnyMZpEW6FNLtiwin"/>
-            <dataSets key="ScMfvQhqtoNNcfX7ewnbJojhvYbysAvU"/>
-            <dataSets key="DPBogZpSIjJjxztzBwRabOJ19kf9AqRe" value="cSu32AYauY0mn8mBnyMZpEW6FNLtiwin"/>
-            <dataSets key="JcA1GrXkC9K7bieO1vsilTB2w6c5L32r" value="cSu32AYauY0mn8mBnyMZpEW6FNLtiwin"/>
-          </value>
-          <value id="xOweMiF6VIln6v428d88apdT4nhDSFj3" name="Data set">
-            <dataSets key="mxhDjq5vWGfBCPWIFY1LP4Pw1VhLRjtl" value="0ZCOsIQU98VQ59VlMBqO47jffDpKoYiQ"/>
-            <dataSets key="ScMfvQhqtoNNcfX7ewnbJojhvYbysAvU"/>
-            <dataSets key="DPBogZpSIjJjxztzBwRabOJ19kf9AqRe" value="0ZCOsIQU98VQ59VlMBqO47jffDpKoYiQ"/>
-            <dataSets key="JcA1GrXkC9K7bieO1vsilTB2w6c5L32r" value="0ZCOsIQU98VQ59VlMBqO47jffDpKoYiQ"/>
-          </value>
-          <value id="AIi6Tuo6w4IA97IZUr3fBg3HGl9L62Qa" name="Data set">
-            <dataSets key="mxhDjq5vWGfBCPWIFY1LP4Pw1VhLRjtl" value="AxYkARshNd8vQls0DeZKKlJttMezLfwv"/>
-            <dataSets key="ScMfvQhqtoNNcfX7ewnbJojhvYbysAvU"/>
-            <dataSets key="DPBogZpSIjJjxztzBwRabOJ19kf9AqRe" value="AxYkARshNd8vQls0DeZKKlJttMezLfwv"/>
-            <dataSets key="JcA1GrXkC9K7bieO1vsilTB2w6c5L32r" value="AxYkARshNd8vQls0DeZKKlJttMezLfwv"/>
+        <dataSetCombinations key="NnY2YUoKA9WetWwron0o7dAYqrQlmrPp">
+          <value id="x4TijOOHtP0WnbRQ9IQxwPXzHqka7g5d" name="Dividieren-Success">
+            <dataSets key="7dqxjFIwyzj9cL8Egy8nVN8bpY0zh06i" value="UZZhgCZj0nfFSq1NaM3Qb5ZQMcvXZEMt"/>
+            <dataSets key="ppZSuO7KE5HZb2aeKR1mACbzZFJUN50M"/>
+            <dataSets key="1ysEYgv6Nls2IB3uaAGDTW8Z3pPSqiCS" value="UZZhgCZj0nfFSq1NaM3Qb5ZQMcvXZEMt"/>
+            <dataSets key="9ZzqogfyUAj7BLr0z1rLsot5SNDo2Ds4" value="UZZhgCZj0nfFSq1NaM3Qb5ZQMcvXZEMt"/>
           </value>
         </dataSetCombinations>
-        <dataSetCombinations key="7Q2qclELKiCIgP5JgoM1kgoPe9JCPdBZ">
-          <value id="yJMlOrsQwU3ZMo9eVnNhn9x7h8ydlF9K" name="Data set">
-            <dataSets key="l21aMyKLLhYzoqInDmfZt241F3ntZRnM" value="ZOQ38YzAH2u4ljV1NXCA5cSXdHlCvnq4"/>
-            <dataSets key="eieCWBY2wLO2GilAxOSePby5Vu5leYR8"/>
-            <dataSets key="5Nm73FxIfPwSL1rzgQWnHM9zLKMFSLO8" value="ZOQ38YzAH2u4ljV1NXCA5cSXdHlCvnq4"/>
-            <dataSets key="5hKMsQtUiaL2PvBstcSBnjaWzn7mOtKJ" value="ZOQ38YzAH2u4ljV1NXCA5cSXdHlCvnq4"/>
+        <dataSetCombinations key="VVn3Hn5taDr9okgaOY5nCvLoB5FOmTFd">
+          <value id="yfRsD2Hwy3kPnUE2kbzIdcIo2hIaQcRg" name="Multiplizieren-Success">
+            <dataSets key="akoPLPRdo45BgYx4RSezfyKNNYV8WoN4" value="Qk76rHUJuFhHYlegtvG7hoWsbOpmiJHa"/>
+            <dataSets key="U2XGwc3gs00UT6CoEQ6aAF4pXqIHmYjF"/>
+            <dataSets key="TEtC0oebtFc2dYcaoi5szKFDrkCR8fw7" value="Qk76rHUJuFhHYlegtvG7hoWsbOpmiJHa"/>
+            <dataSets key="R1YCOBHVXZUj6Fr9tCmxLi23Ji2m5hSh" value="Qk76rHUJuFhHYlegtvG7hoWsbOpmiJHa"/>
           </value>
-          <value id="snTmucoRc4zQGO5gmfrUy4WKg3qBv8Pl" name="Data set">
-            <dataSets key="l21aMyKLLhYzoqInDmfZt241F3ntZRnM" value="THeiuQF80A0jj69pArX9nBxTVoNVK6qd"/>
-            <dataSets key="eieCWBY2wLO2GilAxOSePby5Vu5leYR8"/>
-            <dataSets key="5Nm73FxIfPwSL1rzgQWnHM9zLKMFSLO8" value="THeiuQF80A0jj69pArX9nBxTVoNVK6qd"/>
-            <dataSets key="5hKMsQtUiaL2PvBstcSBnjaWzn7mOtKJ" value="THeiuQF80A0jj69pArX9nBxTVoNVK6qd"/>
-          </value>
-        </dataSetCombinations>
-        <dataSetCombinations key="zp3X0PbwE2P0aRYyURXt1CUSTYjVXQjM">
-          <value id="UaBF5g1YUFg92M0pLaQjas7ZXmcsVJL1" name="Data set">
-            <dataSets key="tRY5fy2IzxIRYQtbqziJnxGkLnnCxMiu" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="FHWCPFmWHF6AXgyLn7PZADpOzvvXbjWH"/>
-            <dataSets key="DBtIlLJQ7SxaBeshijna78a29CHgBQMU" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="BXxb5dazMw2UzZztnA9OJCycOT2snS55" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-          </value>
-          <value id="zqWmcMtKFk0tnjRoo2HspCAZndMLR7XE" name="Data set">
-            <dataSets key="tRY5fy2IzxIRYQtbqziJnxGkLnnCxMiu" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="FHWCPFmWHF6AXgyLn7PZADpOzvvXbjWH"/>
-            <dataSets key="DBtIlLJQ7SxaBeshijna78a29CHgBQMU" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="BXxb5dazMw2UzZztnA9OJCycOT2snS55" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
+          <value id="fbskYBOZJeE5rrBkqQPCzkhdOEFGpUAp" name="Data set">
+            <dataSets key="akoPLPRdo45BgYx4RSezfyKNNYV8WoN4" value="oAGObgx11kgB4XEYSCNXT6ZfPivzwyyA"/>
+            <dataSets key="U2XGwc3gs00UT6CoEQ6aAF4pXqIHmYjF"/>
+            <dataSets key="TEtC0oebtFc2dYcaoi5szKFDrkCR8fw7" value="oAGObgx11kgB4XEYSCNXT6ZfPivzwyyA"/>
+            <dataSets key="R1YCOBHVXZUj6Fr9tCmxLi23Ji2m5hSh" value="oAGObgx11kgB4XEYSCNXT6ZfPivzwyyA"/>
           </value>
         </dataSetCombinations>
-        <dataSetCombinations key="zUkJeHOLLolAZ2aYDamNFMxZEowuJ3l3">
-          <value id="AOzDeNA3tkVscRC3qTrMH52GAhaMVYA9" name="Data set">
-            <dataSets key="B5NyJ9sOGY7ZfuqAB1KoSRnLtDeOG605" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="hno0rAe55rrpIziA8o4TRtSEvqob60nJ"/>
-            <dataSets key="LPfScbDGkZX7VmFHjYdWCIJJDYxRVhlC" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="bZjkP7tcU6SQXiJG0jUN96zXmNuQ6ZTd" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
+        <dataSetCombinations key="ZjJFKfmK3843lv51DOjkQL1GmhHbfDCB">
+          <value id="FFWfDXUf8DYUDxshMeWvuwmX0HHJQW6w" name="Subtrahieren-Success">
+            <dataSets key="fqn62ufCN7J99MK23kDoQLLppN9ElOeH" value="8FZk9hxpL2e7hkXmMgSK68iEWJU7fZ9l"/>
+            <dataSets key="V6pvT758JTSCSPhjRjE9L2DDhopvUG7J"/>
+            <dataSets key="PTnL2DvpOibCFQW5GAA4ISLCQI2jxye4" value="8FZk9hxpL2e7hkXmMgSK68iEWJU7fZ9l"/>
+            <dataSets key="y6s1P5R4qLGNOiFSUvmLsza5QPC8Y05g" value="8FZk9hxpL2e7hkXmMgSK68iEWJU7fZ9l"/>
           </value>
-          <value id="VWg8P4LIyowP6FMV74gxnq4ASEufUtMf" name="Data set">
-            <dataSets key="B5NyJ9sOGY7ZfuqAB1KoSRnLtDeOG605" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="hno0rAe55rrpIziA8o4TRtSEvqob60nJ"/>
-            <dataSets key="LPfScbDGkZX7VmFHjYdWCIJJDYxRVhlC" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="bZjkP7tcU6SQXiJG0jUN96zXmNuQ6ZTd" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
+        </dataSetCombinations>
+        <dataSetCombinations key="QsvAGaGUlDmFBWuY1YDcfXvjK2JKiDyV">
+          <value id="AmgTza72bB5dBKx9ebmKqoOTJ7o7M9k1" name="Dividieren-Error">
+            <dataSets key="k28JayXus046DUgKcyUTuz1b0BOq01mm" value="s9SYLkdJ21kEdZagBVPcsj6Etai6ISMV"/>
+            <dataSets key="YWoMeybnC2b0aCI5kENKgxnkXCyGZ7D7"/>
+            <dataSets key="lMtbv0mO5eOvbkcfa9YTnHn3TKYRobJu" value="s9SYLkdJ21kEdZagBVPcsj6Etai6ISMV"/>
+            <dataSets key="dHu0u1ckx4R6gS3hXJHDgwYdjNpN0BjG" value="s9SYLkdJ21kEdZagBVPcsj6Etai6ISMV"/>
+          </value>
+        </dataSetCombinations>
+        <dataSetCombinations key="uaVqRscJf4m8ztD1Z9WySxn2Im5tkTDh">
+          <value id="irBlnlin4Vdk3jvLQKDrm7size0n1JHj" name="Addieren-Success">
+            <dataSets key="Ylj6r1CklME9iFXMhcTCyhExIdewBSjT" value="IiCtIbxW1KZZ6pw6nWzqzb0xYnMytmm9"/>
+            <dataSets key="hYQnnCtSBp4rhPd4TOH75x8F1w7YjlLI"/>
+            <dataSets key="RdeGFKCVRBjXMzAT0Ns419BtyBPAahHj" value="IiCtIbxW1KZZ6pw6nWzqzb0xYnMytmm9"/>
+            <dataSets key="3BdlroqadMBDjPOQGJyK0ywnfnX95xMu" value="IiCtIbxW1KZZ6pw6nWzqzb0xYnMytmm9"/>
+          </value>
+        </dataSetCombinations>
+        <dataSetCombinations key="Dkx2sxwAkulj1FroP18vkfEA0rew3GBl">
+          <value id="yRKMPiP9db7MJSTmKKGChBuzmq116VE3" name="Data set">
+            <dataSets key="qOY9UPLpIgiFKOOlYXTPnjQ4CdCn0wXC" value="vw7FIdFTIfuOb0YZ3RErMR75TUa8i0fy"/>
+            <dataSets key="FqSQccbVTjorzmKfBvxZ5KFDGxrYmmUP"/>
+            <dataSets key="wJW3ey0Kj6ntAoXKoNMmEwmHBoEZNGbV" value="vw7FIdFTIfuOb0YZ3RErMR75TUa8i0fy"/>
+            <dataSets key="vDuvDDGe64X0D3tMu1Ioa1NmzbuJM5FJ" value="vw7FIdFTIfuOb0YZ3RErMR75TUa8i0fy"/>
+          </value>
+        </dataSetCombinations>
+        <dataSetCombinations key="A5G6XvC4eRkF29uIsG4RiWZLmAViKvkf">
+          <value id="ULpLFnzQ614AbXvaQ00AjXa4ka7OApeO" name="Data set">
+            <dataSets key="uXv1ptzTQUSQKChbFJUw61qYpLo7LGBK" value="U8guVntcMvk8VZEuyJ5RgpPFpnImWI2g"/>
+            <dataSets key="h1lINadSH3wNzi6MvbrHq56x05SzNyVR"/>
+            <dataSets key="UYZ19X23WaJAzBRMQEtcWfuSPh5IWEGH" value="U8guVntcMvk8VZEuyJ5RgpPFpnImWI2g"/>
+            <dataSets key="w6KijRZBh841YrFwBl45QPylP3MWLLU3" value="U8guVntcMvk8VZEuyJ5RgpPFpnImWI2g"/>
           </value>
         </dataSetCombinations>
       </campaign>
@@ -637,102 +677,7 @@
     </testElements>
     <testElements xsi:type="yest:AutomationConfiguration" id="FGK3Y8iVE5j8hb70nceyXWxZbHv91pbt" name="Grundrechenarten XRay Cucumber" publisherId="com.smartesting.publishers.cucumberxray.CucumberxrayEditor">
       <metadata key="PublisherId" value="85d2cb36-66ad-44d8-9b50-318485d50886"/>
-      <campaign folders="ACgWyJAx2tp2mSjCE5P37dWYfeJWhjUB" dataSetCollections="yRLlwI6z3lxxytcD7B7WdnyqFdzpEbJ4">
-        <dataSetCombinations key="LMm5UwNLeMppkoTkfTHdIaFD9Zx2OWHY">
-          <value id="O4sEYRtK2VfFxN0Di0WbgspSuXdjnWUr" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="VH1tUcHxTidJE6JJh7NsckLtW18Ogv7H"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="VH1tUcHxTidJE6JJh7NsckLtW18Ogv7H"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="VH1tUcHxTidJE6JJh7NsckLtW18Ogv7H"/>
-          </value>
-          <value id="5v3mOoLHoPHxhcgLvEdU4dOevCDqxjZI" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="JG6P4cg6YR8a9wwbkSt4ZgqVSEV0a2Q9"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="JG6P4cg6YR8a9wwbkSt4ZgqVSEV0a2Q9"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="JG6P4cg6YR8a9wwbkSt4ZgqVSEV0a2Q9"/>
-          </value>
-          <value id="04V7yt0Ujt5iLLynQaA3DIkusMjBtXor" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="9NFjvJ3eV5d4MejVWHpRRjdsxNSXAfu4"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="9NFjvJ3eV5d4MejVWHpRRjdsxNSXAfu4"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="9NFjvJ3eV5d4MejVWHpRRjdsxNSXAfu4"/>
-          </value>
-          <value id="cTBYho2ExVynDV1yU7CKF0lh2DjitiX6" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="bPwPqfWCFG8iYQONS1BedGAStrfTJj1e"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="bPwPqfWCFG8iYQONS1BedGAStrfTJj1e"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="bPwPqfWCFG8iYQONS1BedGAStrfTJj1e"/>
-          </value>
-          <value id="ezB6zs5gpbr1pSlLZKGhwWwPk7gl64V2" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="RjHDFsIRDeGVMzRQ6jjEoR9YRsDWcTfR"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="RjHDFsIRDeGVMzRQ6jjEoR9YRsDWcTfR"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="RjHDFsIRDeGVMzRQ6jjEoR9YRsDWcTfR"/>
-          </value>
-        </dataSetCombinations>
-        <dataSetCombinations key="WBQgGgXBiisBeJ4cNfQIsW9t5Inrozzc">
-          <value id="4i0wlfeFmoBzDfhiXsJ5rOTNv3YRTpZw" name="Data set">
-            <dataSets key="mxhDjq5vWGfBCPWIFY1LP4Pw1VhLRjtl" value="cSu32AYauY0mn8mBnyMZpEW6FNLtiwin"/>
-            <dataSets key="ScMfvQhqtoNNcfX7ewnbJojhvYbysAvU"/>
-            <dataSets key="DPBogZpSIjJjxztzBwRabOJ19kf9AqRe" value="cSu32AYauY0mn8mBnyMZpEW6FNLtiwin"/>
-            <dataSets key="JcA1GrXkC9K7bieO1vsilTB2w6c5L32r" value="cSu32AYauY0mn8mBnyMZpEW6FNLtiwin"/>
-          </value>
-          <value id="kokBoSp33nu3GRh1TmK2S0cCYvrnX3sJ" name="Data set">
-            <dataSets key="mxhDjq5vWGfBCPWIFY1LP4Pw1VhLRjtl" value="0ZCOsIQU98VQ59VlMBqO47jffDpKoYiQ"/>
-            <dataSets key="ScMfvQhqtoNNcfX7ewnbJojhvYbysAvU"/>
-            <dataSets key="DPBogZpSIjJjxztzBwRabOJ19kf9AqRe" value="0ZCOsIQU98VQ59VlMBqO47jffDpKoYiQ"/>
-            <dataSets key="JcA1GrXkC9K7bieO1vsilTB2w6c5L32r" value="0ZCOsIQU98VQ59VlMBqO47jffDpKoYiQ"/>
-          </value>
-          <value id="wEFlTm0FVWEKWSBTSBzqZGe4fWYI9br8" name="Data set">
-            <dataSets key="mxhDjq5vWGfBCPWIFY1LP4Pw1VhLRjtl" value="AxYkARshNd8vQls0DeZKKlJttMezLfwv"/>
-            <dataSets key="ScMfvQhqtoNNcfX7ewnbJojhvYbysAvU"/>
-            <dataSets key="DPBogZpSIjJjxztzBwRabOJ19kf9AqRe" value="AxYkARshNd8vQls0DeZKKlJttMezLfwv"/>
-            <dataSets key="JcA1GrXkC9K7bieO1vsilTB2w6c5L32r" value="AxYkARshNd8vQls0DeZKKlJttMezLfwv"/>
-          </value>
-        </dataSetCombinations>
-        <dataSetCombinations key="7Q2qclELKiCIgP5JgoM1kgoPe9JCPdBZ">
-          <value id="z1ta3WViuEq8TXEUthktpvec4dRQ9ISP" name="Data set">
-            <dataSets key="l21aMyKLLhYzoqInDmfZt241F3ntZRnM" value="ZOQ38YzAH2u4ljV1NXCA5cSXdHlCvnq4"/>
-            <dataSets key="eieCWBY2wLO2GilAxOSePby5Vu5leYR8"/>
-            <dataSets key="5Nm73FxIfPwSL1rzgQWnHM9zLKMFSLO8" value="ZOQ38YzAH2u4ljV1NXCA5cSXdHlCvnq4"/>
-            <dataSets key="5hKMsQtUiaL2PvBstcSBnjaWzn7mOtKJ" value="ZOQ38YzAH2u4ljV1NXCA5cSXdHlCvnq4"/>
-          </value>
-          <value id="kNS6AFC7h1h5jSATsspnuMp605WbO1fX" name="Data set">
-            <dataSets key="l21aMyKLLhYzoqInDmfZt241F3ntZRnM" value="THeiuQF80A0jj69pArX9nBxTVoNVK6qd"/>
-            <dataSets key="eieCWBY2wLO2GilAxOSePby5Vu5leYR8"/>
-            <dataSets key="5Nm73FxIfPwSL1rzgQWnHM9zLKMFSLO8" value="THeiuQF80A0jj69pArX9nBxTVoNVK6qd"/>
-            <dataSets key="5hKMsQtUiaL2PvBstcSBnjaWzn7mOtKJ" value="THeiuQF80A0jj69pArX9nBxTVoNVK6qd"/>
-          </value>
-        </dataSetCombinations>
-        <dataSetCombinations key="zp3X0PbwE2P0aRYyURXt1CUSTYjVXQjM">
-          <value id="9s1Zg2OasYf2X86pPwddCR9ZgJErM4Sl" name="Data set">
-            <dataSets key="tRY5fy2IzxIRYQtbqziJnxGkLnnCxMiu" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="FHWCPFmWHF6AXgyLn7PZADpOzvvXbjWH"/>
-            <dataSets key="DBtIlLJQ7SxaBeshijna78a29CHgBQMU" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="BXxb5dazMw2UzZztnA9OJCycOT2snS55"/>
-          </value>
-          <value id="wRU0lAmgD0QolikQFbsiltwZnaVWBbFE" name="Data set">
-            <dataSets key="tRY5fy2IzxIRYQtbqziJnxGkLnnCxMiu" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="FHWCPFmWHF6AXgyLn7PZADpOzvvXbjWH"/>
-            <dataSets key="DBtIlLJQ7SxaBeshijna78a29CHgBQMU" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="BXxb5dazMw2UzZztnA9OJCycOT2snS55"/>
-          </value>
-        </dataSetCombinations>
-        <dataSetCombinations key="zUkJeHOLLolAZ2aYDamNFMxZEowuJ3l3">
-          <value id="s4HwLlutPDnMPboYzbgUiInv0O9y7siT" name="Data set">
-            <dataSets key="B5NyJ9sOGY7ZfuqAB1KoSRnLtDeOG605" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="hno0rAe55rrpIziA8o4TRtSEvqob60nJ"/>
-            <dataSets key="LPfScbDGkZX7VmFHjYdWCIJJDYxRVhlC" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="bZjkP7tcU6SQXiJG0jUN96zXmNuQ6ZTd" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-          </value>
-          <value id="ad6ruOVI9w7A2MJGTzS2mmuxkm9kMWS2" name="Data set">
-            <dataSets key="B5NyJ9sOGY7ZfuqAB1KoSRnLtDeOG605" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="hno0rAe55rrpIziA8o4TRtSEvqob60nJ"/>
-            <dataSets key="LPfScbDGkZX7VmFHjYdWCIJJDYxRVhlC" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="bZjkP7tcU6SQXiJG0jUN96zXmNuQ6ZTd" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-          </value>
-        </dataSetCombinations>
-      </campaign>
+      <campaign folders="ACgWyJAx2tp2mSjCE5P37dWYfeJWhjUB"/>
       <parameters name="descriptionLevel" value="LowLevelDescriptionKind"/>
       <parameters name="ProjectName" value="YestXray"/>
       <parameters name="LinkedIssueType" value="Story"/>
@@ -828,143 +773,9 @@
       <globalBefore/>
       <globalAfter/>
     </testElements>
-    <testElements xsi:type="yest:TestScenario" id="7Q2qclELKiCIgP5JgoM1kgoPe9JCPdBZ" name="Addieren-Success" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
-      <testActions id="l21aMyKLLhYzoqInDmfZt241F3ntZRnM" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
-      <testActions id="eieCWBY2wLO2GilAxOSePby5Vu5leYR8" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2"/>
-      <testActions id="5Nm73FxIfPwSL1rzgQWnHM9zLKMFSLO8" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
-        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
-      </testActions>
-      <testActions id="5hKMsQtUiaL2PvBstcSBnjaWzn7mOtKJ" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
-    </testElements>
-    <testElements xsi:type="yest:TestScenario" id="WBQgGgXBiisBeJ4cNfQIsW9t5Inrozzc" name="Subtrahieren-Success" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
-      <testActions id="mxhDjq5vWGfBCPWIFY1LP4Pw1VhLRjtl" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
-      <testActions id="ScMfvQhqtoNNcfX7ewnbJojhvYbysAvU" operation="J3jMh1tq1XNbStBg0kRQ3y2Upiv6nLtD"/>
-      <testActions id="DPBogZpSIjJjxztzBwRabOJ19kf9AqRe" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
-        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
-      </testActions>
-      <testActions id="JcA1GrXkC9K7bieO1vsilTB2w6c5L32r" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
-    </testElements>
-    <testElements xsi:type="yest:TestScenario" id="zp3X0PbwE2P0aRYyURXt1CUSTYjVXQjM" name="Dividieren-Error" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
-      <testActions id="tRY5fy2IzxIRYQtbqziJnxGkLnnCxMiu" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
-      <testActions id="FHWCPFmWHF6AXgyLn7PZADpOzvvXbjWH" operation="TSUO4TJo0BiNcqo9fdbHTb3IS3MNnTgU"/>
-      <testActions id="DBtIlLJQ7SxaBeshijna78a29CHgBQMU" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
-        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
-      </testActions>
-      <testActions id="BXxb5dazMw2UzZztnA9OJCycOT2snS55" operation="h4VGgPy0prXswtwX14JRJHEgIHnMgERW"/>
-    </testElements>
-    <testElements xsi:type="yest:TestScenario" id="LMm5UwNLeMppkoTkfTHdIaFD9Zx2OWHY" name="Multiplizieren-Success" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
-      <testActions id="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
-      <testActions id="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S" operation="qTYoPGrS1wDaRKmP5mpp5SS7bxoaH6On"/>
-      <testActions id="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
-        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
-      </testActions>
-      <testActions id="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
-    </testElements>
-    <testElements xsi:type="yest:TestScenario" id="zUkJeHOLLolAZ2aYDamNFMxZEowuJ3l3" name="Dividieren-Success" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
-      <testActions id="B5NyJ9sOGY7ZfuqAB1KoSRnLtDeOG605" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
-      <testActions id="hno0rAe55rrpIziA8o4TRtSEvqob60nJ" operation="TSUO4TJo0BiNcqo9fdbHTb3IS3MNnTgU"/>
-      <testActions id="LPfScbDGkZX7VmFHjYdWCIJJDYxRVhlC" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
-        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
-      </testActions>
-      <testActions id="bZjkP7tcU6SQXiJG0jUN96zXmNuQ6ZTd" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
-    </testElements>
     <testElements xsi:type="yest:PublisherConfiguration" id="nynuZV3ZR8M3uGBpKp5kHZ9QQ1k8YMJY" name="PublicationXray Test" publisherId="com.smartesting.publishers.xray.XrayEditor">
-      <campaign folders="ACgWyJAx2tp2mSjCE5P37dWYfeJWhjUB" dataSetCollections="yRLlwI6z3lxxytcD7B7WdnyqFdzpEbJ4">
+      <campaign folders="ACgWyJAx2tp2mSjCE5P37dWYfeJWhjUB">
         <metadata key="useAllDataSetCollections" value="false"/>
-        <dataSetCombinations key="LMm5UwNLeMppkoTkfTHdIaFD9Zx2OWHY">
-          <value id="HxG6gyNtOZFWeTXVVwJmLrqs7dNZ14Ft" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="VH1tUcHxTidJE6JJh7NsckLtW18Ogv7H"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="VH1tUcHxTidJE6JJh7NsckLtW18Ogv7H"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="VH1tUcHxTidJE6JJh7NsckLtW18Ogv7H"/>
-          </value>
-          <value id="LbKVf2txGiV8awHmbeCg9aT9mgteRhaV" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="JG6P4cg6YR8a9wwbkSt4ZgqVSEV0a2Q9"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="JG6P4cg6YR8a9wwbkSt4ZgqVSEV0a2Q9"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="JG6P4cg6YR8a9wwbkSt4ZgqVSEV0a2Q9"/>
-          </value>
-          <value id="mHe2wkIp69RYirKHhFVqwMaS6gGed4Nt" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="9NFjvJ3eV5d4MejVWHpRRjdsxNSXAfu4"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="9NFjvJ3eV5d4MejVWHpRRjdsxNSXAfu4"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="9NFjvJ3eV5d4MejVWHpRRjdsxNSXAfu4"/>
-          </value>
-          <value id="GH7QwgkNYSCsjdF6OjoKvmQZE18alISk" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="bPwPqfWCFG8iYQONS1BedGAStrfTJj1e"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="bPwPqfWCFG8iYQONS1BedGAStrfTJj1e"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="bPwPqfWCFG8iYQONS1BedGAStrfTJj1e"/>
-          </value>
-          <value id="MpfUZuKdfwTPMzOq0jzS6yEhU6SWSzwv" name="Data set">
-            <dataSets key="O4RNCW7vw3MOGHiruYcoX6z8FVbDDMQz" value="RjHDFsIRDeGVMzRQ6jjEoR9YRsDWcTfR"/>
-            <dataSets key="Sbb5IClXSHlfWqiyc6P7RfF49F28rs1S"/>
-            <dataSets key="PlFu9NQfPzIfCeBvjIMvzY4CgveEOrcj" value="RjHDFsIRDeGVMzRQ6jjEoR9YRsDWcTfR"/>
-            <dataSets key="J3emMv83exozdtSuLvE4Dpxf3xlmao1Q" value="RjHDFsIRDeGVMzRQ6jjEoR9YRsDWcTfR"/>
-          </value>
-        </dataSetCombinations>
-        <dataSetCombinations key="WBQgGgXBiisBeJ4cNfQIsW9t5Inrozzc">
-          <value id="ADmjeXjSZDoYiIbh82Z4ULlQwTVOzVXS" name="Data set">
-            <dataSets key="mxhDjq5vWGfBCPWIFY1LP4Pw1VhLRjtl" value="cSu32AYauY0mn8mBnyMZpEW6FNLtiwin"/>
-            <dataSets key="ScMfvQhqtoNNcfX7ewnbJojhvYbysAvU"/>
-            <dataSets key="DPBogZpSIjJjxztzBwRabOJ19kf9AqRe" value="cSu32AYauY0mn8mBnyMZpEW6FNLtiwin"/>
-            <dataSets key="JcA1GrXkC9K7bieO1vsilTB2w6c5L32r" value="cSu32AYauY0mn8mBnyMZpEW6FNLtiwin"/>
-          </value>
-          <value id="AlgghThPovUPOnqjQzBuBRseQCFlmyZI" name="Data set">
-            <dataSets key="mxhDjq5vWGfBCPWIFY1LP4Pw1VhLRjtl" value="0ZCOsIQU98VQ59VlMBqO47jffDpKoYiQ"/>
-            <dataSets key="ScMfvQhqtoNNcfX7ewnbJojhvYbysAvU"/>
-            <dataSets key="DPBogZpSIjJjxztzBwRabOJ19kf9AqRe" value="0ZCOsIQU98VQ59VlMBqO47jffDpKoYiQ"/>
-            <dataSets key="JcA1GrXkC9K7bieO1vsilTB2w6c5L32r" value="0ZCOsIQU98VQ59VlMBqO47jffDpKoYiQ"/>
-          </value>
-          <value id="YGxNYT70YGuvbHm1B2ERmOQr5YaUOPHa" name="Data set">
-            <dataSets key="mxhDjq5vWGfBCPWIFY1LP4Pw1VhLRjtl" value="AxYkARshNd8vQls0DeZKKlJttMezLfwv"/>
-            <dataSets key="ScMfvQhqtoNNcfX7ewnbJojhvYbysAvU"/>
-            <dataSets key="DPBogZpSIjJjxztzBwRabOJ19kf9AqRe" value="AxYkARshNd8vQls0DeZKKlJttMezLfwv"/>
-            <dataSets key="JcA1GrXkC9K7bieO1vsilTB2w6c5L32r" value="AxYkARshNd8vQls0DeZKKlJttMezLfwv"/>
-          </value>
-        </dataSetCombinations>
-        <dataSetCombinations key="7Q2qclELKiCIgP5JgoM1kgoPe9JCPdBZ">
-          <value id="fEKtwehkjSft2oHoXZsUXjbMx8w2ZkMU" name="Data set">
-            <dataSets key="l21aMyKLLhYzoqInDmfZt241F3ntZRnM" value="ZOQ38YzAH2u4ljV1NXCA5cSXdHlCvnq4"/>
-            <dataSets key="eieCWBY2wLO2GilAxOSePby5Vu5leYR8"/>
-            <dataSets key="5Nm73FxIfPwSL1rzgQWnHM9zLKMFSLO8" value="ZOQ38YzAH2u4ljV1NXCA5cSXdHlCvnq4"/>
-            <dataSets key="5hKMsQtUiaL2PvBstcSBnjaWzn7mOtKJ" value="ZOQ38YzAH2u4ljV1NXCA5cSXdHlCvnq4"/>
-          </value>
-          <value id="gJQVDAx60FUL7VPU3fFsqsya7R7vO0iE" name="Data set">
-            <dataSets key="l21aMyKLLhYzoqInDmfZt241F3ntZRnM" value="THeiuQF80A0jj69pArX9nBxTVoNVK6qd"/>
-            <dataSets key="eieCWBY2wLO2GilAxOSePby5Vu5leYR8"/>
-            <dataSets key="5Nm73FxIfPwSL1rzgQWnHM9zLKMFSLO8" value="THeiuQF80A0jj69pArX9nBxTVoNVK6qd"/>
-            <dataSets key="5hKMsQtUiaL2PvBstcSBnjaWzn7mOtKJ" value="THeiuQF80A0jj69pArX9nBxTVoNVK6qd"/>
-          </value>
-        </dataSetCombinations>
-        <dataSetCombinations key="zp3X0PbwE2P0aRYyURXt1CUSTYjVXQjM">
-          <value id="CLEe2PX6y06nPlCIG1ZziBGBawsnjbc4" name="Data set">
-            <dataSets key="tRY5fy2IzxIRYQtbqziJnxGkLnnCxMiu" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="FHWCPFmWHF6AXgyLn7PZADpOzvvXbjWH"/>
-            <dataSets key="DBtIlLJQ7SxaBeshijna78a29CHgBQMU" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="BXxb5dazMw2UzZztnA9OJCycOT2snS55"/>
-          </value>
-          <value id="vgda1Y81z3k6btrWLnIgmFoLe7VFX3c4" name="Data set">
-            <dataSets key="tRY5fy2IzxIRYQtbqziJnxGkLnnCxMiu" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="FHWCPFmWHF6AXgyLn7PZADpOzvvXbjWH"/>
-            <dataSets key="DBtIlLJQ7SxaBeshijna78a29CHgBQMU" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="BXxb5dazMw2UzZztnA9OJCycOT2snS55"/>
-          </value>
-        </dataSetCombinations>
-        <dataSetCombinations key="zUkJeHOLLolAZ2aYDamNFMxZEowuJ3l3">
-          <value id="naLjVWIWp7AFMjerWisq51WCsCjjbt6U" name="Data set">
-            <dataSets key="B5NyJ9sOGY7ZfuqAB1KoSRnLtDeOG605" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="hno0rAe55rrpIziA8o4TRtSEvqob60nJ"/>
-            <dataSets key="LPfScbDGkZX7VmFHjYdWCIJJDYxRVhlC" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-            <dataSets key="bZjkP7tcU6SQXiJG0jUN96zXmNuQ6ZTd" value="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ"/>
-          </value>
-          <value id="TLlVVG26RmNZuUSF7BXAjzHxv1DuQ7TG" name="Data set">
-            <dataSets key="B5NyJ9sOGY7ZfuqAB1KoSRnLtDeOG605" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="hno0rAe55rrpIziA8o4TRtSEvqob60nJ"/>
-            <dataSets key="LPfScbDGkZX7VmFHjYdWCIJJDYxRVhlC" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-            <dataSets key="bZjkP7tcU6SQXiJG0jUN96zXmNuQ6ZTd" value="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP"/>
-          </value>
-        </dataSetCombinations>
       </campaign>
       <parameters name="descriptionLevel" value="LowLevelDescriptionKind"/>
       <parameters name="ProjectName" value="YestXray"/>
@@ -975,6 +786,70 @@
       <parameters name="LinkedIssueType" value="Story"/>
       <parameters name="TestConfigurationMap" value="{&quot;XrayServerAddress&quot;:&quot;https://mbtdemo.atlassian.net&quot;,&quot;zUkJeHOLLolAZ2aYDamNFMxZEowuJ3l3&quot;:[&quot;YES-105&quot;,&quot;YES-106&quot;],&quot;WBQgGgXBiisBeJ4cNfQIsW9t5Inrozzc&quot;:[&quot;YES-112&quot;,&quot;YES-113&quot;,&quot;YES-114&quot;],&quot;7Q2qclELKiCIgP5JgoM1kgoPe9JCPdBZ&quot;:[&quot;YES-101&quot;,&quot;YES-102&quot;],&quot;LMm5UwNLeMppkoTkfTHdIaFD9Zx2OWHY&quot;:[&quot;YES-107&quot;,&quot;YES-108&quot;,&quot;YES-109&quot;,&quot;YES-110&quot;,&quot;YES-111&quot;],&quot;zp3X0PbwE2P0aRYyURXt1CUSTYjVXQjM&quot;:[&quot;YES-103&quot;,&quot;YES-104&quot;]}"/>
       <parameters name="DataCombinationProcessing" value="MultiTest"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="uaVqRscJf4m8ztD1Z9WySxn2Im5tkTDh" name="Addieren-Success" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
+      <testActions id="Ylj6r1CklME9iFXMhcTCyhExIdewBSjT" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="hYQnnCtSBp4rhPd4TOH75x8F1w7YjlLI" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2"/>
+      <testActions id="RdeGFKCVRBjXMzAT0Ns419BtyBPAahHj" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+      </testActions>
+      <testActions id="3BdlroqadMBDjPOQGJyK0ywnfnX95xMu" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="ZjJFKfmK3843lv51DOjkQL1GmhHbfDCB" name="Subtrahieren-Success" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
+      <testActions id="fqn62ufCN7J99MK23kDoQLLppN9ElOeH" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="V6pvT758JTSCSPhjRjE9L2DDhopvUG7J" operation="J3jMh1tq1XNbStBg0kRQ3y2Upiv6nLtD"/>
+      <testActions id="PTnL2DvpOibCFQW5GAA4ISLCQI2jxye4" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+      </testActions>
+      <testActions id="y6s1P5R4qLGNOiFSUvmLsza5QPC8Y05g" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="Dkx2sxwAkulj1FroP18vkfEA0rew3GBl" name="Multiplizieren-Success" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
+      <testActions id="qOY9UPLpIgiFKOOlYXTPnjQ4CdCn0wXC" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="FqSQccbVTjorzmKfBvxZ5KFDGxrYmmUP" operation="qTYoPGrS1wDaRKmP5mpp5SS7bxoaH6On"/>
+      <testActions id="wJW3ey0Kj6ntAoXKoNMmEwmHBoEZNGbV" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+      </testActions>
+      <testActions id="vDuvDDGe64X0D3tMu1Ioa1NmzbuJM5FJ" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="NnY2YUoKA9WetWwron0o7dAYqrQlmrPp" name="Dividieren-Success" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
+      <testActions id="7dqxjFIwyzj9cL8Egy8nVN8bpY0zh06i" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="ppZSuO7KE5HZb2aeKR1mACbzZFJUN50M" operation="TSUO4TJo0BiNcqo9fdbHTb3IS3MNnTgU"/>
+      <testActions id="1ysEYgv6Nls2IB3uaAGDTW8Z3pPSqiCS" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+      </testActions>
+      <testActions id="9ZzqogfyUAj7BLr0z1rLsot5SNDo2Ds4" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="GDN753egXHBuQbxW70rcSGwpv5GGVdRG" name="Addieren-Success1" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
+      <testActions id="Qk0UHDs9JsPOjwPXD7FTLpRvy20qSom0" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="wOQOS4ZrnyglF6QeQ3YNOKP22G7lEGTT" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2"/>
+      <testActions id="1fD7iqzhm8Ku9ec7CQtqFEGFZvF9DIiQ" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+      </testActions>
+      <testActions id="Nn0MAIcUNMfDPeFQio5Xzy6pl9WfS1Wy" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="A5G6XvC4eRkF29uIsG4RiWZLmAViKvkf" name="Subtrahieren-Success1" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
+      <testActions id="uXv1ptzTQUSQKChbFJUw61qYpLo7LGBK" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="h1lINadSH3wNzi6MvbrHq56x05SzNyVR" operation="J3jMh1tq1XNbStBg0kRQ3y2Upiv6nLtD"/>
+      <testActions id="UYZ19X23WaJAzBRMQEtcWfuSPh5IWEGH" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+      </testActions>
+      <testActions id="w6KijRZBh841YrFwBl45QPylP3MWLLU3" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="VVn3Hn5taDr9okgaOY5nCvLoB5FOmTFd" name="Multiplizieren-Success1" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
+      <testActions id="akoPLPRdo45BgYx4RSezfyKNNYV8WoN4" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="U2XGwc3gs00UT6CoEQ6aAF4pXqIHmYjF" operation="qTYoPGrS1wDaRKmP5mpp5SS7bxoaH6On"/>
+      <testActions id="TEtC0oebtFc2dYcaoi5szKFDrkCR8fw7" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+      </testActions>
+      <testActions id="R1YCOBHVXZUj6Fr9tCmxLi23Ji2m5hSh" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="QsvAGaGUlDmFBWuY1YDcfXvjK2JKiDyV" name="Dividieren-Error" associatedWorkflow="dpQMPsW2W3pnZBLw3PPddJ7vB273q95S">
+      <testActions id="k28JayXus046DUgKcyUTuz1b0BOq01mm" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="YWoMeybnC2b0aCI5kENKgxnkXCyGZ7D7" operation="TSUO4TJo0BiNcqo9fdbHTb3IS3MNnTgU"/>
+      <testActions id="lMtbv0mO5eOvbkcfa9YTnHn3TKYRobJu" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+      </testActions>
+      <testActions id="dHu0u1ckx4R6gS3hXJHDgwYdjNpN0BjG" operation="h4VGgPy0prXswtwX14JRJHEgIHnMgERW"/>
     </testElements>
   </subFolders>
   <testElements xsi:type="yest:TestOperation" id="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z">
@@ -1095,11 +970,6 @@
             <operand xsi:type="yest:TextLiteral" value="Dividieren"/>
           </definition>
         </values>
-        <values id="E8jUUGp3S7RsvEMKR0JfYqPyDt6e5Bgz">
-          <definition operator="NOT_EQUAL">
-            <operand xsi:type="yest:TextLiteral" value="Dividieren"/>
-          </definition>
-        </values>
       </datas>
       <datas xsi:type="yest:DesignData" name="IntB" id="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK">
         <values id="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd">
@@ -1118,173 +988,88 @@
   <implementationDataDictionary id="CsA8kwTBHEqWOPVGmILTOGmx1aC5H16D" name="#implementationDataDictionary">
     <subCategories xsi:type="yest:ImplementationDataCategory" id="oylGBKnSaVvER9o1DrRL8qHmmYoouITE" name="Taschenrechner">
       <datas xsi:type="yest:ImplementationData" name="Ergebnis" id="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP">
-        <values id="YCOc9LSeFrIw6Zyc5rWV7uPFFGbyhW7R">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="18"/>
-          </definition>
-        </values>
-        <values id="gi7IqDlhTWYJgkMTxcJ8OvyZV59f3Tbg">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="7"/>
-          </definition>
-        </values>
-        <values id="gPLfV9aCfvRMLWZBogHNh5X4ywvCOppK">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="2"/>
-          </definition>
-        </values>
-        <values id="TVzQY536slepf7WiGSArOIzjA72MV3sb">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="13"/>
-          </definition>
-        </values>
-        <values id="dfxru74WXgpMQ6YkPf61H5KrGh8nwmVq">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="1"/>
-          </definition>
-        </values>
-        <values id="j92sDgEIrVIMRhmow8B72g2yBeMoMMgf">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="12"/>
-          </definition>
-        </values>
-        <values id="6uvRnEb8sbZ7tq0NwoyRHyt12AoWfmjC">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="11"/>
-          </definition>
-        </values>
-        <values id="r3Fyg41140cUndp7JwjOPVXAzzY2cw7F">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="63"/>
-          </definition>
-        </values>
-        <values id="G0BCglo5wVDQKzOkJlhSptGVo0OqygSC">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="-2"/>
-          </definition>
-        </values>
-        <values id="IYRflOZiQ7qZZEj9HVUhbDuP6YNeVWR1">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="0"/>
-          </definition>
-        </values>
-        <values id="KJ5jTf7j6esQgmjItEhdibhCevRvOhrW">
+        <values id="fzJ944KvwYusWWLRRRnKk4HjzEr4koOP">
           <definition>
             <operand xsi:type="yest:TextLiteral" value="5"/>
           </definition>
         </values>
-        <values id="WYbgMUCWqCmzn96OJRf5XhGgniKgSmYx">
+        <values id="d9FNCF98ReVUeVGQmzPmkv7mrAj3JA01">
           <definition>
-            <operand xsi:type="yest:TextLiteral" value="Error"/>
+            <operand xsi:type="yest:TextLiteral" value="2"/>
           </definition>
         </values>
-        <values id="UKylrH5rP4TfxPmGdkXycDhJE3rU24Z7">
+        <values id="L6EMXdSzhDO8AgV3PyYXIsZoIMX8A1em">
           <definition>
-            <operand xsi:type="yest:TextLiteral" value="4"/>
+            <operand xsi:type="yest:TextLiteral" value="12"/>
           </definition>
         </values>
-        <values id="TAA1fEPRE04jGDB1jH1Cf6gvfKNFR5Nl">
+        <values id="qgZzxr5AJdsP7AG2pnMwHJ9Mfv2ZLPmk">
+          <definition>
+            <operand xsi:type="yest:TextLiteral" value="Infinity"/>
+          </definition>
+        </values>
+        <values id="NYM2J4MmMW1dGlNNPeKHGztbmCLwnIlZ">
+          <definition>
+            <operand xsi:type="yest:TextLiteral" value="36"/>
+          </definition>
+        </values>
+        <values id="S4KG6LSFEZEu2QyfQIi8j1m0fooCIMdh">
+          <definition>
+            <operand xsi:type="yest:TextLiteral" value="0"/>
+          </definition>
+        </values>
+        <values id="z2XJBJYIwk7UpYp0zVyP9Y1nA2SPxVBM">
           <definition>
             <operand xsi:type="yest:TextLiteral" value="8"/>
           </definition>
         </values>
       </datas>
       <datas xsi:type="yest:ImplementationData" name="IntA" id="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE">
-        <values id="eKnFaLOgoGUENJfMlwNiXG7RKiBp3aqO">
+        <values id="WgIL4rGfAFun5iGk3H8yt4k1ZKWTngUz">
           <definition>
             <operand xsi:type="yest:TextLiteral" value="5"/>
           </definition>
         </values>
-        <values id="MbXeJi7xMDxhnnUsHe5NPtlM7ORiqy7b">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="3"/>
-          </definition>
-        </values>
-        <values id="LNTKxxsYHqdBGvrnNqZGf8nrF4IrmrPy">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="9"/>
-          </definition>
-        </values>
-        <values id="cYFGbWfLixjjlCill8k4toxoVz0El9GJ">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="8"/>
-          </definition>
-        </values>
-        <values id="aEItUPPpd1q4Zsqk6G8YdIfOXe2vtKWk">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="1"/>
-          </definition>
-        </values>
-        <values id="V9qpmn7S7q9x4FBkQdDlI4ucA3lsO9mS">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="2"/>
-          </definition>
-        </values>
-        <values id="9k2KBjuE7pmRbodHVGxwAWeuRfq5Fq03">
+        <values id="MztsL2a8gINNFSv3f6hP1mn81WcYHgjv">
           <definition>
             <operand xsi:type="yest:TextLiteral" value="4"/>
           </definition>
         </values>
-        <values id="DZCFE087A2tV61C5L6wdqe3bdYS9qohq">
+        <values id="C4InNTTv2H7TfCIiBzbRGeRSmXFNqxiA">
           <definition>
-            <operand xsi:type="yest:TextLiteral" value="6"/>
+            <operand xsi:type="yest:TextLiteral" value="8"/>
           </definition>
         </values>
-        <values id="e94zwwftoNbRnLBkqC1YVgsOSPhWpCbi">
+        <values id="gK9afZyu8kqL9kwNZ2iM9cKxD9Zhu0Ls">
           <definition>
-            <operand xsi:type="yest:TextLiteral" value="7"/>
+            <operand xsi:type="yest:TextLiteral" value="2"/>
           </definition>
         </values>
       </datas>
       <datas xsi:type="yest:ImplementationData" name="IntB" id="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn">
-        <values id="ACZa6BN1F62KSxmcNBVazjPMVkHWHuZY">
+        <values id="mjosG8Z62S1Hb15iBYPUQTuSTimhH9B5">
           <definition>
-            <operand xsi:type="yest:TextLiteral" value="8"/>
+            <operand xsi:type="yest:TextLiteral" value="0"/>
           </definition>
         </values>
-        <values id="Pl3875njUyOj4L6bxWEpSBXl7isA03tz">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="6"/>
-          </definition>
-        </values>
-        <values id="k8A78zMXJMrUFD01sH6bvuDGK1axwVIk">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="2"/>
-          </definition>
-        </values>
-        <values id="h041Pxgfd2vQgFvskYKBTTXODlA5shEP">
+        <values id="qMf1e5YrFmLCGb4XuAZLboEmnocLoDSi">
           <definition>
             <operand xsi:type="yest:TextLiteral" value="4"/>
           </definition>
         </values>
-        <values id="D1p7ZJBWmm5NCmjDNTo2ISpQzBunuWSo">
+        <values id="lSNKhUqoZBMSUdd4dJqR3GQHiRWuzanV">
           <definition>
-            <operand xsi:type="yest:TextLiteral" value="7"/>
+            <operand xsi:type="yest:TextLiteral" value="6"/>
           </definition>
         </values>
-        <values id="3gV7MxEZPYgyQvPVnLrWyOVpQL0by5tt">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="1"/>
-          </definition>
-        </values>
-        <values id="8XUDoZAHU6ZkF6YgBYsPiV1JgaJl9RiY">
+        <values id="0M62Ps4vpbV0A08Xv7kowSQ3CDKLWj5b">
           <definition>
             <operand xsi:type="yest:TextLiteral" value="3"/>
           </definition>
         </values>
-        <values id="BZtZ60VDC4U4QScdq4VElX9zg9Vg2NwK">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="5"/>
-          </definition>
-        </values>
-        <values id="WKk0K49zjo8gWIt8hfE4K8xc8Amc0qwk">
+        <values id="DKnGA9WF5nxirCbjR4XRKBowvCGatZHE">
           <definition>
             <operand xsi:type="yest:TextLiteral" value="9"/>
-          </definition>
-        </values>
-        <values id="nZ3BZYgzgdNL8QD1eTgxwJWzvrmVv7q0">
-          <definition>
-            <operand xsi:type="yest:TextLiteral" value="0"/>
           </definition>
         </values>
       </datas>
@@ -1292,115 +1077,69 @@
   </implementationDataDictionary>
   <dataSetCatalog name="#catalog" id="ddfAJHsAF01s7FtbYDcvVHxV4eWjUxF3">
     <subCategories name="Taschenrechner" id="mYh2cMnfymPSwqZnNa2wZndEG0Rbmbr0">
-      <dataSetCollections name="Taschenrechner Data Sets" id="yRLlwI6z3lxxytcD7B7WdnyqFdzpEbJ4">
-        <dataSets name="Data set" id="ZOQ38YzAH2u4ljV1NXCA5cSXdHlCvnq4">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="7izPQD3vP1Hb3aD702k6bj3HoCGZQLjz"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="eKnFaLOgoGUENJfMlwNiXG7RKiBp3aqO"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="ACZa6BN1F62KSxmcNBVazjPMVkHWHuZY"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="TVzQY536slepf7WiGSArOIzjA72MV3sb"/>
-        </dataSets>
-        <dataSets name="Data set" id="VH1tUcHxTidJE6JJh7NsckLtW18Ogv7H">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="TdBsbsWYxsRfujw18Ip61JUETz5vk2a0"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="MbXeJi7xMDxhnnUsHe5NPtlM7ORiqy7b"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="Pl3875njUyOj4L6bxWEpSBXl7isA03tz"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="YCOc9LSeFrIw6Zyc5rWV7uPFFGbyhW7R"/>
-        </dataSets>
-        <dataSets name="Data set" id="cSu32AYauY0mn8mBnyMZpEW6FNLtiwin">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="Rdk9tZbIxpeZbMhKB6Oqcxq4P5qlKp0N"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="LNTKxxsYHqdBGvrnNqZGf8nrF4IrmrPy"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="k8A78zMXJMrUFD01sH6bvuDGK1axwVIk"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="gi7IqDlhTWYJgkMTxcJ8OvyZV59f3Tbg"/>
-        </dataSets>
-        <dataSets name="Data set" id="WJwhcqrSkSO1adPvvStGiO3di3S2CRpQ">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="QCVWuBh1Y42S9H89cIx7VDzWUE0Y69q1"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="cYFGbWfLixjjlCill8k4toxoVz0El9GJ"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="h041Pxgfd2vQgFvskYKBTTXODlA5shEP"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="gPLfV9aCfvRMLWZBogHNh5X4ywvCOppK"/>
-        </dataSets>
-        <dataSets name="Data set" id="JG6P4cg6YR8a9wwbkSt4ZgqVSEV0a2Q9">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="TdBsbsWYxsRfujw18Ip61JUETz5vk2a0"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="aEItUPPpd1q4Zsqk6G8YdIfOXe2vtKWk"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="D1p7ZJBWmm5NCmjDNTo2ISpQzBunuWSo"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="gi7IqDlhTWYJgkMTxcJ8OvyZV59f3Tbg"/>
-        </dataSets>
-        <dataSets name="Data set" id="0ZCOsIQU98VQ59VlMBqO47jffDpKoYiQ">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="Rdk9tZbIxpeZbMhKB6Oqcxq4P5qlKp0N"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="V9qpmn7S7q9x4FBkQdDlI4ucA3lsO9mS"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="3gV7MxEZPYgyQvPVnLrWyOVpQL0by5tt"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="dfxru74WXgpMQ6YkPf61H5KrGh8nwmVq"/>
-        </dataSets>
-        <dataSets name="Data set" id="9NFjvJ3eV5d4MejVWHpRRjdsxNSXAfu4">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="TdBsbsWYxsRfujw18Ip61JUETz5vk2a0"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="9k2KBjuE7pmRbodHVGxwAWeuRfq5Fq03"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="8XUDoZAHU6ZkF6YgBYsPiV1JgaJl9RiY"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="j92sDgEIrVIMRhmow8B72g2yBeMoMMgf"/>
-        </dataSets>
-        <dataSets name="Data set" id="THeiuQF80A0jj69pArX9nBxTVoNVK6qd">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="7izPQD3vP1Hb3aD702k6bj3HoCGZQLjz"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="DZCFE087A2tV61C5L6wdqe3bdYS9qohq"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="BZtZ60VDC4U4QScdq4VElX9zg9Vg2NwK"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="6uvRnEb8sbZ7tq0NwoyRHyt12AoWfmjC"/>
-        </dataSets>
-        <dataSets name="Data set" id="bPwPqfWCFG8iYQONS1BedGAStrfTJj1e">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="TdBsbsWYxsRfujw18Ip61JUETz5vk2a0"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="e94zwwftoNbRnLBkqC1YVgsOSPhWpCbi"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="WKk0K49zjo8gWIt8hfE4K8xc8Amc0qwk"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="r3Fyg41140cUndp7JwjOPVXAzzY2cw7F"/>
-        </dataSets>
-        <dataSets name="Data set" id="AxYkARshNd8vQls0DeZKKlJttMezLfwv">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="Rdk9tZbIxpeZbMhKB6Oqcxq4P5qlKp0N"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="e94zwwftoNbRnLBkqC1YVgsOSPhWpCbi"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="WKk0K49zjo8gWIt8hfE4K8xc8Amc0qwk"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="G0BCglo5wVDQKzOkJlhSptGVo0OqygSC"/>
-        </dataSets>
-        <dataSets name="Data set" id="RjHDFsIRDeGVMzRQ6jjEoR9YRsDWcTfR">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="TdBsbsWYxsRfujw18Ip61JUETz5vk2a0"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="eKnFaLOgoGUENJfMlwNiXG7RKiBp3aqO"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="nZ3BZYgzgdNL8QD1eTgxwJWzvrmVv7q0"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="IYRflOZiQ7qZZEj9HVUhbDuP6YNeVWR1"/>
-        </dataSets>
-        <dataSets name="Data set" id="5MKwvKpNrDYCx1UrWaN1ByqOCjhzTWzP">
-          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="QCVWuBh1Y42S9H89cIx7VDzWUE0Y69q1"/>
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="9k2KBjuE7pmRbodHVGxwAWeuRfq5Fq03"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="k8A78zMXJMrUFD01sH6bvuDGK1axwVIk"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="gPLfV9aCfvRMLWZBogHNh5X4ywvCOppK"/>
-        </dataSets>
-      </dataSetCollections>
-      <dataSetCollections name="Riteshs Data Set" id="r5rKCSlOWnzXGpkaFsQMb5AKRMFlRYAL">
-        <dataSets name="Addieren-Success" id="JHKM3k4fPBW1aq4U5I3lTjDvPNqNzpZ3">
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="eKnFaLOgoGUENJfMlwNiXG7RKiBp3aqO"/>
+      <dataSetCollections name="Taschenrechner Daten" id="IunXbXAombI6xeazbqB9PranVq2yZskX">
+        <dataSets name="Addieren-Success" id="IiCtIbxW1KZZ6pw6nWzqzb0xYnMytmm9">
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="WgIL4rGfAFun5iGk3H8yt4k1ZKWTngUz"/>
           <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="7izPQD3vP1Hb3aD702k6bj3HoCGZQLjz"/>
           <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="nZ3BZYgzgdNL8QD1eTgxwJWzvrmVv7q0"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="KJ5jTf7j6esQgmjItEhdibhCevRvOhrW"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="mjosG8Z62S1Hb15iBYPUQTuSTimhH9B5"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="fzJ944KvwYusWWLRRRnKk4HjzEr4koOP"/>
         </dataSets>
-        <dataSets name="Dividieren-Error" id="1hKFIInb3q0EalZSxjnWl6A9kB7V2a4K">
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="DZCFE087A2tV61C5L6wdqe3bdYS9qohq"/>
+        <dataSets name="Dividieren-Error" id="s9SYLkdJ21kEdZagBVPcsj6Etai6ISMV">
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="MztsL2a8gINNFSv3f6hP1mn81WcYHgjv"/>
           <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="QCVWuBh1Y42S9H89cIx7VDzWUE0Y69q1"/>
           <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="nZ3BZYgzgdNL8QD1eTgxwJWzvrmVv7q0"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="WYbgMUCWqCmzn96OJRf5XhGgniKgSmYx"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="mjosG8Z62S1Hb15iBYPUQTuSTimhH9B5"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="qgZzxr5AJdsP7AG2pnMwHJ9Mfv2ZLPmk"/>
         </dataSets>
-        <dataSets name="Dividieren-Success" id="DDgKzm54mtyOfpMD5oUh1MdwU4x4Bgnc">
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="cYFGbWfLixjjlCill8k4toxoVz0El9GJ"/>
+        <dataSets name="Dividieren-Success" id="UZZhgCZj0nfFSq1NaM3Qb5ZQMcvXZEMt">
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="C4InNTTv2H7TfCIiBzbRGeRSmXFNqxiA"/>
           <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="QCVWuBh1Y42S9H89cIx7VDzWUE0Y69q1"/>
           <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="k8A78zMXJMrUFD01sH6bvuDGK1axwVIk"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="UKylrH5rP4TfxPmGdkXycDhJE3rU24Z7"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="qMf1e5YrFmLCGb4XuAZLboEmnocLoDSi"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="d9FNCF98ReVUeVGQmzPmkv7mrAj3JA01"/>
         </dataSets>
-        <dataSets name="Multiplizieren-Success" id="BtkFHFzYVznWgHaH6X4Eb5rqZjw5SQFz">
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="V9qpmn7S7q9x4FBkQdDlI4ucA3lsO9mS"/>
+        <dataSets name="Multiplizieren-Success" id="Qk76rHUJuFhHYlegtvG7hoWsbOpmiJHa">
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="gK9afZyu8kqL9kwNZ2iM9cKxD9Zhu0Ls"/>
           <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="TdBsbsWYxsRfujw18Ip61JUETz5vk2a0"/>
           <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="h041Pxgfd2vQgFvskYKBTTXODlA5shEP"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="TAA1fEPRE04jGDB1jH1Cf6gvfKNFR5Nl"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="lSNKhUqoZBMSUdd4dJqR3GQHiRWuzanV"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="L6EMXdSzhDO8AgV3PyYXIsZoIMX8A1em"/>
         </dataSets>
-        <dataSets name="Subtrahieren-Success" id="3UxFsfhJBjTwxkDulVe1cZGU8XMxvvUN">
-          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="LNTKxxsYHqdBGvrnNqZGf8nrF4IrmrPy"/>
+        <dataSets name="Subtrahieren-Success" id="8FZk9hxpL2e7hkXmMgSK68iEWJU7fZ9l">
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="WgIL4rGfAFun5iGk3H8yt4k1ZKWTngUz"/>
           <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="Rdk9tZbIxpeZbMhKB6Oqcxq4P5qlKp0N"/>
           <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
-          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="h041Pxgfd2vQgFvskYKBTTXODlA5shEP"/>
-          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="KJ5jTf7j6esQgmjItEhdibhCevRvOhrW"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="0M62Ps4vpbV0A08Xv7kowSQ3CDKLWj5b"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="d9FNCF98ReVUeVGQmzPmkv7mrAj3JA01"/>
+        </dataSets>
+        <dataSets name="Data set" id="tbph7dpZqqJHJgaP5R5z1PAiMg2OeRwF">
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="C4InNTTv2H7TfCIiBzbRGeRSmXFNqxiA"/>
+          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="7izPQD3vP1Hb3aD702k6bj3HoCGZQLjz"/>
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="qMf1e5YrFmLCGb4XuAZLboEmnocLoDSi"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="L6EMXdSzhDO8AgV3PyYXIsZoIMX8A1em"/>
+        </dataSets>
+        <dataSets name="Data set" id="oAGObgx11kgB4XEYSCNXT6ZfPivzwyyA">
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="MztsL2a8gINNFSv3f6hP1mn81WcYHgjv"/>
+          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="TdBsbsWYxsRfujw18Ip61JUETz5vk2a0"/>
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="DKnGA9WF5nxirCbjR4XRKBowvCGatZHE"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="NYM2J4MmMW1dGlNNPeKHGztbmCLwnIlZ"/>
+        </dataSets>
+        <dataSets name="Data set" id="vw7FIdFTIfuOb0YZ3RErMR75TUa8i0fy">
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="WgIL4rGfAFun5iGk3H8yt4k1ZKWTngUz"/>
+          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="TdBsbsWYxsRfujw18Ip61JUETz5vk2a0"/>
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="mjosG8Z62S1Hb15iBYPUQTuSTimhH9B5"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="S4KG6LSFEZEu2QyfQIi8j1m0fooCIMdh"/>
+        </dataSets>
+        <dataSets name="Data set" id="U8guVntcMvk8VZEuyJ5RgpPFpnImWI2g">
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE" value="C4InNTTv2H7TfCIiBzbRGeRSmXFNqxiA"/>
+          <values data="vZJnvSbQzHF8sV6df5LJ8oDsUA1C3odr" value="Rdk9tZbIxpeZbMhKB6Oqcxq4P5qlKp0N"/>
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn" value="mjosG8Z62S1Hb15iBYPUQTuSTimhH9B5"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP" value="z2XJBJYIwk7UpYp0zVyP9Y1nA2SPxVBM"/>
         </dataSets>
       </dataSetCollections>
     </subCategories>

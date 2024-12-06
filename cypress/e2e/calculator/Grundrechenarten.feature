@@ -13,8 +13,19 @@ Then ich prüfe ob das Ergebnis "<Ergebnis>" ist
 
 Examples: 
 	| Ergebnis	| IntA	| IntB	|
-	| 13      	| 5   	| 8   	|
-	| 11      	| 6   	| 5   	|
+	| 5       	| 5   	| 0   	|
+
+
+Scenario Outline:Addieren-Success1
+
+When ich drücke Taste "<IntA>"
+ And ich drücke Taste "+"
+ And ich drücke Taste "<IntB>"
+Then ich prüfe ob das Ergebnis "<Ergebnis>" ist
+
+Examples: 
+	| Ergebnis	| IntA	| IntB	|
+	| 12      	| 8   	| 4   	|
 
 
 Scenario Outline:Dividieren-Error
@@ -26,8 +37,7 @@ Then ich prüfe ob das Ergebnis "<Ergebnis>" ist
 
 Examples: 
 	| Ergebnis	| IntA	| IntB	|
-	| 2       	| 8   	| 4   	|
-	| 2       	| 4   	| 2   	|
+	| Infinity	| 4   	| 0   	|
 
 
 Scenario Outline:Dividieren-Success
@@ -40,7 +50,6 @@ Then ich prüfe ob das Ergebnis "<Ergebnis>" ist
 Examples: 
 	| Ergebnis	| IntA	| IntB	|
 	| 2       	| 8   	| 4   	|
-	| 2       	| 4   	| 2   	|
 
 
 Scenario Outline:Multiplizieren-Success
@@ -52,11 +61,20 @@ Then ich prüfe ob das Ergebnis "<Ergebnis>" ist
 
 Examples: 
 	| Ergebnis	| IntA	| IntB	|
-	| 18      	| 3   	| 6   	|
-	| 7       	| 1   	| 7   	|
-	| 12      	| 4   	| 3   	|
-	| 63      	| 7   	| 9   	|
 	| 0       	| 5   	| 0   	|
+
+
+Scenario Outline:Multiplizieren-Success1
+
+When ich drücke Taste "<IntA>"
+ And ich drücke Taste "*"
+ And ich drücke Taste "<IntB>"
+Then ich prüfe ob das Ergebnis "<Ergebnis>" ist
+
+Examples: 
+	| Ergebnis	| IntA	| IntB	|
+	| 12      	| 2   	| 6   	|
+	| 36      	| 4   	| 9   	|
 
 
 Scenario Outline:Subtrahieren-Success
@@ -68,8 +86,18 @@ Then ich prüfe ob das Ergebnis "<Ergebnis>" ist
 
 Examples: 
 	| Ergebnis	| IntA	| IntB	|
-	| 7       	| 9   	| 2   	|
-	| 1       	| 2   	| 1   	|
-	| -2      	| 7   	| 9   	|
+	| 2       	| 5   	| 3   	|
+
+
+Scenario Outline:Subtrahieren-Success1
+
+When ich drücke Taste "<IntA>"
+ And ich drücke Taste "-"
+ And ich drücke Taste "<IntB>"
+Then ich prüfe ob das Ergebnis "<Ergebnis>" ist
+
+Examples: 
+	| Ergebnis	| IntA	| IntB	|
+	| 8       	| 8   	| 0   	|
 
 

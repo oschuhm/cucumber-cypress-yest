@@ -90,6 +90,7 @@ module.exports = defineConfig({
         retries: {
             runMode: 2, // 3 runs in total 
         },
+        reporter: require.resolve("@badeball/cypress-cucumber-preprocessor/pretty-reporter"),
         setupNodeEvents,
     },
 }); 

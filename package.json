@@ -21,7 +21,18 @@
 
       "cypress/e2e/step_definitions/*.cy.js" 
 
-    ] 
+    ],
+    "json": {
+      "enabled": true,
+      "output": "./cypress/results/report.json"
+    },
+    "html": {
+      "enabled": true,
+      "output": "./cypress/results/report.html"
+    },
+    "pretty": {
+      "enabled": true
+    } 
 
   } 
 }

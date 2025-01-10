@@ -1,5 +1,8 @@
 name: Run Cypress Test
- 
+
+on:
+  workflow_dispatch:
+
 jobs:
   run-test:
     runs-on: [self-hosted-dev]

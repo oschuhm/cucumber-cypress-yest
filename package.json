@@ -4,7 +4,7 @@
   "description": "sample project for yest and cucumber",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test:feature": "npx cypress run --spec 'cypress/e2e/calculator/fromJira.feature'"
   },
   "author": "Oliver Schuhmacher",
   "license": "ISC",

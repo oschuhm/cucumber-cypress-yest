@@ -1,1 +1,25 @@
+name: Run Cypress Test
+ 
+jobs:
+  run-test:
+    runs-on: [self-hosted-dev]
+    permissions:
+      contents: 'read'
+      id-token: 'write'
 
+    steps:
+      - name: Checkout version ${{ inputs.version }}
+        uses: actions/checkout@v4.2.0
+        if: ${{ inputs.version }}
+        with:
+          ref: ${{ inputs.version }}
+          repository: cloudIT4IPM/vtp-test
+          token: ${{ steps.generate-token.outputs.token }}
+      - name: Checkout
+        uses: actions/checkout@v4.2.0
+        if: ${{ !inputs.version }}
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          

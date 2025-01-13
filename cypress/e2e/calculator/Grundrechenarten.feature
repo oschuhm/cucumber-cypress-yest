@@ -62,6 +62,7 @@ Then ich prüfe ob das Ergebnis "<Ergebnis>" ist
 Examples: 
 	| Ergebnis	| IntA	| IntB	|
 	| 12      	| 2   	| 6   	|
+	| 15      	| 5   	| 3   	|
 	| 36      	| 4   	| 9   	|
 
 
@@ -86,7 +87,7 @@ Then ich prüfe ob das Ergebnis "<Ergebnis>" ist
 
 Examples: 
 	| Ergebnis	| IntA	| IntB	|
-	| 2       	| 5   	| 3   	|
+	| 5       	| 10  	| 5   	|
 
 
 Scenario Outline:Subtrahieren-zero-Success

@@ -162,80 +162,80 @@
         <metadata key="PublisherId" value="85d2cb36-66ad-44d8-9b50-318485d50886"/>
         <campaign folders="ACgWyJAx2tp2mSjCE5P37dWYfeJWhjUB" dataSetCollections="IunXbXAombI6xeazbqB9PranVq2yZskX">
           <metadata key="useAllDataSetCollections" value="false"/>
-          <dataSetCombinations key="eU2ZUfZHHYNiq4dSwSL6AQrEhsxvHF8j">
-            <value id="oqxcKtx1v1LPaUQCZDECHwtwGeJhNghE" name="Data set">
-              <dataSets key="cPK1UGElAcHiIDeB0StK8dKScGfgZ8XO" value="tbph7dpZqqJHJgaP5R5z1PAiMg2OeRwF"/>
-              <dataSets key="JLyhBOxMBy7r5uH7p0nbDyRaF69WMZUT"/>
-              <dataSets key="tLtSdS207Qbob5oNL7tTtKHqt97FTyb4" value="tbph7dpZqqJHJgaP5R5z1PAiMg2OeRwF"/>
-              <dataSets key="0DsJu3Uhn7T9X0a3TOYxzf0PtRVqsRai" value="tbph7dpZqqJHJgaP5R5z1PAiMg2OeRwF"/>
-            </value>
-          </dataSetCombinations>
-          <dataSetCombinations key="XvhIF60w8BxzTB9ypx7BaoA4jFoqU4X1">
-            <value id="dgfSL4HX4WoH5vsSuADnv5K5LBzg3nIw" name="Dividieren-Success">
-              <dataSets key="sfre5EBdSzYAQUT4AMGakXJW5Sexohfh" value="UZZhgCZj0nfFSq1NaM3Qb5ZQMcvXZEMt"/>
-              <dataSets key="VDcCCU0JkAFhYFQyUQseOjBjqDSx0WvY"/>
-              <dataSets key="sOVwte7Qvpgsva4Cc9AOCFVb18lAiA6T" value="UZZhgCZj0nfFSq1NaM3Qb5ZQMcvXZEMt"/>
-              <dataSets key="ovtDioDcclSDi8FA7hXC2j3FcVkNlt1R" value="UZZhgCZj0nfFSq1NaM3Qb5ZQMcvXZEMt"/>
-            </value>
-          </dataSetCombinations>
-          <dataSetCombinations key="b4Fs2323b8Vq7yU4PjKjJF0lvPHUWNH0">
-            <value id="Q2dldqFsDDlOaVYolj60xsxasudiboKM" name="Data set">
-              <dataSets key="6Z2DdnmLRGiGx744epXxWBBNi6K2zZCo" value="U8guVntcMvk8VZEuyJ5RgpPFpnImWI2g"/>
-              <dataSets key="vsQHZTkGy5xhZSKUWhQYpFbmLOYVCzlr"/>
-              <dataSets key="Gg0oFqsK8bHJviNwSFjIma6vK8qB8PKY" value="U8guVntcMvk8VZEuyJ5RgpPFpnImWI2g"/>
-              <dataSets key="oPBNFfyV4CLFmDFDj0EAvJjN5Vn83xji" value="U8guVntcMvk8VZEuyJ5RgpPFpnImWI2g"/>
-            </value>
-          </dataSetCombinations>
           <dataSetCombinations key="CsE0RNnuK3xESfbk3GnjvlxVRjGby4vv">
-            <value id="qThziS7c1lhRYsAJa2ZsZYCPf4ji5YCZ" name="Addieren-Success">
+            <value id="TX0f6OKtBwwNOK0rWhWQXDZsAEx25aMy" name="Addieren-Success">
               <dataSets key="CTwUx5Ly0eTyDg6EXMFhxTqZfMnXboiI" value="IiCtIbxW1KZZ6pw6nWzqzb0xYnMytmm9"/>
               <dataSets key="zBvLn7Nd4GgHwlA7a33NyAemMbsLfo5Z"/>
               <dataSets key="2UJPNVefZGw5OE4cT5g6xjUrJei7Kbgw" value="IiCtIbxW1KZZ6pw6nWzqzb0xYnMytmm9"/>
               <dataSets key="E65A5gTOLGl8djsgcqEc40agngWElIvW" value="IiCtIbxW1KZZ6pw6nWzqzb0xYnMytmm9"/>
             </value>
           </dataSetCombinations>
+          <dataSetCombinations key="XvhIF60w8BxzTB9ypx7BaoA4jFoqU4X1">
+            <value id="IMRqUNZqfgp2rpTOkqXxWEReb6ygywxL" name="Dividieren-Success">
+              <dataSets key="sfre5EBdSzYAQUT4AMGakXJW5Sexohfh" value="UZZhgCZj0nfFSq1NaM3Qb5ZQMcvXZEMt"/>
+              <dataSets key="VDcCCU0JkAFhYFQyUQseOjBjqDSx0WvY"/>
+              <dataSets key="sOVwte7Qvpgsva4Cc9AOCFVb18lAiA6T" value="UZZhgCZj0nfFSq1NaM3Qb5ZQMcvXZEMt"/>
+              <dataSets key="ovtDioDcclSDi8FA7hXC2j3FcVkNlt1R" value="UZZhgCZj0nfFSq1NaM3Qb5ZQMcvXZEMt"/>
+            </value>
+          </dataSetCombinations>
           <dataSetCombinations key="lGMov2EXG17PkxYia0ESJ9YYSXqkvSZc">
-            <value id="s46CIi37CQiQn3PWBig1JLrHmDsqnVzo" name="Multiplizieren-Success">
+            <value id="G8RaVoulxRr2n9AAGG3KQWIRZQRcvH6T" name="Multiplizieren-Success">
               <dataSets key="QZJejvbRtDrUcbK8fzeam5i3FL3zI3gi" value="Qk76rHUJuFhHYlegtvG7hoWsbOpmiJHa"/>
               <dataSets key="4MumlpuynujI4UyFlrvrHXsNnN3SO86S"/>
               <dataSets key="Kr22pkom0eBCTuAhMPfE87e92XmJrIqd" value="Qk76rHUJuFhHYlegtvG7hoWsbOpmiJHa"/>
               <dataSets key="Cr4fpCye1LbzebhRLJbASJ1pYGwpyvl2" value="Qk76rHUJuFhHYlegtvG7hoWsbOpmiJHa"/>
             </value>
-            <value id="uZcfVdJCijif9dyWG17mlThiZGwtXZFz" name="Subtrahieren-Success">
+            <value id="ytR7wMY3zRabMygKoNO0ZEbiq8QspZae" name="Subtrahieren-Success">
               <dataSets key="QZJejvbRtDrUcbK8fzeam5i3FL3zI3gi" value="8FZk9hxpL2e7hkXmMgSK68iEWJU7fZ9l"/>
               <dataSets key="4MumlpuynujI4UyFlrvrHXsNnN3SO86S"/>
               <dataSets key="Kr22pkom0eBCTuAhMPfE87e92XmJrIqd" value="8FZk9hxpL2e7hkXmMgSK68iEWJU7fZ9l"/>
               <dataSets key="Cr4fpCye1LbzebhRLJbASJ1pYGwpyvl2" value="8FZk9hxpL2e7hkXmMgSK68iEWJU7fZ9l"/>
             </value>
-            <value id="YZHVN1EeIQIKym9gtUqDIjJBEnBfgtMb" name="Data set">
+            <value id="MLhc3khHJg9LGraqZjAqJdhZmMKEt8sK" name="Data set">
               <dataSets key="QZJejvbRtDrUcbK8fzeam5i3FL3zI3gi" value="oAGObgx11kgB4XEYSCNXT6ZfPivzwyyA"/>
               <dataSets key="4MumlpuynujI4UyFlrvrHXsNnN3SO86S"/>
               <dataSets key="Kr22pkom0eBCTuAhMPfE87e92XmJrIqd" value="oAGObgx11kgB4XEYSCNXT6ZfPivzwyyA"/>
               <dataSets key="Cr4fpCye1LbzebhRLJbASJ1pYGwpyvl2" value="oAGObgx11kgB4XEYSCNXT6ZfPivzwyyA"/>
             </value>
           </dataSetCombinations>
-          <dataSetCombinations key="GAZ3LFag4H7sLcWKR0FK6q9rZOWpEVQG">
-            <value id="5g2gXNs5fyACe4nIX1ZYNbxCTqPTZZvq" name="Data set">
-              <dataSets key="FkRLHMmFAlw1EMokpUwIMhk5Nl7f6xYf" value="J0BEnSW0wpkmRhpiHcpIDFGGJshp3PX1"/>
-              <dataSets key="3NpPVs5YlNcYJuckkmKVvYqq9jFy7Rdc"/>
-              <dataSets key="PPXvdKAis8YL2YoddWdtj6nJmObFo51n" value="J0BEnSW0wpkmRhpiHcpIDFGGJshp3PX1"/>
-              <dataSets key="lBrPlS56HzO1BUgVOLcrKGLk8gIyBF0l" value="J0BEnSW0wpkmRhpiHcpIDFGGJshp3PX1"/>
+          <dataSetCombinations key="eU2ZUfZHHYNiq4dSwSL6AQrEhsxvHF8j">
+            <value id="GgN9sPKTsyyRUCVSwMkENZ4yko48OwkW" name="Data set">
+              <dataSets key="cPK1UGElAcHiIDeB0StK8dKScGfgZ8XO" value="tbph7dpZqqJHJgaP5R5z1PAiMg2OeRwF"/>
+              <dataSets key="JLyhBOxMBy7r5uH7p0nbDyRaF69WMZUT"/>
+              <dataSets key="tLtSdS207Qbob5oNL7tTtKHqt97FTyb4" value="tbph7dpZqqJHJgaP5R5z1PAiMg2OeRwF"/>
+              <dataSets key="0DsJu3Uhn7T9X0a3TOYxzf0PtRVqsRai" value="tbph7dpZqqJHJgaP5R5z1PAiMg2OeRwF"/>
+            </value>
+          </dataSetCombinations>
+          <dataSetCombinations key="ASeLSKSLI32QdcYywRFOHTYEILEBMu3x">
+            <value id="R0ctt6ViMRaJVYKKbvvJ6xt5Tc3w0f5O" name="Dividieren-Error">
+              <dataSets key="P8FpxwoWDxbqrvTSR1n9kjO1MGhflpND" value="s9SYLkdJ21kEdZagBVPcsj6Etai6ISMV"/>
+              <dataSets key="JaasMjrnLUqad1UpFggRfH9xeCMvcy2i"/>
+              <dataSets key="A55oi5nCUNQ78m1qFDDZA6F05M9K3X7H" value="s9SYLkdJ21kEdZagBVPcsj6Etai6ISMV"/>
+              <dataSets key="kvfYJlSah7J8V05fmhQkAywylvwznqlD" value="s9SYLkdJ21kEdZagBVPcsj6Etai6ISMV"/>
             </value>
           </dataSetCombinations>
           <dataSetCombinations key="4tnK49oCYjMaHJ7yx875d4cWILO5ZFIZ">
-            <value id="9tgunBIsvd6ZTJQcWpw06osy5YX4YBwP" name="Data set">
+            <value id="VvD2uzF3TTNkPHawv4PHEm6XTm758q0S" name="Data set">
               <dataSets key="mNEWVG0cDZsTFwl7ODtzEt41Dk5uVl7u" value="vw7FIdFTIfuOb0YZ3RErMR75TUa8i0fy"/>
               <dataSets key="wIwlqkJQYk9kctxVNK2uH7vdmVtOw4KH"/>
               <dataSets key="hEHsneH9Qci5fXHpwxknftjng4bf1LQy" value="vw7FIdFTIfuOb0YZ3RErMR75TUa8i0fy"/>
               <dataSets key="3Ts3t2TKYf7nx9tZrk3vsmX6BvKHSP1p" value="vw7FIdFTIfuOb0YZ3RErMR75TUa8i0fy"/>
             </value>
           </dataSetCombinations>
-          <dataSetCombinations key="ASeLSKSLI32QdcYywRFOHTYEILEBMu3x">
-            <value id="OIndVltpCAPLfCk0StnzER06xUj6Ds6u" name="Dividieren-Error">
-              <dataSets key="P8FpxwoWDxbqrvTSR1n9kjO1MGhflpND" value="s9SYLkdJ21kEdZagBVPcsj6Etai6ISMV"/>
-              <dataSets key="JaasMjrnLUqad1UpFggRfH9xeCMvcy2i"/>
-              <dataSets key="A55oi5nCUNQ78m1qFDDZA6F05M9K3X7H" value="s9SYLkdJ21kEdZagBVPcsj6Etai6ISMV"/>
-              <dataSets key="kvfYJlSah7J8V05fmhQkAywylvwznqlD"/>
+          <dataSetCombinations key="GAZ3LFag4H7sLcWKR0FK6q9rZOWpEVQG">
+            <value id="5posvwODQsAiQ2eDCAlTSPCq4mSUXhG8" name="Data set">
+              <dataSets key="FkRLHMmFAlw1EMokpUwIMhk5Nl7f6xYf" value="J0BEnSW0wpkmRhpiHcpIDFGGJshp3PX1"/>
+              <dataSets key="3NpPVs5YlNcYJuckkmKVvYqq9jFy7Rdc"/>
+              <dataSets key="PPXvdKAis8YL2YoddWdtj6nJmObFo51n" value="J0BEnSW0wpkmRhpiHcpIDFGGJshp3PX1"/>
+              <dataSets key="lBrPlS56HzO1BUgVOLcrKGLk8gIyBF0l" value="J0BEnSW0wpkmRhpiHcpIDFGGJshp3PX1"/>
+            </value>
+          </dataSetCombinations>
+          <dataSetCombinations key="b4Fs2323b8Vq7yU4PjKjJF0lvPHUWNH0">
+            <value id="GQr4NNZZjnNcYYmw1m2fv2KBRVoFItJy" name="Data set">
+              <dataSets key="6Z2DdnmLRGiGx744epXxWBBNi6K2zZCo" value="U8guVntcMvk8VZEuyJ5RgpPFpnImWI2g"/>
+              <dataSets key="vsQHZTkGy5xhZSKUWhQYpFbmLOYVCzlr"/>
+              <dataSets key="Gg0oFqsK8bHJviNwSFjIma6vK8qB8PKY" value="U8guVntcMvk8VZEuyJ5RgpPFpnImWI2g"/>
+              <dataSets key="oPBNFfyV4CLFmDFDj0EAvJjN5Vn83xji" value="U8guVntcMvk8VZEuyJ5RgpPFpnImWI2g"/>
             </value>
           </dataSetCombinations>
         </campaign>
@@ -273,7 +273,13 @@
         <operationScripts testOperation="h4VGgPy0prXswtwX14JRJHEgIHnMgERW">
           <after/>
           <body>
-            <calls keywordId="#AUTOKEYWORD#" keywordName="Automatic Keyword" id="ld1D8bqD5qKuNbSjvtTYDKE5XaKfqEBo"/>
+            <calls keywordId="Then ich prüfe ob das Ergebnis &lt;Ergebnis:string> ist" keywordName="Then ich prüfe ob das Ergebnis &lt;Ergebnis:string> ist" id="wf5zhpRKHM481WNbnztOFsaaGmm4fNrB">
+              <arguments parameterName="Ergebnis:string">
+                <parameterValue>
+                  <fragments xsi:type="yest:DataField" id="tEWEREszyG1PhqYhfANppjjBFNRvtTjB" data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+                </parameterValue>
+              </arguments>
+            </calls>
           </body>
           <before/>
         </operationScripts>

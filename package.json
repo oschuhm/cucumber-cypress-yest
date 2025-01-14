@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test:feature": "npx cypress run --spec 'cypress/e2e/calculator/fromJira.feature'",
-    "fetch-tests": "node ./.github/scripts/getTestsFromTestplan.js"
+    "fetch-tests": "node ./.github/scripts/getTestsFromTestplan.js",
+    "upload-result": "node ./.github/scripts/uploadTestResultsToXrayCloud.js"
   },
   "author": "Oliver Schuhmacher",
   "license": "ISC",

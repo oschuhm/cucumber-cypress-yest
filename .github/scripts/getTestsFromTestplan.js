@@ -1,4 +1,4 @@
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+//process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 //to handle commandline arguments
 const yargs = require('yargs/yargs');
@@ -55,6 +55,8 @@ async function authenticate(clientId, clientSecret) {
 async function exportCucumberTests(token, testPlanKey) {
     const apiUrl = 'https://xray.cloud.getxray.app/api/v2/export/cucumber';
 
+
+    // 1. Testfälle aus Xray Cloud exportieren
     try {
         const response = await axios.get(apiUrl, {
             headers: {
@@ -66,9 +68,6 @@ async function exportCucumberTests(token, testPlanKey) {
             },
             responseType: 'arraybuffer' // Wichtig für Binärdaten (ZIP-Datei)
         });
-
-        // Die exportierten Cucumber-Tests (Feature-Dateien) sind im Response-Body
-        console.log('Exportierte Cucumber-Tests:', response.data);
 
        // 2. ZIP-Datei speichern
        const zipFilePath = `${downloadFolder}/cucumber_tests.zip`;

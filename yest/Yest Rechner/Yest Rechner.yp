@@ -86,7 +86,7 @@
           </dataSetCombinations>
         </campaign>
         <parameters name="USE_IMPLEMENTATION_PARAMS" value="true"/>
-        <parameters name="destinationPath" value="C:/dev/cucumber-yest/cypress/e2e/calculator"/>
+        <parameters name="destinationPath" value="C:/dev/cucumber-yest/cypress/e2e/features"/>
         <parameters name="ImplementationType" value="JAVA8"/>
         <parameters name="SourceList" value="C:\dev\cucumber-yest\cypress\e2e\step_definitions\taschenrechner.cy.js"/>
         <parameters name="NotImplementedKeywords" value="#ich drücke Taste {string}%%Taste|when##ich prüfe ob das Ergebnis {string} ist%%Ergebnis|then#"/>
@@ -243,14 +243,17 @@
         <parameters name="ProjectName" value="Calculator Demo"/>
         <parameters name="LinkedIssueType" value="Story"/>
         <parameters name="BasicCreateTestSet" value="false"/>
-        <parameters name="SpecificKeywords" value="Then ich prüfe ob das Ergebnis &lt;Ergebnis:string> ist&#xA;Then ich prüfe ob das Ergebnis &quot;&lt;Ergebnis>&quot; ist&#xA;Given/When ich drücke Taste &lt;Taste:string>&#xA;Given/When ich drücke Taste &quot;&lt;IntA>&quot;&#xA;Given/When ich drücke Taste &lt;value:string>"/>
+        <parameters name="SpecificKeywords" value="Given/When ich drücke Taste &quot;&lt;taste>&quot;&#xA;Then ich prüfe ob das Ergebnis &lt;Ergebnis:string> ist&#xA;Given/When ich drücke Taste &lt;Taste:string>&#xA;Given/When ich drücke Taste &lt;value:string>&#xA;Then ich prüfe ob das Ergebnis &quot;&lt;Ergebnis>&quot; ist&#xA;Given/When I press another button &lt;value:string>"/>
+        <parameters name="DefinitionPath" value="C:/dev/cucumber-yest/cypress/cucumber-definition.txt"/>
+        <parameters name="SourceList" value="C:\dev\cucumber-yest\cypress\e2e\step_definitions"/>
+        <parameters name="ImplementationType" value="JAVASCRIPT"/>
         <operationScripts testOperation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z">
           <after/>
           <body>
-            <calls keywordId="Given/When ich drücke Taste &lt;Taste:string>" keywordName="Given/When ich drücke Taste &lt;Taste:string>" id="D9rlThONkKOkd0UvqNILutFcSeZsm9FE">
-              <arguments parameterName="Taste:string">
+            <calls keywordId="Given/When ich drücke Taste &quot;&lt;taste>&quot;" keywordName="Given/When ich drücke Taste &quot;&lt;taste>&quot;" id="rWP2YBTIj2BBFdLSp7nh3FOl2TkxLBSb">
+              <arguments parameterName="taste">
                 <parameterValue>
-                  <fragments xsi:type="yest:DataField" id="tNOi48JQDZ0AIvv0ZIWuTztx0i9zDExa" data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE"/>
+                  <fragments xsi:type="yest:DataField" id="J4Tc9Z3ZUKqNrquWVzoizWyvfJa7o3e9" data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE"/>
                 </parameterValue>
               </arguments>
             </calls>
@@ -260,10 +263,10 @@
         <operationScripts testOperation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2">
           <after/>
           <body>
-            <calls keywordId="Given/When ich drücke Taste &lt;Taste:string>" keywordName="Given/When ich drücke Taste &lt;Taste:string>" id="ZeZGVIE2agMzv9fhaghivl782wsf6rZj">
-              <arguments parameterName="Taste:string">
+            <calls keywordId="Given/When ich drücke Taste &quot;&lt;taste>&quot;" keywordName="Given/When ich drücke Taste &quot;&lt;taste>&quot;" id="wsyQP6NCclK5N59yXZ8uWB8ft3O8QtIe">
+              <arguments parameterName="taste">
                 <parameterValue>
-                  <fragments xsi:type="yest:DataField" id="02kPIeJCAdlBWPkLXxSjrTw8V5aQqLLI" data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5"/>
+                  <fragments xsi:type="yest:DataField" id="1t2nk31HsiSS6CmgexMwUOC79Lo8JGRl" data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5"/>
                 </parameterValue>
               </arguments>
             </calls>
@@ -273,10 +276,10 @@
         <operationScripts testOperation="h4VGgPy0prXswtwX14JRJHEgIHnMgERW">
           <after/>
           <body>
-            <calls keywordId="Then ich prüfe ob das Ergebnis &lt;Ergebnis:string> ist" keywordName="Then ich prüfe ob das Ergebnis &lt;Ergebnis:string> ist" id="wf5zhpRKHM481WNbnztOFsaaGmm4fNrB">
-              <arguments parameterName="Ergebnis:string">
+            <calls keywordId="Then ich prüfe ob das Ergebnis &quot;&lt;Ergebnis>&quot; ist" keywordName="Then ich prüfe ob das Ergebnis &quot;&lt;Ergebnis>&quot; ist" id="wf5zhpRKHM481WNbnztOFsaaGmm4fNrB">
+              <arguments parameterName="Ergebnis">
                 <parameterValue>
-                  <fragments xsi:type="yest:DataField" id="tEWEREszyG1PhqYhfANppjjBFNRvtTjB" data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+                  <fragments xsi:type="yest:DataField" id="sfZIAi0bMtWrwwNMXwz7SLlzTNZIpXuV" data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
                 </parameterValue>
               </arguments>
             </calls>
@@ -286,10 +289,10 @@
         <operationScripts testOperation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
           <after/>
           <body>
-            <calls keywordId="Given/When ich drücke Taste &lt;Taste:string>" keywordName="Given/When ich drücke Taste &lt;Taste:string>" id="kMuNMpne5gK5Ck7RVvtZ9RjGyT7RT7KH">
-              <arguments parameterName="Taste:string">
+            <calls keywordId="Given/When ich drücke Taste &quot;&lt;taste>&quot;" keywordName="Given/When ich drücke Taste &quot;&lt;taste>&quot;" id="Eku6AKTZCt5oJqZ38xlm8ThdW5uTjOkj">
+              <arguments parameterName="taste">
                 <parameterValue>
-                  <fragments xsi:type="yest:DataField" id="ysJJrYjoQdM7oIWC9J1B4aJF2lBGPmrn" data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
+                  <fragments xsi:type="yest:DataField" id="q6jwKbiHSyTMUOAjMS4r6AyGyH7ZtMG2" data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
                 </parameterValue>
               </arguments>
             </calls>
@@ -299,10 +302,10 @@
         <operationScripts testOperation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1">
           <after/>
           <body>
-            <calls keywordId="Then ich prüfe ob das Ergebnis &lt;Ergebnis:string> ist" keywordName="Then ich prüfe ob das Ergebnis &lt;Ergebnis:string> ist" id="EyiwbBte5B6mdEWjuvQTiI0DsLcgRybI">
-              <arguments parameterName="Ergebnis:string">
+            <calls keywordId="Then ich prüfe ob das Ergebnis &quot;&lt;Ergebnis>&quot; ist" keywordName="Then ich prüfe ob das Ergebnis &quot;&lt;Ergebnis>&quot; ist" id="obsoVlY6K6UO5e6dNsLXQEr5Z3QYpvOk">
+              <arguments parameterName="Ergebnis">
                 <parameterValue>
-                  <fragments xsi:type="yest:DataField" id="9hVw6brCGF4NCOu9PpaGeq3JBrZTusqD" data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+                  <fragments xsi:type="yest:DataField" id="mIb4ySfYF4qGysxhnqR7SglvziAtVl0O" data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
                 </parameterValue>
               </arguments>
             </calls>

@@ -1,0 +1,2 @@
+When ich drücke Taste "<IntA>"
+Then ich prüfe ob das Ergebnis "<Ergebnis>" ist

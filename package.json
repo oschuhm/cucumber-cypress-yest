@@ -4,7 +4,8 @@
   "description": "sample project for yest and cucumber",
   "main": "index.js",
   "scripts": {
-    "test:feature": "npx cypress run --spec 'cypress/e2e/calculator/fromJira.feature'"
+    "test:feature": "npx cypress run --spec 'cypress/e2e/calculator/fromJira.feature'",
+    "fetch-tests": "node ./.github/scripts/getTestsFromTestplan.js"
   },
   "author": "Oliver Schuhmacher",
   "license": "ISC",
@@ -13,14 +14,10 @@
     "@badeball/cypress-cucumber-preprocessor": "^20.0.0",
     "@cypress/webpack-preprocessor": "^6.0.1",
     "cypress": "^13.6.2"
-  }, 
-
-  "cypress-cucumber-preprocessor": { 
-
-    "stepDefinitions": [ 
-
-      "cypress/e2e/step_definitions/*.cy.js" 
-
+  },
+  "cypress-cucumber-preprocessor": {
+    "stepDefinitions": [
+      "cypress/e2e/step_definitions/*.cy.js"
     ],
     "json": {
       "enabled": true,
@@ -32,7 +29,10 @@
     },
     "pretty": {
       "enabled": true
-    } 
-
-  } 
+    }
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.7.9"
+  }
 }

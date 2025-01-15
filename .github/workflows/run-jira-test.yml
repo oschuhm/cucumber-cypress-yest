@@ -7,6 +7,9 @@ on:
         description: 'Test plan key for getTestsFromTestplan.js'
         required: true
         default: 'CD-23'
+  
+  repository_dispatch:
+    types: [trigger-cypress-pipeline]
 
 jobs:
   test-process:
@@ -26,8 +29,9 @@ jobs:
 
       - name: Run getTestsFromTestplan.js
         run: |
-          node .github/scripts/getTestsFromTestplan.js \
-            --testids=${{ github.event.inputs.testplankey }} \
+        TEST_PLAN_KEY=${{ github.event.inputs.testplankey || github.event.client_payload.testplankey }}  
+        node .github/scripts/getTestsFromTestplan.js \
+            --testids=$TEST_PLAN_KEY \
             --xrayClientId=${{ secrets.XRAYCLIENTID }} \
             --xrayClientSecret=${{ secrets.XRAYCLIENTSECRET }}
 

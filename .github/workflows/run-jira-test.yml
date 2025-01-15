@@ -1,0 +1,43 @@
+name: Run Jira Tests in Cypress
+
+on:
+  workflow_dispatch:
+    inputs:
+      testplankey:
+        description: 'Test plan key for getTestsFromTestplan.js'
+        required: true
+        default: 'CD-23'
+
+jobs:
+  test-process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4.2.0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Run getTestsFromTestplan.js
+        run: |
+          node scripts/getTestsFromTestplan.js \
+            --testplankey ${{ github.event.inputs.testplankey }} \
+            --xrayClientId ${{ secrets.XRAYCLIENTID }} \
+            --xrayClientSecret ${{ secrets.XRAYCLIENTSECRET }}
+
+      - name: Cypress run
+        uses: cypress-io/github-action@v6
+
+      - name: Run uploadTestResultsToXrayCloud.js
+        run: |
+          node scripts/uploadTestResultsToXrayCloud.js \
+            --xrayClientId ${{ secrets.XRAYCLIENTID }} \
+            --xrayClientSecret ${{ secrets.XRAYCLIENTSECRET }}
+
+      - name: Persist Cypress results
+        uses: actions/upload-artifact@v3
+        with:
+          name: cypress-results
+          path: cypress/results

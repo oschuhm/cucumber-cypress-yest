@@ -617,7 +617,7 @@
           <link businessObjects="f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C"/>
           <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.1" incomingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.0"/>
           <children xsi:type="pi:ContainerShape" visible="true">
-            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.3" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.0/@testElements.0/@diagram/@fonts.0" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="IntA auswählen"/>
+            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.3" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.0/@testElements.0/@diagram/@fonts.1" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="IntA auswählen"/>
           </children>
         </children>
         <children xsi:type="yest:TaskShape" visible="true" active="true" text="//@subFolders.0/@testElements.0/@diagram/@children.2/@children.0/@graphicsAlgorithm" flowNode="vm4AmmPp6Tri9JPuyIEBD138wdprLNEg">
@@ -625,7 +625,7 @@
           <link businessObjects="vm4AmmPp6Tri9JPuyIEBD138wdprLNEg"/>
           <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.2" incomingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.1"/>
           <children xsi:type="pi:ContainerShape" visible="true">
-            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.3" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.0/@testElements.0/@diagram/@fonts.0" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="Operation&#xD;&#xA;auswählen"/>
+            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.3" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.0/@testElements.0/@diagram/@fonts.1" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="Operation&#xD;&#xA;auswählen"/>
           </children>
         </children>
         <children xsi:type="yest:TaskShape" visible="true" active="true" text="//@subFolders.0/@testElements.0/@diagram/@children.3/@children.0/@graphicsAlgorithm" flowNode="DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x">
@@ -633,7 +633,7 @@
           <link businessObjects="DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x"/>
           <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.3" incomingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.2"/>
           <children xsi:type="pi:ContainerShape" visible="true">
-            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.3" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.0/@testElements.0/@diagram/@fonts.0" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="IntB auswählen"/>
+            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.3" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.0/@testElements.0/@diagram/@fonts.1" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="IntB auswählen"/>
           </children>
         </children>
         <children xsi:type="yest:TaskShape" visible="true" active="true" text="//@subFolders.0/@testElements.0/@diagram/@children.4/@children.0/@graphicsAlgorithm" flowNode="GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso">
@@ -641,7 +641,7 @@
           <link businessObjects="GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso"/>
           <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.4" incomingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.3"/>
           <children xsi:type="pi:ContainerShape" visible="true">
-            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.3" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.0/@testElements.0/@diagram/@fonts.0" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="Ergebnis prüfen"/>
+            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.3" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.0/@testElements.0/@diagram/@fonts.1" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="Ergebnis prüfen"/>
           </children>
         </children>
         <children xsi:type="yest:EndPointShape" visible="true" active="true" flowNode="PV53FHo9nrewysJhXBiDGtrTrssedlOh">

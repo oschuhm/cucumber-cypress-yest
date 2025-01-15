@@ -46,7 +46,7 @@ jobs:
             --xrayClientSecret=${{ secrets.XRAYCLIENTSECRET }}
 
       - name: Persist Cypress results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: cypress-results
           path: cypress/*

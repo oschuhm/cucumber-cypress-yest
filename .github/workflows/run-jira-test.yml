@@ -3,7 +3,7 @@ name: Run Jira Tests in Cypress
 on:
   workflow_dispatch:
     inputs:
-      testplankey:
+      key:
         description: 'Test plan key for getTestsFromTestplan.js'
         required: true
         default: 'CD-23'
@@ -34,7 +34,7 @@ jobs:
       - name: Run getTestsFromTestplan.js
         run: |
           # Überprüfen, ob der `testplankey` aus `workflow_dispatch` oder `repository_dispatch` kommt
-          TEST_PLAN_KEY=${{ github.event.inputs.testplankey || github.event.client_payload.testplankey }}
+          TEST_PLAN_KEY=${{ github.event.inputs.key || github.event.client_payload.key }}
           node .github/scripts/getTestsFromTestplan.js \
             --testids=$TEST_PLAN_KEY \
             --xrayClientId=${{ secrets.XRAYCLIENTID }} \

@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Display Payload Data
         run: |
-          echo "Received data: ${{ github.event.client_payload }}"
+          echo "Received data: ${{ github.event.client_payload.key }}"

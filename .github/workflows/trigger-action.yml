@@ -1,0 +1,14 @@
+name: External Trigger
+
+on:
+  repository_dispatch:
+    types: [trigger-action]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Display Payload Data
+        run: |
+          echo "Received data: ${{ github.event.client_payload }}"

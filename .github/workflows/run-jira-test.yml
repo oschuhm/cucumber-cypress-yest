@@ -22,7 +22,7 @@ jobs:
 
       - name: Run getTestsFromTestplan.js
         run: |
-          node scripts/getTestsFromTestplan.js \
+          node .github/scripts/getTestsFromTestplan.js \
             --testplankey ${{ github.event.inputs.testplankey }} \
             --xrayClientId ${{ secrets.XRAYCLIENTID }} \
             --xrayClientSecret ${{ secrets.XRAYCLIENTSECRET }}
@@ -32,7 +32,7 @@ jobs:
 
       - name: Run uploadTestResultsToXrayCloud.js
         run: |
-          node scripts/uploadTestResultsToXrayCloud.js \
+          node ...github/scripts/uploadTestResultsToXrayCloud.js \
             --xrayClientId ${{ secrets.XRAYCLIENTID }} \
             --xrayClientSecret ${{ secrets.XRAYCLIENTSECRET }}
 

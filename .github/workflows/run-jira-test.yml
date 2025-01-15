@@ -29,8 +29,9 @@ jobs:
 
       - name: Run getTestsFromTestplan.js
         run: |
-        TEST_PLAN_KEY=${{ github.event.inputs.testplankey || github.event.client_payload.testplankey }}  
-        node .github/scripts/getTestsFromTestplan.js \
+          # Überprüfen, ob der `testplankey` aus `workflow_dispatch` oder `repository_dispatch` kommt
+          TEST_PLAN_KEY=${{ github.event.inputs.testplankey || github.event.client_payload.testplankey }}
+          node .github/scripts/getTestsFromTestplan.js \
             --testids=$TEST_PLAN_KEY \
             --xrayClientId=${{ secrets.XRAYCLIENTID }} \
             --xrayClientSecret=${{ secrets.XRAYCLIENTSECRET }}

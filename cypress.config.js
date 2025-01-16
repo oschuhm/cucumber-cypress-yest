@@ -84,7 +84,7 @@ module.exports = defineConfig({
         specPattern: "**/*.feature",
 
         supportFile: false,
-        video: false,
+        video: true,
         defaultCommandTimeout: 10000,
         requestTimeout: 10000,
         retries: {

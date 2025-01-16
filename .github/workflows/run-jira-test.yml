@@ -44,13 +44,17 @@ jobs:
         uses: cypress-io/github-action@v6
 
       - name: Run uploadTestResultsToXrayCloud.js
+        if: always() # Dieser Schritt wird immer ausgeführt
         run: |
           node .github/scripts/uploadTestResultsToXrayCloud.js \
             --xrayClientId=${{ secrets.XRAYCLIENTID }} \
             --xrayClientSecret=${{ secrets.XRAYCLIENTSECRET }}
 
       - name: Persist Cypress results
+        if: always() # Dieser Schritt wird immer ausgeführt
         uses: actions/upload-artifact@v4
         with:
           name: cypress-results
           path: cypress/*
+
+

@@ -415,8 +415,8 @@
       <metadata key="jiraWorkflow_Fields" value="{&quot;description&quot;:{&quot;type&quot;:&quot;doc&quot;,&quot;version&quot;:1,&quot;content&quot;:[{&quot;type&quot;:&quot;paragraph&quot;,&quot;content&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;text&quot;:&quot;This is the main model to verify my calculator&quot;}]}]}}"/>
       <metadata key="jiraWorkflow_Key" value="CD-1"/>
       <metadata key="jiraWorkflow_UserUrl" value="https://mbtdemo.atlassian.net/browse/CD-1"/>
-      <metadata key="jiraWorkflow_WorkflowVersion" value="11"/>
-      <metadata key="jiraWorkflow_WorkflowContent" value="{&quot;id&quot;:&quot;dpQMPsW2W3pnZBLw3PPddJ7vB273q95S&quot;,&quot;yest4JiraVersion&quot;:3,&quot;groups&quot;:[],&quot;nodes&quot;:[{&quot;type&quot;:&quot;start&quot;,&quot;id&quot;:&quot;bzUkB8Un6QV6yRjap0OJ9tTYX9RiCD7b&quot;,&quot;bounds&quot;:[240,110,31,31]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;,&quot;name&quot;:&quot;IntA auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;VHZqkf7Uykyx5d330FOE1rtHnrAMYkHh&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;7A4KTit4X9Ks02T5QgKMot4OjdOcffmc&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#attachment&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;2HGMl8tWvcFz14O1gj2o3uEReoFa5YT9&quot;,&quot;cells&quot;:{&quot;VHZqkf7Uykyx5d330FOE1rtHnrAMYkHh&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl A in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntA&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]},&quot;7A4KTit4X9Ks02T5QgKMot4OjdOcffmc&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;local-file-attachment&quot;,&quot;data&quot;:&quot;{\&quot;locationId\&quot;:\&quot;DefaultLocationId\&quot;,\&quot;relativePath\&quot;:\&quot;2024-12-05 17_29_02-cucumber-yest.png\&quot;}&quot;,&quot;rendering&quot;:&quot;2024-12-05 17_29_02-cucumber-yest.png&quot;}}}]},&quot;bounds&quot;:[205,184,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;,&quot;name&quot;:&quot;Operation auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;SWqwGKdGSTFiKbDnkoiLJhUP9kVAVo1J&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;},{&quot;id&quot;:&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;Story&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;8d5qQIKQkLmrPawaHVrQjVr7KKgxeQnc&quot;,&quot;cells&quot;:{&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Operation \&quot;&quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;\&quot; auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Addieren&quot;},&quot;SWqwGKdGSTFiKbDnkoiLJhUP9kVAVo1J&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;+&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;+&quot;}}},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10062\&quot;,\&quot;key\&quot;:\&quot;CD-10\&quot;}&quot;,&quot;rendering&quot;:&quot;CD-10: Zahlen addieren&quot;}}},{&quot;id&quot;:&quot;AafnvlRCd8zirAx9Paw7AbFVBnXbdg86&quot;,&quot;cells&quot;:{&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Operation \&quot;&quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;\&quot; auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;},&quot;SWqwGKdGSTFiKbDnkoiLJhUP9kVAVo1J&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;-&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;-&quot;}}},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10063\&quot;,\&quot;key\&quot;:\&quot;CD-11\&quot;}&quot;,&quot;rendering&quot;:&quot;CD-11: Zahlen subtrahieren&quot;}}},{&quot;id&quot;:&quot;WIBmAPNhXzPB5nXYlbIPLiXVOCObs9rk&quot;,&quot;cells&quot;:{&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Operation \&quot;&quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;\&quot; auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;},&quot;SWqwGKdGSTFiKbDnkoiLJhUP9kVAVo1J&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;*&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;*&quot;}}},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10064\&quot;,\&quot;key\&quot;:\&quot;CD-12\&quot;}&quot;,&quot;rendering&quot;:&quot;CD-12: Zahlen multiplizieren&quot;}}},{&quot;id&quot;:&quot;fbzPG4dtJISHcgGYe2I3CpPF1u2wdxib&quot;,&quot;cells&quot;:{&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Operation \&quot;&quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;\&quot; auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Dividieren&quot;},&quot;SWqwGKdGSTFiKbDnkoiLJhUP9kVAVo1J&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;/&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;/&quot;}}},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10065\&quot;,\&quot;key\&quot;:\&quot;CD-9\&quot;}&quot;,&quot;rendering&quot;:&quot;CD-9: Zahlen dividieren&quot;}}}]},&quot;bounds&quot;:[205,268,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;,&quot;name&quot;:&quot;IntB auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;OiG66I0IRu4VcBFs1xKpNwMj6cc2i50n&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;OIyLjn3ddLrx0e6nfLli3sRat30n0xBu&quot;,&quot;cells&quot;:{&quot;OiG66I0IRu4VcBFs1xKpNwMj6cc2i50n&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;zero&quot;},&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}},&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;BG2k342V4gSa5hLukfKVaVecJNHSWwZn&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl B &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;  in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]}}},{&quot;id&quot;:&quot;BdaJjFMyQypnRb5C4GatWUaoXwX5gYMX&quot;,&quot;cells&quot;:{&quot;OiG66I0IRu4VcBFs1xKpNwMj6cc2i50n&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;notZero&quot;},&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;BG2k342V4gSa5hLukfKVaVecJNHSWwZn&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl B &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;  in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]}}}]},&quot;bounds&quot;:[205,342,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;,&quot;name&quot;:&quot;Ergebnis prüfen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;dQotX9SdreqW2IIElR72P89fPqJv0F0X&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;+&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;+&quot;}}}}},{&quot;id&quot;:&quot;MYKHvPTR58dF1z9KCa6oRf8MzQhSM8Se&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;+&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;+&quot;}}}}},{&quot;id&quot;:&quot;0dKFtZkmPQcbjnYvEEUGcKwpH9MooCU6&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;/&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;/&quot;}}}}},{&quot;id&quot;:&quot;CJ5j24PQHHnetluCBZeijkaZMqct7VJ3&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;-&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;-&quot;}}}}},{&quot;id&quot;:&quot;cLqZWLb3u5h5DFscmjvFff6t20PaeQF4&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;-&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;-&quot;}}}}},{&quot;id&quot;:&quot;Y1jsvhTNTt3fnXr9aN5BSRgVjyFPUkzI&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;*&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;*&quot;}}}}},{&quot;id&quot;:&quot;dBNo3aM3BxeVuuZlfE1RYMV0YFEiqXnt&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;*&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;*&quot;}}}}}]},&quot;bounds&quot;:[105,512,101,51]},{&quot;type&quot;:&quot;end&quot;,&quot;id&quot;:&quot;PV53FHo9nrewysJhXBiDGtrTrssedlOh&quot;,&quot;bounds&quot;:[240,708,31,31]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;5Z2dhPjJ2FfApXexO9WLVIVKefB7iGl1&quot;,&quot;name&quot;:&quot;Rechner zeigt Fehler an&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;6457WYbqs4ysIQLcqUJMOwBu1HggZQr7&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;pGKXxmG1DfRgu7L4k7wHda4FACWRpgMB&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;HqGKw09WQBhGdrHxhoYWuUrT9rHyTrk6&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;KC6pp0IRQhBS0dgJZ1jMfoF82TZq8UZI&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;sM08DVSV7yH20OcRMD7n8mDhYTbArdcF&quot;,&quot;cells&quot;:{&quot;HqGKw09WQBhGdrHxhoYWuUrT9rHyTrk6&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;h4VGgPy0prXswtwX14JRJHEgIHnMgERW&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Der Rechner zeigt einen Fehler an&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Fehlermeldung&quot;}],&quot;styleRanges&quot;:[]}}}]},&quot;KC6pp0IRQhBS0dgJZ1jMfoF82TZq8UZI&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Error&quot;},&quot;6457WYbqs4ysIQLcqUJMOwBu1HggZQr7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;/&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;/&quot;}}},&quot;pGKXxmG1DfRgu7L4k7wHda4FACWRpgMB&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}}}}]},&quot;bounds&quot;:[305,512,101,51],&quot;annotations&quot;:[{&quot;id&quot;:&quot;a329a660e3bb11efb358a5a730bfa787&quot;,&quot;text&quot;:&quot;Lieber OIiver, da passt was nicht&quot;,&quot;bounds&quot;:[475,430,150,50]}]},{&quot;type&quot;:&quot;choice&quot;,&quot;id&quot;:&quot;RSlhdmrT1seEhte5PRznGOB0Z6IO2UbA&quot;,&quot;bounds&quot;:[235,425,40,40]},{&quot;type&quot;:&quot;choice&quot;,&quot;id&quot;:&quot;rtkJW2h4iqsKXaYQbLEpAA2Yjs89IBhg&quot;,&quot;bounds&quot;:[235,618,40,40]}],&quot;connections&quot;:[{&quot;id&quot;:&quot;9R9cRRCMeDlkdFCYjjzKhCbSUp4T8DBr&quot;,&quot;source&quot;:&quot;bzUkB8Un6QV6yRjap0OJ9tTYX9RiCD7b&quot;,&quot;target&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;},{&quot;id&quot;:&quot;5gd1GBcZ3tbuqrPZIPDAwU71y6x3UOEt&quot;,&quot;source&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;,&quot;target&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;},{&quot;id&quot;:&quot;88D4UZgp4ng8lNjSe0VUFVgBo5BOqY9B&quot;,&quot;source&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;,&quot;target&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;},{&quot;id&quot;:&quot;MU3QtS0hczMnjtaT3Rvj5823iYZ6pQWT&quot;,&quot;source&quot;:&quot;RSlhdmrT1seEhte5PRznGOB0Z6IO2UbA&quot;,&quot;target&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;,&quot;points&quot;:[[154,444]]},{&quot;id&quot;:&quot;k5xj0KvsBGU5WbheN9eB91ooGfrUP9F8&quot;,&quot;source&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;,&quot;target&quot;:&quot;rtkJW2h4iqsKXaYQbLEpAA2Yjs89IBhg&quot;,&quot;points&quot;:[[156,640]]},{&quot;id&quot;:&quot;OguTdqpR1SPMt4Z4gWObsVOtRmdxXByW&quot;,&quot;source&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;,&quot;target&quot;:&quot;RSlhdmrT1seEhte5PRznGOB0Z6IO2UbA&quot;},{&quot;id&quot;:&quot;aEiul70XK5tKpgPl8SRruXajPc25urLV&quot;,&quot;source&quot;:&quot;RSlhdmrT1seEhte5PRznGOB0Z6IO2UbA&quot;,&quot;target&quot;:&quot;5Z2dhPjJ2FfApXexO9WLVIVKefB7iGl1&quot;,&quot;points&quot;:[[354,444]]},{&quot;id&quot;:&quot;iuRvoA7ouWNowN1cIE9Qb02r3vMX4d61&quot;,&quot;source&quot;:&quot;5Z2dhPjJ2FfApXexO9WLVIVKefB7iGl1&quot;,&quot;target&quot;:&quot;rtkJW2h4iqsKXaYQbLEpAA2Yjs89IBhg&quot;,&quot;points&quot;:[[354,636]]},{&quot;id&quot;:&quot;JmqMsyMphoxMljwWO6tFDIXWoCII7lQL&quot;,&quot;source&quot;:&quot;rtkJW2h4iqsKXaYQbLEpAA2Yjs89IBhg&quot;,&quot;target&quot;:&quot;PV53FHo9nrewysJhXBiDGtrTrssedlOh&quot;}]}"/>
+      <metadata key="jiraWorkflow_WorkflowVersion" value="12"/>
+      <metadata key="jiraWorkflow_WorkflowContent" value="{&quot;id&quot;:&quot;dpQMPsW2W3pnZBLw3PPddJ7vB273q95S&quot;,&quot;yest4JiraVersion&quot;:3,&quot;groups&quot;:[],&quot;nodes&quot;:[{&quot;type&quot;:&quot;start&quot;,&quot;id&quot;:&quot;bzUkB8Un6QV6yRjap0OJ9tTYX9RiCD7b&quot;,&quot;bounds&quot;:[240,110,31,31]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;,&quot;name&quot;:&quot;IntA auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;VHZqkf7Uykyx5d330FOE1rtHnrAMYkHh&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;7A4KTit4X9Ks02T5QgKMot4OjdOcffmc&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#attachment&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;2HGMl8tWvcFz14O1gj2o3uEReoFa5YT9&quot;,&quot;cells&quot;:{&quot;VHZqkf7Uykyx5d330FOE1rtHnrAMYkHh&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl A in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntA&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]},&quot;7A4KTit4X9Ks02T5QgKMot4OjdOcffmc&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;local-file-attachment&quot;,&quot;data&quot;:&quot;{\&quot;locationId\&quot;:\&quot;DefaultLocationId\&quot;,\&quot;relativePath\&quot;:\&quot;2024-12-05 17_29_02-cucumber-yest.png\&quot;}&quot;,&quot;rendering&quot;:&quot;2024-12-05 17_29_02-cucumber-yest.png&quot;}}}]},&quot;bounds&quot;:[205,184,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;,&quot;name&quot;:&quot;Operation auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;SWqwGKdGSTFiKbDnkoiLJhUP9kVAVo1J&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;},{&quot;id&quot;:&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;Story&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;8d5qQIKQkLmrPawaHVrQjVr7KKgxeQnc&quot;,&quot;cells&quot;:{&quot;SWqwGKdGSTFiKbDnkoiLJhUP9kVAVo1J&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;+&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;+&quot;}}},&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Addieren&quot;},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Operation \&quot;&quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;\&quot; auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10062\&quot;,\&quot;key\&quot;:\&quot;CD-10\&quot;}&quot;,&quot;rendering&quot;:&quot;CD-10: Zahlen addieren&quot;}}},{&quot;id&quot;:&quot;AafnvlRCd8zirAx9Paw7AbFVBnXbdg86&quot;,&quot;cells&quot;:{&quot;SWqwGKdGSTFiKbDnkoiLJhUP9kVAVo1J&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;-&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;-&quot;}}},&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Subtrahieren&quot;},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Operation \&quot;&quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;\&quot; auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10063\&quot;,\&quot;key\&quot;:\&quot;CD-11\&quot;}&quot;,&quot;rendering&quot;:&quot;CD-11: Zahlen subtrahieren&quot;}}},{&quot;id&quot;:&quot;WIBmAPNhXzPB5nXYlbIPLiXVOCObs9rk&quot;,&quot;cells&quot;:{&quot;SWqwGKdGSTFiKbDnkoiLJhUP9kVAVo1J&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;*&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;*&quot;}}},&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Multiplizieren&quot;},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Operation \&quot;&quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;\&quot; auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10064\&quot;,\&quot;key\&quot;:\&quot;CD-12\&quot;}&quot;,&quot;rendering&quot;:&quot;CD-12: Zahlen multiplizieren&quot;}}},{&quot;id&quot;:&quot;fbzPG4dtJISHcgGYe2I3CpPF1u2wdxib&quot;,&quot;cells&quot;:{&quot;SWqwGKdGSTFiKbDnkoiLJhUP9kVAVo1J&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;/&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;/&quot;}}},&quot;S212K0jVXwOnisI43lRh31meVAr9N0UJ&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Dividieren&quot;},&quot;m7FYwYxWbGHDJ5BxEtbDgcWJV9HvSSFb&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Operation \&quot;&quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;\&quot; auswählen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}}]},&quot;L64vnAwVbAHrWoaKoXFhuUWrr9jJfGWX&quot;:{&quot;kind&quot;:&quot;custom&quot;,&quot;type&quot;:&quot;jira-issue&quot;,&quot;data&quot;:&quot;{\&quot;self\&quot;:\&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10065\&quot;,\&quot;key\&quot;:\&quot;CD-9\&quot;}&quot;,&quot;rendering&quot;:&quot;CD-9: Zahlen dividieren&quot;}}}]},&quot;bounds&quot;:[205,268,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;,&quot;name&quot;:&quot;IntB auswählen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;OiG66I0IRu4VcBFs1xKpNwMj6cc2i50n&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;OIyLjn3ddLrx0e6nfLli3sRat30n0xBu&quot;,&quot;cells&quot;:{&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;BG2k342V4gSa5hLukfKVaVecJNHSWwZn&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl B &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;  in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]},&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}},&quot;OiG66I0IRu4VcBFs1xKpNwMj6cc2i50n&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;zero&quot;}}},{&quot;id&quot;:&quot;BdaJjFMyQypnRb5C4GatWUaoXwX5gYMX&quot;,&quot;cells&quot;:{&quot;lA6rtLvOYuOyD39honvQ0kugO19RDHPz&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;KAZ6UhDQoRjMjXiFgzpqQziS56eipftQ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;BG2k342V4gSa5hLukfKVaVecJNHSWwZn&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl B &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;design&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;  in Taschenrechner eingeben&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Zahl &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot; auf Rechner drücken&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[],&quot;styleRanges&quot;:[]}}]}]},&quot;OiG66I0IRu4VcBFs1xKpNwMj6cc2i50n&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;notZero&quot;}}}]},&quot;bounds&quot;:[205,342,101,51]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;,&quot;name&quot;:&quot;Ergebnis prüfen&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;dQotX9SdreqW2IIElR72P89fPqJv0F0X&quot;,&quot;cells&quot;:{&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;+&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;+&quot;}}},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;}}},{&quot;id&quot;:&quot;MYKHvPTR58dF1z9KCa6oRf8MzQhSM8Se&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;+&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;+&quot;}}},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;}}},{&quot;id&quot;:&quot;0dKFtZkmPQcbjnYvEEUGcKwpH9MooCU6&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;/&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;/&quot;}}},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;}}},{&quot;id&quot;:&quot;CJ5j24PQHHnetluCBZeijkaZMqct7VJ3&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;-&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;-&quot;}}},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;}}},{&quot;id&quot;:&quot;cLqZWLb3u5h5DFscmjvFff6t20PaeQF4&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;-&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;-&quot;}}},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;}}},{&quot;id&quot;:&quot;Y1jsvhTNTt3fnXr9aN5BSRgVjyFPUkzI&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;*&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;*&quot;}}},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;}}},{&quot;id&quot;:&quot;dBNo3aM3BxeVuuZlfE1RYMV0YFEiqXnt&quot;,&quot;cells&quot;:{&quot;dKU0YB7m2E3qvCOdbREtrZfXC8UWUAaL&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;ungleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;ungleich 0&quot;}}},&quot;zjpjxL4Me9KYD0UeZDJF1vJCTd5nakRZ&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ergebnis auf dem Display des Rechner prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;korrektes Ergebnis&quot;}],&quot;styleRanges&quot;:[]}},&quot;lowLevels&quot;:[{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis auf dem Display des Rechners prüfen&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Das Ergebnis lautet &quot;},{&quot;kind&quot;:&quot;field&quot;,&quot;dataKind&quot;:&quot;implementation&quot;,&quot;dataName&quot;:&quot;Ergebnis&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;}],&quot;styleRanges&quot;:[]}}]}]},&quot;54PrYWcAkwhTHX9CCJhRXJC1GrmAIKKa&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;*&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;*&quot;}}},&quot;0jHfay8MwProX56tbzIoTRW9NlNYXGSV&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Success&quot;}}}]},&quot;bounds&quot;:[105,512,101,51]},{&quot;type&quot;:&quot;end&quot;,&quot;id&quot;:&quot;PV53FHo9nrewysJhXBiDGtrTrssedlOh&quot;,&quot;bounds&quot;:[240,708,31,31]},{&quot;type&quot;:&quot;task&quot;,&quot;id&quot;:&quot;5Z2dhPjJ2FfApXexO9WLVIVKefB7iGl1&quot;,&quot;name&quot;:&quot;Rechner zeigt Fehler an&quot;,&quot;table&quot;:{&quot;columns&quot;:[{&quot;id&quot;:&quot;6457WYbqs4ysIQLcqUJMOwBu1HggZQr7&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;Operation&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;pGKXxmG1DfRgu7L4k7wHda4FACWRpgMB&quot;,&quot;kind&quot;:&quot;CONDITION&quot;,&quot;dataName&quot;:&quot;IntB&quot;,&quot;dataType&quot;:&quot;ENUMERATION&quot;},{&quot;id&quot;:&quot;HqGKw09WQBhGdrHxhoYWuUrT9rHyTrk6&quot;,&quot;kind&quot;:&quot;STEP&quot;},{&quot;id&quot;:&quot;KC6pp0IRQhBS0dgJZ1jMfoF82TZq8UZI&quot;,&quot;kind&quot;:&quot;ADDITIONAL_INFORMATION&quot;,&quot;type&quot;:&quot;#objective&quot;}],&quot;decisions&quot;:[{&quot;id&quot;:&quot;sM08DVSV7yH20OcRMD7n8mDhYTbArdcF&quot;,&quot;cells&quot;:{&quot;KC6pp0IRQhBS0dgJZ1jMfoF82TZq8UZI&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;Error&quot;},&quot;6457WYbqs4ysIQLcqUJMOwBu1HggZQr7&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;/&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;/&quot;}}},&quot;HqGKw09WQBhGdrHxhoYWuUrT9rHyTrk6&quot;:{&quot;kind&quot;:&quot;operation&quot;,&quot;operations&quot;:[{&quot;id&quot;:&quot;h4VGgPy0prXswtwX14JRJHEgIHnMgERW&quot;,&quot;highLevel&quot;:{&quot;action&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Der Rechner zeigt einen Fehler an&quot;}],&quot;styleRanges&quot;:[]},&quot;result&quot;:{&quot;items&quot;:[{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Fehlermeldung&quot;}],&quot;styleRanges&quot;:[]}}}]},&quot;pGKXxmG1DfRgu7L4k7wHda4FACWRpgMB&quot;:{&quot;kind&quot;:&quot;string&quot;,&quot;value&quot;:&quot;gleich 0&quot;,&quot;expression&quot;:{&quot;kind&quot;:&quot;comparison&quot;,&quot;operator&quot;:&quot;EQUAL&quot;,&quot;operand&quot;:{&quot;kind&quot;:&quot;text&quot;,&quot;value&quot;:&quot;gleich 0&quot;}}}}}]},&quot;bounds&quot;:[305,512,101,51]},{&quot;type&quot;:&quot;choice&quot;,&quot;id&quot;:&quot;RSlhdmrT1seEhte5PRznGOB0Z6IO2UbA&quot;,&quot;bounds&quot;:[235,425,40,40]},{&quot;type&quot;:&quot;choice&quot;,&quot;id&quot;:&quot;rtkJW2h4iqsKXaYQbLEpAA2Yjs89IBhg&quot;,&quot;bounds&quot;:[235,618,40,40]}],&quot;connections&quot;:[{&quot;id&quot;:&quot;9R9cRRCMeDlkdFCYjjzKhCbSUp4T8DBr&quot;,&quot;source&quot;:&quot;bzUkB8Un6QV6yRjap0OJ9tTYX9RiCD7b&quot;,&quot;target&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;},{&quot;id&quot;:&quot;5gd1GBcZ3tbuqrPZIPDAwU71y6x3UOEt&quot;,&quot;source&quot;:&quot;f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C&quot;,&quot;target&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;},{&quot;id&quot;:&quot;88D4UZgp4ng8lNjSe0VUFVgBo5BOqY9B&quot;,&quot;source&quot;:&quot;vm4AmmPp6Tri9JPuyIEBD138wdprLNEg&quot;,&quot;target&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;},{&quot;id&quot;:&quot;MU3QtS0hczMnjtaT3Rvj5823iYZ6pQWT&quot;,&quot;source&quot;:&quot;RSlhdmrT1seEhte5PRznGOB0Z6IO2UbA&quot;,&quot;target&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;,&quot;points&quot;:[[154,444]]},{&quot;id&quot;:&quot;k5xj0KvsBGU5WbheN9eB91ooGfrUP9F8&quot;,&quot;source&quot;:&quot;GHOnaRxkpBNrsDnvKEKLoqXmS2IrFUso&quot;,&quot;target&quot;:&quot;rtkJW2h4iqsKXaYQbLEpAA2Yjs89IBhg&quot;,&quot;points&quot;:[[156,640]]},{&quot;id&quot;:&quot;OguTdqpR1SPMt4Z4gWObsVOtRmdxXByW&quot;,&quot;source&quot;:&quot;DTRKedBHkNsj1KBFoEbD3irAXyxxAE4x&quot;,&quot;target&quot;:&quot;RSlhdmrT1seEhte5PRznGOB0Z6IO2UbA&quot;},{&quot;id&quot;:&quot;aEiul70XK5tKpgPl8SRruXajPc25urLV&quot;,&quot;source&quot;:&quot;RSlhdmrT1seEhte5PRznGOB0Z6IO2UbA&quot;,&quot;target&quot;:&quot;5Z2dhPjJ2FfApXexO9WLVIVKefB7iGl1&quot;,&quot;points&quot;:[[354,444]]},{&quot;id&quot;:&quot;iuRvoA7ouWNowN1cIE9Qb02r3vMX4d61&quot;,&quot;source&quot;:&quot;5Z2dhPjJ2FfApXexO9WLVIVKefB7iGl1&quot;,&quot;target&quot;:&quot;rtkJW2h4iqsKXaYQbLEpAA2Yjs89IBhg&quot;,&quot;points&quot;:[[354,636]]},{&quot;id&quot;:&quot;JmqMsyMphoxMljwWO6tFDIXWoCII7lQL&quot;,&quot;source&quot;:&quot;rtkJW2h4iqsKXaYQbLEpAA2Yjs89IBhg&quot;,&quot;target&quot;:&quot;PV53FHo9nrewysJhXBiDGtrTrssedlOh&quot;}]}"/>
       <flowElements xsi:type="yest:StartPoint" id="bzUkB8Un6QV6yRjap0OJ9tTYX9RiCD7b" name="" outgoings="9R9cRRCMeDlkdFCYjjzKhCbSUp4T8DBr"/>
       <flowElements xsi:type="yest:Task" id="f3ejhtD8XODTorGx4fLGgK0LAo9PnD0C" name="IntA auswählen" incomings="9R9cRRCMeDlkdFCYjjzKhCbSUp4T8DBr" outgoings="5gd1GBcZ3tbuqrPZIPDAwU71y6x3UOEt">
         <table>
@@ -742,7 +742,7 @@
         <children xsi:type="yest:TaskShape" visible="true" active="true" text="//@subFolders.0/@testElements.0/@diagram/@children.6/@children.0/@graphicsAlgorithm" flowNode="5Z2dhPjJ2FfApXexO9WLVIVKefB7iGl1">
           <graphicsAlgorithm xsi:type="al:RoundedRectangle" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.4" lineWidth="2" transparency="0.0" width="101" height="51" x="305" y="512" style="//@subFolders.0/@testElements.0/@diagram/@styles.1" cornerHeight="20" cornerWidth="20"/>
           <link businessObjects="5Z2dhPjJ2FfApXexO9WLVIVKefB7iGl1"/>
-          <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.7 //@subFolders.0/@testElements.0/@diagram/@connections.9" incomingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.6"/>
+          <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.7" incomingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.6"/>
           <children xsi:type="pi:ContainerShape" visible="true">
             <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.3" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.0/@testElements.0/@diagram/@fonts.0" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="Rechner zeigt&#xD;&#xA;Fehler an"/>
           </children>
@@ -790,21 +790,6 @@
             <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.6" lineWidth="2">
               <points x="12" y="28"/>
               <points x="28" y="12"/>
-            </graphicsAlgorithm>
-          </children>
-        </children>
-        <children xsi:type="yest:TextAnnotationShape" visible="true" active="true" extras="//@subFolders.0/@testElements.0/@diagram/@children.9/@children.1/@graphicsAlgorithm" text="//@subFolders.0/@testElements.0/@diagram/@children.9/@children.0/@graphicsAlgorithm" id="a329a660e3bb11efb358a5a730bfa787">
-          <graphicsAlgorithm xsi:type="al:Rectangle" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.7" lineWidth="1" lineVisible="true" transparency="0.0" width="150" height="50" x="475" y="430" style="//@subFolders.0/@testElements.0/@diagram/@styles.4"/>
-          <anchors xsi:type="pi:ChopboxAnchor" incomingConnections="//@subFolders.0/@testElements.0/@diagram/@connections.9"/>
-          <children visible="true">
-            <graphicsAlgorithm xsi:type="al:MultiText" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.8" lineWidth="1" filled="false" transparency="0.0" width="138" height="42" x="6" y="4" font="//@subFolders.0/@testElements.0/@diagram/@fonts.0" verticalAlignment="ALIGNMENT_TOP" value="Lieber OIiver, da passt was nicht"/>
-          </children>
-          <children visible="true">
-            <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.9" lineWidth="2" filled="true" lineVisible="true" transparency="0.0">
-              <points x="37"/>
-              <points/>
-              <points y="50"/>
-              <points x="37" y="50"/>
             </graphicsAlgorithm>
           </children>
         </children>
@@ -1091,9 +1076,6 @@
             </graphicsAlgorithm>
           </connectionDecorators>
         </connections>
-        <connections xsi:type="yest:TextAnnotationConnection" visible="true" active="true" start="//@subFolders.0/@testElements.0/@diagram/@children.6/@anchors.0" end="//@subFolders.0/@testElements.0/@diagram/@children.9/@anchors.0">
-          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.0/@testElements.0/@diagram/@colors.7" lineWidth="2" lineStyle="DOT" filled="true" lineVisible="true" transparency="0.0"/>
-        </connections>
         <colors red="227" green="238" blue="249"/>
         <colors red="255" green="255" blue="255"/>
         <colors red="164" green="193" blue="162"/>
@@ -1195,6 +1177,958 @@
         <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
       </testActions>
       <testActions id="kvfYJlSah7J8V05fmhQkAywylvwznqlD" operation="h4VGgPy0prXswtwX14JRJHEgIHnMgERW"/>
+    </testElements>
+  </subFolders>
+  <subFolders name="Demo - Generate Test Cases" id="7OFjXELmtnRY5yRZnSLYPxLz1GU6dSD9">
+    <testElements xsi:type="yest:Workflow" id="GO3Z3YhoqYgaI5wx9Zwf60NXaZEBrpq9" name="Taschenrechner">
+      <flowElements xsi:type="yest:StartPoint" id="qFPgmiTiyPT9L6dqX87RBZfccphFfzha" name="" outgoings="qkWLcnM60chZTxjQ7dJlaXh0MlEjMzmx"/>
+      <flowElements xsi:type="yest:Task" id="WdC7W6XT60qCXVvBn5vwCKF7dLkYK8A0" name="IntA auswählen" incomings="qkWLcnM60chZTxjQ7dJlaXh0MlEjMzmx" outgoings="WDO0oWIklRDUKXIBA0g83o3ZtOb8hb9B">
+        <table>
+          <columns xsi:type="yest:OperationColumn" id="2gOqWKxU2vDVgySUTady0Z6lrYGx1R00"/>
+          <columns xsi:type="yest:CriterionColumn" id="PJXjT7TC6WW55H6Wr6SDYZAZBd48dnhQ" criterionType="#attachment"/>
+          <decisions id="fZetMYoBzTjjHJ7BoTIGFCaSimZjGZqa">
+            <cells key="2gOqWKxU2vDVgySUTady0Z6lrYGx1R00">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+              </value>
+            </cells>
+            <cells key="PJXjT7TC6WW55H6Wr6SDYZAZBd48dnhQ">
+              <value xsi:type="yest:CustomizableCell" type="local-file-attachment" rendering="2024-12-05 17_29_02-cucumber-yest.png" data="{&quot;locationId&quot;:&quot;DefaultLocationId&quot;,&quot;relativePath&quot;:&quot;2024-12-05 17_29_02-cucumber-yest.png&quot;}"/>
+            </cells>
+          </decisions>
+        </table>
+      </flowElements>
+      <flowElements xsi:type="yest:Task" id="wvaotWp5m9V2aVyOlLUkWWDuSvl2XVxb" name="Operation auswählen" incomings="WDO0oWIklRDUKXIBA0g83o3ZtOb8hb9B" outgoings="EXytsfjP1AXTzxhCPHUV0D1tmnX7Yw1z">
+        <table>
+          <columns xsi:type="yest:DataColumn" id="G4Iu2vrt1LRYNIWxfM0sYWsPBcvnElOQ" data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5"/>
+          <columns xsi:type="yest:OperationColumn" id="lMjhhx17PxMRLsbyC8VXl9vpQ1X9AKRC"/>
+          <columns xsi:type="yest:CriterionColumn" id="eK6U0rqxENChX7GXU0El5CRIypWB7ZHN" criterionType="#objective"/>
+          <columns xsi:type="yest:CriterionColumn" id="w9lfvaHu7FuGr7L8nrzgOSHYeEEdVgle" criterionType="Story"/>
+          <decisions id="NSNycwCaQGighXyXJfeqhsExaGKZLKpe">
+            <cells key="lMjhhx17PxMRLsbyC8VXl9vpQ1X9AKRC">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2"/>
+              </value>
+            </cells>
+            <cells key="eK6U0rqxENChX7GXU0El5CRIypWB7ZHN">
+              <value xsi:type="yest:StringCell" value="Addieren"/>
+            </cells>
+            <cells key="w9lfvaHu7FuGr7L8nrzgOSHYeEEdVgle">
+              <value xsi:type="yest:CustomizableCell" type="jira-issue" rendering="CD-10: Zahlen addieren" data="{&quot;self&quot;:&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10062&quot;,&quot;key&quot;:&quot;CD-10&quot;}"/>
+            </cells>
+            <cells key="G4Iu2vrt1LRYNIWxfM0sYWsPBcvnElOQ">
+              <value xsi:type="yest:DataValueCell" value="D3BwwKwUNoNEb5eSwzb3xf0vaRyQLojR"/>
+            </cells>
+          </decisions>
+          <decisions id="mvRHeqWV6m93UE2Bpkm3YLy7gFZYCVtw">
+            <cells key="lMjhhx17PxMRLsbyC8VXl9vpQ1X9AKRC">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2"/>
+              </value>
+            </cells>
+            <cells key="eK6U0rqxENChX7GXU0El5CRIypWB7ZHN">
+              <value xsi:type="yest:StringCell" value="Subtrahieren"/>
+            </cells>
+            <cells key="w9lfvaHu7FuGr7L8nrzgOSHYeEEdVgle">
+              <value xsi:type="yest:CustomizableCell" type="jira-issue" rendering="CD-11: Zahlen subtrahieren" data="{&quot;self&quot;:&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10063&quot;,&quot;key&quot;:&quot;CD-11&quot;}"/>
+            </cells>
+            <cells key="G4Iu2vrt1LRYNIWxfM0sYWsPBcvnElOQ">
+              <value xsi:type="yest:DataValueCell" value="VkL16hDQW81mW7uhXqUaulP2o6nIUbyn"/>
+            </cells>
+          </decisions>
+          <decisions id="S4UZMKKCZHviqZCHFIm7lXN3kBrqZQ1q">
+            <cells key="lMjhhx17PxMRLsbyC8VXl9vpQ1X9AKRC">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2"/>
+              </value>
+            </cells>
+            <cells key="eK6U0rqxENChX7GXU0El5CRIypWB7ZHN">
+              <value xsi:type="yest:StringCell" value="Multiplizieren"/>
+            </cells>
+            <cells key="w9lfvaHu7FuGr7L8nrzgOSHYeEEdVgle">
+              <value xsi:type="yest:CustomizableCell" type="jira-issue" rendering="CD-12: Zahlen multiplizieren" data="{&quot;self&quot;:&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10064&quot;,&quot;key&quot;:&quot;CD-12&quot;}"/>
+            </cells>
+            <cells key="G4Iu2vrt1LRYNIWxfM0sYWsPBcvnElOQ">
+              <value xsi:type="yest:DataValueCell" value="ut4Z0e55HPAzb2SIuwDvsy1f4rlqOv4d"/>
+            </cells>
+          </decisions>
+          <decisions id="U70hWtNKU8TnZ1fSEyDSyvSSm43NOmBA">
+            <cells key="lMjhhx17PxMRLsbyC8VXl9vpQ1X9AKRC">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2"/>
+              </value>
+            </cells>
+            <cells key="eK6U0rqxENChX7GXU0El5CRIypWB7ZHN">
+              <value xsi:type="yest:StringCell" value="Dividieren"/>
+            </cells>
+            <cells key="w9lfvaHu7FuGr7L8nrzgOSHYeEEdVgle">
+              <value xsi:type="yest:CustomizableCell" type="jira-issue" rendering="CD-9: Zahlen dividieren" data="{&quot;self&quot;:&quot;https://mbtdemo.atlassian.net/rest/api/3/issue/10065&quot;,&quot;key&quot;:&quot;CD-9&quot;}"/>
+            </cells>
+            <cells key="G4Iu2vrt1LRYNIWxfM0sYWsPBcvnElOQ">
+              <value xsi:type="yest:DataValueCell" value="YsKPnPNDxn1QoHNYjYANBCYkHNRm1Ct7"/>
+            </cells>
+          </decisions>
+        </table>
+      </flowElements>
+      <flowElements xsi:type="yest:Task" id="0o6Gc2CNSgB8iJQbucfFKDv98CNaRzCE" name="IntB auswählen" incomings="EXytsfjP1AXTzxhCPHUV0D1tmnX7Yw1z" outgoings="gDLtJrHPoY4W8QMvY1rYoEyQZanZ4f0O">
+        <table>
+          <columns xsi:type="yest:DataColumn" id="95qcj0HR0fBsWIcRbHZQoIOKZJOxrLGr" data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK"/>
+          <columns xsi:type="yest:OperationColumn" id="WuFg5IQnjrkrQ81KFzVP6n7f2B8A2ThU"/>
+          <columns xsi:type="yest:CriterionColumn" id="84GTrZFRKXkjXCdHa1G94n07OUF8PLXu" criterionType="#objective"/>
+          <decisions id="BUKhKKz3nJS1INMAIWDJ1Temrwd5ztms">
+            <cells key="WuFg5IQnjrkrQ81KFzVP6n7f2B8A2ThU">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="BG2k342V4gSa5hLukfKVaVecJNHSWwZn"/>
+              </value>
+            </cells>
+            <cells key="95qcj0HR0fBsWIcRbHZQoIOKZJOxrLGr">
+              <value xsi:type="yest:DataValueCell" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+            </cells>
+            <cells key="84GTrZFRKXkjXCdHa1G94n07OUF8PLXu">
+              <value xsi:type="yest:StringCell" value="zero"/>
+            </cells>
+          </decisions>
+          <decisions id="LYtE75pGvvcu4rFABJWnP30U7Ib7JBSZ">
+            <cells key="95qcj0HR0fBsWIcRbHZQoIOKZJOxrLGr">
+              <value xsi:type="yest:DataValueCell" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+            </cells>
+            <cells key="WuFg5IQnjrkrQ81KFzVP6n7f2B8A2ThU">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="BG2k342V4gSa5hLukfKVaVecJNHSWwZn"/>
+              </value>
+            </cells>
+            <cells key="84GTrZFRKXkjXCdHa1G94n07OUF8PLXu">
+              <value xsi:type="yest:StringCell" value="notZero"/>
+            </cells>
+          </decisions>
+        </table>
+      </flowElements>
+      <flowElements xsi:type="yest:Task" id="QWnd8XxfFfj6iPlQHwprQQ78okJiaUiz" name="Ergebnis prüfen" incomings="pgGdROVwJ7L4s5NP3Hr4vhKqMMIIN8KO" outgoings="UvzlebXB7uJi3s4KCGdtTmOzuPsUUn7R">
+        <table>
+          <columns xsi:type="yest:DataColumn" id="LUz9ISBkVoUjuHLWKP5Ql9prjUx4aC8B" data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5"/>
+          <columns xsi:type="yest:DataColumn" id="PT0mkkUpy2auQgyDtHnFT0k8eVZXw8TJ" data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK"/>
+          <columns xsi:type="yest:OperationColumn" id="KIEjObwQPNdQ6uSa87NbO7ch3xk2Xr2A"/>
+          <columns xsi:type="yest:CriterionColumn" id="aSC7TUcO6y4kUgvNB4LxxCfvQ2vXgur3" criterionType="#objective"/>
+          <decisions id="znypEymxNowRawDhzeM3rflBnFsbo2lI">
+            <cells key="KIEjObwQPNdQ6uSa87NbO7ch3xk2Xr2A">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="PT0mkkUpy2auQgyDtHnFT0k8eVZXw8TJ">
+              <value xsi:type="yest:DataValueCell" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+            </cells>
+            <cells key="aSC7TUcO6y4kUgvNB4LxxCfvQ2vXgur3">
+              <value xsi:type="yest:StringCell" value="Success"/>
+            </cells>
+            <cells key="LUz9ISBkVoUjuHLWKP5Ql9prjUx4aC8B">
+              <value xsi:type="yest:DataValueCell" value="D3BwwKwUNoNEb5eSwzb3xf0vaRyQLojR"/>
+            </cells>
+          </decisions>
+          <decisions id="p4cf2U0AnEx4GnZKRibU5VaroKxQvPXK">
+            <cells key="PT0mkkUpy2auQgyDtHnFT0k8eVZXw8TJ">
+              <value xsi:type="yest:DataValueCell" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+            </cells>
+            <cells key="KIEjObwQPNdQ6uSa87NbO7ch3xk2Xr2A">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="aSC7TUcO6y4kUgvNB4LxxCfvQ2vXgur3">
+              <value xsi:type="yest:StringCell" value="Success"/>
+            </cells>
+            <cells key="LUz9ISBkVoUjuHLWKP5Ql9prjUx4aC8B">
+              <value xsi:type="yest:DataValueCell" value="D3BwwKwUNoNEb5eSwzb3xf0vaRyQLojR"/>
+            </cells>
+          </decisions>
+          <decisions id="fZGfkWvYiWnTrBJK7R4ILwONH0xR03K0">
+            <cells key="PT0mkkUpy2auQgyDtHnFT0k8eVZXw8TJ">
+              <value xsi:type="yest:DataValueCell" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+            </cells>
+            <cells key="KIEjObwQPNdQ6uSa87NbO7ch3xk2Xr2A">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="aSC7TUcO6y4kUgvNB4LxxCfvQ2vXgur3">
+              <value xsi:type="yest:StringCell" value="Success"/>
+            </cells>
+            <cells key="LUz9ISBkVoUjuHLWKP5Ql9prjUx4aC8B">
+              <value xsi:type="yest:DataValueCell" value="YsKPnPNDxn1QoHNYjYANBCYkHNRm1Ct7"/>
+            </cells>
+          </decisions>
+          <decisions id="9tARQvgIG4ndLThRXzb5i4a5nw4iKGMX">
+            <cells key="PT0mkkUpy2auQgyDtHnFT0k8eVZXw8TJ">
+              <value xsi:type="yest:DataValueCell" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+            </cells>
+            <cells key="KIEjObwQPNdQ6uSa87NbO7ch3xk2Xr2A">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="aSC7TUcO6y4kUgvNB4LxxCfvQ2vXgur3">
+              <value xsi:type="yest:StringCell" value="Success"/>
+            </cells>
+            <cells key="LUz9ISBkVoUjuHLWKP5Ql9prjUx4aC8B">
+              <value xsi:type="yest:DataValueCell" value="VkL16hDQW81mW7uhXqUaulP2o6nIUbyn"/>
+            </cells>
+          </decisions>
+          <decisions id="l7YAnDh8UZBR7f5a9SIFumoDFW29GYng">
+            <cells key="PT0mkkUpy2auQgyDtHnFT0k8eVZXw8TJ">
+              <value xsi:type="yest:DataValueCell" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+            </cells>
+            <cells key="KIEjObwQPNdQ6uSa87NbO7ch3xk2Xr2A">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="aSC7TUcO6y4kUgvNB4LxxCfvQ2vXgur3">
+              <value xsi:type="yest:StringCell" value="Success"/>
+            </cells>
+            <cells key="LUz9ISBkVoUjuHLWKP5Ql9prjUx4aC8B">
+              <value xsi:type="yest:DataValueCell" value="VkL16hDQW81mW7uhXqUaulP2o6nIUbyn"/>
+            </cells>
+          </decisions>
+          <decisions id="1hUovbpHG6o1SAi54J9X12uKDUySHRCH">
+            <cells key="PT0mkkUpy2auQgyDtHnFT0k8eVZXw8TJ">
+              <value xsi:type="yest:DataValueCell" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+            </cells>
+            <cells key="KIEjObwQPNdQ6uSa87NbO7ch3xk2Xr2A">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="aSC7TUcO6y4kUgvNB4LxxCfvQ2vXgur3">
+              <value xsi:type="yest:StringCell" value="Success"/>
+            </cells>
+            <cells key="LUz9ISBkVoUjuHLWKP5Ql9prjUx4aC8B">
+              <value xsi:type="yest:DataValueCell" value="ut4Z0e55HPAzb2SIuwDvsy1f4rlqOv4d"/>
+            </cells>
+          </decisions>
+          <decisions id="FWuVoBKpal6DNaTDl15vOMRGH1uDPtSm">
+            <cells key="PT0mkkUpy2auQgyDtHnFT0k8eVZXw8TJ">
+              <value xsi:type="yest:DataValueCell" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+            </cells>
+            <cells key="KIEjObwQPNdQ6uSa87NbO7ch3xk2Xr2A">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+              </value>
+            </cells>
+            <cells key="aSC7TUcO6y4kUgvNB4LxxCfvQ2vXgur3">
+              <value xsi:type="yest:StringCell" value="Success"/>
+            </cells>
+            <cells key="LUz9ISBkVoUjuHLWKP5Ql9prjUx4aC8B">
+              <value xsi:type="yest:DataValueCell" value="ut4Z0e55HPAzb2SIuwDvsy1f4rlqOv4d"/>
+            </cells>
+          </decisions>
+        </table>
+      </flowElements>
+      <flowElements xsi:type="yest:EndPoint" id="2gsiScTEe0SDGnOAGGJD3sTlN6KGerqZ" name="" incomings="DvdV5pMwiWEvMvJqkyaF94ZBJd4DRyw6"/>
+      <flowElements xsi:type="yest:Task" id="9TqiJLKDsfYIooZnbLd63a1E629FWikA" name="Rechner zeigt Fehler an" incomings="7D6qTF90vPVVNP2SfDo3Ybz9IYsR3LxX" outgoings="B6xSFEGXZpxb167TLTV9aGRZaiS7RLkN">
+        <table>
+          <columns xsi:type="yest:DataColumn" id="3y3SwJo6cfXaS7vJqnw5CgcOcQGlRGOd" data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5"/>
+          <columns xsi:type="yest:DataColumn" id="E8hyXM6NFjPAjnjsGllr0zUi26OHAzaL" data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK"/>
+          <columns xsi:type="yest:OperationColumn" id="mvieudimbTGsEF92l8QxeAgUw3jHeA4V"/>
+          <columns xsi:type="yest:CriterionColumn" id="JwZgHBhGztClpiSSSyPPfdH9Qw798DVr" criterionType="#objective"/>
+          <decisions id="lpbWK2rWWov7znsGPbYW3XVZ8oAas7PM">
+            <cells key="mvieudimbTGsEF92l8QxeAgUw3jHeA4V">
+              <value xsi:type="yest:OperationCell">
+                <operations reference="h4VGgPy0prXswtwX14JRJHEgIHnMgERW"/>
+              </value>
+            </cells>
+            <cells key="E8hyXM6NFjPAjnjsGllr0zUi26OHAzaL">
+              <value xsi:type="yest:DataValueCell" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+            </cells>
+            <cells key="JwZgHBhGztClpiSSSyPPfdH9Qw798DVr">
+              <value xsi:type="yest:StringCell" value="Error"/>
+            </cells>
+            <cells key="3y3SwJo6cfXaS7vJqnw5CgcOcQGlRGOd">
+              <value xsi:type="yest:DataValueCell" value="YsKPnPNDxn1QoHNYjYANBCYkHNRm1Ct7"/>
+            </cells>
+          </decisions>
+        </table>
+      </flowElements>
+      <flowElements xsi:type="yest:ChoicePoint" id="4Gj70ZkaizHbycGsxCR56GMzoKg7O6hY" name="" incomings="gDLtJrHPoY4W8QMvY1rYoEyQZanZ4f0O" outgoings="pgGdROVwJ7L4s5NP3Hr4vhKqMMIIN8KO 7D6qTF90vPVVNP2SfDo3Ybz9IYsR3LxX"/>
+      <flowElements xsi:type="yest:ChoicePoint" id="hAzoWfjY1bMBoetH8Lph4259eCA2B9WJ" name="" incomings="UvzlebXB7uJi3s4KCGdtTmOzuPsUUn7R B6xSFEGXZpxb167TLTV9aGRZaiS7RLkN" outgoings="DvdV5pMwiWEvMvJqkyaF94ZBJd4DRyw6"/>
+      <flowElements xsi:type="yest:SequenceFlow" id="qkWLcnM60chZTxjQ7dJlaXh0MlEjMzmx" name="" target="WdC7W6XT60qCXVvBn5vwCKF7dLkYK8A0" source="qFPgmiTiyPT9L6dqX87RBZfccphFfzha"/>
+      <flowElements xsi:type="yest:SequenceFlow" id="WDO0oWIklRDUKXIBA0g83o3ZtOb8hb9B" name="" target="wvaotWp5m9V2aVyOlLUkWWDuSvl2XVxb" source="WdC7W6XT60qCXVvBn5vwCKF7dLkYK8A0"/>
+      <flowElements xsi:type="yest:SequenceFlow" id="EXytsfjP1AXTzxhCPHUV0D1tmnX7Yw1z" name="" target="0o6Gc2CNSgB8iJQbucfFKDv98CNaRzCE" source="wvaotWp5m9V2aVyOlLUkWWDuSvl2XVxb"/>
+      <flowElements xsi:type="yest:SequenceFlow" id="pgGdROVwJ7L4s5NP3Hr4vhKqMMIIN8KO" name="" target="QWnd8XxfFfj6iPlQHwprQQ78okJiaUiz" source="4Gj70ZkaizHbycGsxCR56GMzoKg7O6hY"/>
+      <flowElements xsi:type="yest:SequenceFlow" id="UvzlebXB7uJi3s4KCGdtTmOzuPsUUn7R" name="" target="hAzoWfjY1bMBoetH8Lph4259eCA2B9WJ" source="QWnd8XxfFfj6iPlQHwprQQ78okJiaUiz"/>
+      <flowElements xsi:type="yest:SequenceFlow" id="gDLtJrHPoY4W8QMvY1rYoEyQZanZ4f0O" name="" target="4Gj70ZkaizHbycGsxCR56GMzoKg7O6hY" source="0o6Gc2CNSgB8iJQbucfFKDv98CNaRzCE"/>
+      <flowElements xsi:type="yest:SequenceFlow" id="7D6qTF90vPVVNP2SfDo3Ybz9IYsR3LxX" name="" target="9TqiJLKDsfYIooZnbLd63a1E629FWikA" source="4Gj70ZkaizHbycGsxCR56GMzoKg7O6hY"/>
+      <flowElements xsi:type="yest:SequenceFlow" id="B6xSFEGXZpxb167TLTV9aGRZaiS7RLkN" name="" target="hAzoWfjY1bMBoetH8Lph4259eCA2B9WJ" source="9TqiJLKDsfYIooZnbLd63a1E629FWikA"/>
+      <flowElements xsi:type="yest:SequenceFlow" id="DvdV5pMwiWEvMvJqkyaF94ZBJd4DRyw6" name="" target="2gsiScTEe0SDGnOAGGJD3sTlN6KGerqZ" source="hAzoWfjY1bMBoetH8Lph4259eCA2B9WJ"/>
+      <diagram visible="true" gridUnit="-1" diagramTypeId="com.smartesting.metamodel.WorkflowDiagram" name="Taschenrechner" pictogramLinks="//@subFolders.1/@testElements.0/@diagram/@children.0/@link //@subFolders.1/@testElements.0/@diagram/@children.1/@link //@subFolders.1/@testElements.0/@diagram/@children.2/@link //@subFolders.1/@testElements.0/@diagram/@children.3/@link //@subFolders.1/@testElements.0/@diagram/@children.4/@link //@subFolders.1/@testElements.0/@diagram/@children.5/@link //@subFolders.1/@testElements.0/@diagram/@children.6/@link //@subFolders.1/@testElements.0/@diagram/@children.8/@link //@subFolders.1/@testElements.0/@diagram/@children.9/@link //@subFolders.1/@testElements.0/@diagram/@connections.1/@link //@subFolders.1/@testElements.0/@diagram/@connections.2/@link //@subFolders.1/@testElements.0/@diagram/@connections.3/@link //@subFolders.1/@testElements.0/@diagram/@connections.4/@link //@subFolders.1/@testElements.0/@diagram/@connections.5/@link //@subFolders.1/@testElements.0/@diagram/@connections.6/@link //@subFolders.1/@testElements.0/@diagram/@connections.7/@link //@subFolders.1/@testElements.0/@diagram/@connections.8/@link //@subFolders.1/@testElements.0/@diagram/@connections.9/@link" version="0.16.0">
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@subFolders.1/@testElements.0/@diagram/@styles.0/@renderingStyle/@adaptedGradientColoredAreas/@adaptedGradientColoredAreas.0/@gradientColor.0/@end/@color" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.0" lineWidth="1" transparency="0.0" width="1000" height="1000"/>
+        <children xsi:type="yest:StartPointShape" visible="true" active="true" flowNode="qFPgmiTiyPT9L6dqX87RBZfccphFfzha">
+          <graphicsAlgorithm xsi:type="al:Ellipse" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.1" lineWidth="2" transparency="0.0" width="31" height="31" x="240" y="110" style="//@subFolders.1/@testElements.0/@diagram/@styles.0"/>
+          <link businessObjects="qFPgmiTiyPT9L6dqX87RBZfccphFfzha"/>
+          <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.1"/>
+        </children>
+        <children xsi:type="yest:TaskShape" visible="true" active="true" text="//@subFolders.1/@testElements.0/@diagram/@children.1/@children.0/@graphicsAlgorithm" flowNode="WdC7W6XT60qCXVvBn5vwCKF7dLkYK8A0">
+          <graphicsAlgorithm xsi:type="al:RoundedRectangle" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.3" lineWidth="2" filled="true" transparency="0.0" width="101" height="51" x="205" y="184" style="//@subFolders.1/@testElements.0/@diagram/@styles.1" cornerHeight="20" cornerWidth="20"/>
+          <link businessObjects="WdC7W6XT60qCXVvBn5vwCKF7dLkYK8A0"/>
+          <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.2" incomingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.1"/>
+          <children xsi:type="pi:ContainerShape" visible="true">
+            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.1/@testElements.0/@diagram/@fonts.0" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="IntA auswählen"/>
+          </children>
+        </children>
+        <children xsi:type="yest:TaskShape" visible="true" active="true" text="//@subFolders.1/@testElements.0/@diagram/@children.2/@children.0/@graphicsAlgorithm" flowNode="wvaotWp5m9V2aVyOlLUkWWDuSvl2XVxb">
+          <graphicsAlgorithm xsi:type="al:RoundedRectangle" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.3" lineWidth="2" filled="true" transparency="0.0" width="101" height="51" x="205" y="268" style="//@subFolders.1/@testElements.0/@diagram/@styles.2" cornerHeight="20" cornerWidth="20"/>
+          <link businessObjects="wvaotWp5m9V2aVyOlLUkWWDuSvl2XVxb"/>
+          <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.3" incomingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.2"/>
+          <children xsi:type="pi:ContainerShape" visible="true">
+            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.1/@testElements.0/@diagram/@fonts.0" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="Operation&#xD;&#xA;auswählen"/>
+          </children>
+        </children>
+        <children xsi:type="yest:TaskShape" visible="true" active="true" text="//@subFolders.1/@testElements.0/@diagram/@children.3/@children.0/@graphicsAlgorithm" flowNode="0o6Gc2CNSgB8iJQbucfFKDv98CNaRzCE">
+          <graphicsAlgorithm xsi:type="al:RoundedRectangle" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.3" lineWidth="2" filled="true" transparency="0.0" width="101" height="51" x="205" y="342" style="//@subFolders.1/@testElements.0/@diagram/@styles.3" cornerHeight="20" cornerWidth="20"/>
+          <link businessObjects="0o6Gc2CNSgB8iJQbucfFKDv98CNaRzCE"/>
+          <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.6" incomingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.3"/>
+          <children xsi:type="pi:ContainerShape" visible="true">
+            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.1/@testElements.0/@diagram/@fonts.0" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="IntB auswählen"/>
+          </children>
+        </children>
+        <children xsi:type="yest:TaskShape" visible="true" active="true" text="//@subFolders.1/@testElements.0/@diagram/@children.4/@children.0/@graphicsAlgorithm" flowNode="QWnd8XxfFfj6iPlQHwprQQ78okJiaUiz">
+          <graphicsAlgorithm xsi:type="al:RoundedRectangle" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.3" lineWidth="2" filled="true" transparency="0.0" width="101" height="51" x="105" y="512" style="//@subFolders.1/@testElements.0/@diagram/@styles.4" cornerHeight="20" cornerWidth="20"/>
+          <link businessObjects="QWnd8XxfFfj6iPlQHwprQQ78okJiaUiz"/>
+          <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.5" incomingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.4"/>
+          <children xsi:type="pi:ContainerShape" visible="true">
+            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.1/@testElements.0/@diagram/@fonts.0" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="Ergebnis prüfen"/>
+          </children>
+        </children>
+        <children xsi:type="yest:EndPointShape" visible="true" active="true" flowNode="2gsiScTEe0SDGnOAGGJD3sTlN6KGerqZ">
+          <graphicsAlgorithm xsi:type="al:Ellipse" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.4" lineWidth="4" transparency="0.0" width="31" height="31" x="240" y="708" style="//@subFolders.1/@testElements.0/@diagram/@styles.5"/>
+          <link businessObjects="2gsiScTEe0SDGnOAGGJD3sTlN6KGerqZ"/>
+          <anchors xsi:type="pi:ChopboxAnchor" incomingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.9"/>
+        </children>
+        <children xsi:type="yest:TaskShape" visible="true" active="true" text="//@subFolders.1/@testElements.0/@diagram/@children.6/@children.0/@graphicsAlgorithm" flowNode="9TqiJLKDsfYIooZnbLd63a1E629FWikA">
+          <graphicsAlgorithm xsi:type="al:RoundedRectangle" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.3" lineWidth="2" filled="true" transparency="0.0" width="101" height="51" x="305" y="512" style="//@subFolders.1/@testElements.0/@diagram/@styles.6" cornerHeight="20" cornerWidth="20"/>
+          <link businessObjects="9TqiJLKDsfYIooZnbLd63a1E629FWikA"/>
+          <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.0 //@subFolders.1/@testElements.0/@diagram/@connections.8" incomingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.7"/>
+          <children xsi:type="pi:ContainerShape" visible="true">
+            <graphicsAlgorithm xsi:type="al:Text" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="false" transparency="0.0" width="87" height="37" x="7" y="7" font="//@subFolders.1/@testElements.0/@diagram/@fonts.0" horizontalAlignment="ALIGNMENT_CENTER" verticalAlignment="ALIGNMENT_TOP" value="Rechner zeigt&#xD;&#xA;Fehler an"/>
+          </children>
+        </children>
+        <children xsi:type="yest:TextAnnotationShape" visible="true" active="true" extras="//@subFolders.1/@testElements.0/@diagram/@children.7/@children.1/@graphicsAlgorithm" text="//@subFolders.1/@testElements.0/@diagram/@children.7/@children.0/@graphicsAlgorithm" id="fRzEo9NT3Un7B91P8Dsm6ZwINJi6hSKO">
+          <graphicsAlgorithm xsi:type="al:Rectangle" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.5" lineWidth="1" filled="true" transparency="0.0" width="150" height="50" x="475" y="430" style="//@subFolders.1/@testElements.0/@diagram/@styles.7"/>
+          <anchors xsi:type="pi:ChopboxAnchor" incomingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.0"/>
+          <children visible="true">
+            <graphicsAlgorithm xsi:type="al:MultiText" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.6" lineWidth="1" filled="false" transparency="0.0" width="138" height="42" x="6" y="4" font="//@subFolders.1/@testElements.0/@diagram/@fonts.0" verticalAlignment="ALIGNMENT_TOP" value="Lieber OIiver, da passt was nicht"/>
+          </children>
+          <children visible="true">
+            <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.7" lineWidth="2">
+              <points x="37"/>
+              <points/>
+              <points y="50"/>
+              <points x="37" y="50"/>
+            </graphicsAlgorithm>
+          </children>
+        </children>
+        <children xsi:type="yest:ChoicePointShape" visible="true" active="true" extras="//@subFolders.1/@testElements.0/@diagram/@children.8/@children.0/@graphicsAlgorithm //@subFolders.1/@testElements.0/@diagram/@children.8/@children.1/@graphicsAlgorithm" flowNode="4Gj70ZkaizHbycGsxCR56GMzoKg7O6hY">
+          <graphicsAlgorithm xsi:type="al:Polygon" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.8" lineWidth="2" lineStyle="UNSPECIFIED" width="40" height="40" x="235" y="425" style="//@subFolders.1/@testElements.0/@diagram/@styles.8">
+            <points x="20"/>
+            <points x="40" y="20"/>
+            <points x="20" y="40"/>
+            <points y="20"/>
+            <points x="20"/>
+          </graphicsAlgorithm>
+          <link businessObjects="4Gj70ZkaizHbycGsxCR56GMzoKg7O6hY"/>
+          <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.4 //@subFolders.1/@testElements.0/@diagram/@connections.7" incomingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.6"/>
+          <children visible="true">
+            <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.8" lineWidth="2">
+              <points x="12" y="12"/>
+              <points x="28" y="28"/>
+            </graphicsAlgorithm>
+          </children>
+          <children visible="true">
+            <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.8" lineWidth="2">
+              <points x="12" y="28"/>
+              <points x="28" y="12"/>
+            </graphicsAlgorithm>
+          </children>
+        </children>
+        <children xsi:type="yest:ChoicePointShape" visible="true" active="true" extras="//@subFolders.1/@testElements.0/@diagram/@children.9/@children.0/@graphicsAlgorithm //@subFolders.1/@testElements.0/@diagram/@children.9/@children.1/@graphicsAlgorithm" flowNode="hAzoWfjY1bMBoetH8Lph4259eCA2B9WJ">
+          <graphicsAlgorithm xsi:type="al:Polygon" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.8" lineWidth="2" lineStyle="UNSPECIFIED" width="40" height="40" x="235" y="618" style="//@subFolders.1/@testElements.0/@diagram/@styles.9">
+            <points x="20"/>
+            <points x="40" y="20"/>
+            <points x="20" y="40"/>
+            <points y="20"/>
+            <points x="20"/>
+          </graphicsAlgorithm>
+          <link businessObjects="hAzoWfjY1bMBoetH8Lph4259eCA2B9WJ"/>
+          <anchors xsi:type="pi:ChopboxAnchor" outgoingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.9" incomingConnections="//@subFolders.1/@testElements.0/@diagram/@connections.5 //@subFolders.1/@testElements.0/@diagram/@connections.8"/>
+          <children visible="true">
+            <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.8" lineWidth="2">
+              <points x="12" y="12"/>
+              <points x="28" y="28"/>
+            </graphicsAlgorithm>
+          </children>
+          <children visible="true">
+            <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.8" lineWidth="2">
+              <points x="12" y="28"/>
+              <points x="28" y="12"/>
+            </graphicsAlgorithm>
+          </children>
+        </children>
+        <styles filled="true" lineVisible="true" id="shape-bg-green-id">
+          <renderingStyle>
+            <adaptedGradientColoredAreas definedStyleId="shape-bg-green-id" gradientType="0">
+              <adaptedGradientColoredAreas styleAdaption="0">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="188" green="221" blue="186"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="255" blue="255"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="1">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="188" green="221" blue="186"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="188" green="221" blue="186"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="2">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="188" green="221" blue="186"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="188" green="221" blue="186"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+            </adaptedGradientColoredAreas>
+          </renderingStyle>
+        </styles>
+        <styles filled="true" lineVisible="true" id="shape-bg-blue-id">
+          <renderingStyle>
+            <adaptedGradientColoredAreas definedStyleId="shape-bg-blue-id" gradientType="0">
+              <adaptedGradientColoredAreas styleAdaption="0">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="255" blue="255"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="1">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="2">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+            </adaptedGradientColoredAreas>
+          </renderingStyle>
+        </styles>
+        <styles filled="true" lineVisible="true" id="shape-bg-blue-id">
+          <renderingStyle>
+            <adaptedGradientColoredAreas definedStyleId="shape-bg-blue-id" gradientType="0">
+              <adaptedGradientColoredAreas styleAdaption="0">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="255" blue="255"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="1">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="2">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+            </adaptedGradientColoredAreas>
+          </renderingStyle>
+        </styles>
+        <styles filled="true" lineVisible="true" id="shape-bg-blue-id">
+          <renderingStyle>
+            <adaptedGradientColoredAreas definedStyleId="shape-bg-blue-id" gradientType="0">
+              <adaptedGradientColoredAreas styleAdaption="0">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="255" blue="255"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="1">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="2">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+            </adaptedGradientColoredAreas>
+          </renderingStyle>
+        </styles>
+        <styles filled="true" lineVisible="true" id="shape-bg-blue-id">
+          <renderingStyle>
+            <adaptedGradientColoredAreas definedStyleId="shape-bg-blue-id" gradientType="0">
+              <adaptedGradientColoredAreas styleAdaption="0">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="255" blue="255"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="1">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="2">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+            </adaptedGradientColoredAreas>
+          </renderingStyle>
+        </styles>
+        <styles filled="true" lineVisible="true" id="shape-bg-red-id">
+          <renderingStyle>
+            <adaptedGradientColoredAreas definedStyleId="shape-bg-red-id" gradientType="0">
+              <adaptedGradientColoredAreas styleAdaption="0">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="255" green="144" blue="158"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="255" blue="255"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="1">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="255" green="144" blue="158"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="144" blue="158"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="2">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="255" green="144" blue="158"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="144" blue="158"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+            </adaptedGradientColoredAreas>
+          </renderingStyle>
+        </styles>
+        <styles filled="true" lineVisible="true" id="shape-bg-blue-id">
+          <renderingStyle>
+            <adaptedGradientColoredAreas definedStyleId="shape-bg-blue-id" gradientType="0">
+              <adaptedGradientColoredAreas styleAdaption="0">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="255" blue="255"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="1">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="2">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="200" green="227" blue="238"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+            </adaptedGradientColoredAreas>
+          </renderingStyle>
+        </styles>
+        <styles filled="true" lineVisible="true" id="shape-bg-gray-id">
+          <renderingStyle>
+            <adaptedGradientColoredAreas definedStyleId="shape-bg-gray-id" gradientType="0">
+              <adaptedGradientColoredAreas styleAdaption="0">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="219" green="219" blue="219"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="255" blue="255"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="1">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="219" green="219" blue="219"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="219" green="219" blue="219"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="2">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="219" green="219" blue="219"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="219" green="219" blue="219"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+            </adaptedGradientColoredAreas>
+          </renderingStyle>
+        </styles>
+        <styles filled="true" lineVisible="true" id="shape-bg-yellow-id">
+          <renderingStyle>
+            <adaptedGradientColoredAreas definedStyleId="shape-bg-yellow-id" gradientType="0">
+              <adaptedGradientColoredAreas styleAdaption="0">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="255" green="227" blue="73"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="255" blue="255"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="1">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="255" green="227" blue="73"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="227" blue="73"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="2">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="255" green="227" blue="73"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="227" blue="73"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+            </adaptedGradientColoredAreas>
+          </renderingStyle>
+        </styles>
+        <styles filled="true" lineVisible="true" id="shape-bg-yellow-id">
+          <renderingStyle>
+            <adaptedGradientColoredAreas definedStyleId="shape-bg-yellow-id" gradientType="0">
+              <adaptedGradientColoredAreas styleAdaption="0">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="255" green="227" blue="73"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="255" blue="255"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="1">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="255" green="227" blue="73"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="227" blue="73"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+              <adaptedGradientColoredAreas styleAdaption="2">
+                <gradientColor>
+                  <start locationType="LOCATION_TYPE_ABSOLUTE_START" locationValue="0">
+                    <color red="255" green="227" blue="73"/>
+                  </start>
+                  <end locationType="LOCATION_TYPE_ABSOLUTE_END" locationValue="0">
+                    <color red="255" green="227" blue="73"/>
+                  </end>
+                </gradientColor>
+              </adaptedGradientColoredAreas>
+            </adaptedGradientColoredAreas>
+          </renderingStyle>
+        </styles>
+        <connections xsi:type="yest:TextAnnotationConnection" visible="true" active="true" start="//@subFolders.1/@testElements.0/@diagram/@children.6/@anchors.0" end="//@subFolders.1/@testElements.0/@diagram/@children.7/@anchors.0">
+          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.5" lineWidth="2" lineStyle="DOT" filled="false" transparency="0.0"/>
+        </connections>
+        <connections xsi:type="yest:SequenceFlowConnection" visible="true" active="true" start="//@subFolders.1/@testElements.0/@diagram/@children.0/@anchors.0" end="//@subFolders.1/@testElements.0/@diagram/@children.1/@anchors.0" sequenceFlow="qkWLcnM60chZTxjQ7dJlaXh0MlEjMzmx">
+          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" lineStyle="UNSPECIFIED"/>
+          <link businessObjects="qkWLcnM60chZTxjQ7dJlaXh0MlEjMzmx"/>
+          <connectionDecorators visible="true" locationRelative="true" location="1.0">
+            <graphicsAlgorithm xsi:type="al:Polygon" background="//@subFolders.1/@testElements.0/@diagram/@colors.2" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="true" transparency="0.0">
+              <points x="-6" y="3"/>
+              <points x="1"/>
+              <points x="-6" y="-3"/>
+            </graphicsAlgorithm>
+          </connectionDecorators>
+        </connections>
+        <connections xsi:type="yest:SequenceFlowConnection" visible="true" active="true" start="//@subFolders.1/@testElements.0/@diagram/@children.1/@anchors.0" end="//@subFolders.1/@testElements.0/@diagram/@children.2/@anchors.0" sequenceFlow="WDO0oWIklRDUKXIBA0g83o3ZtOb8hb9B">
+          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" lineStyle="UNSPECIFIED"/>
+          <link businessObjects="WDO0oWIklRDUKXIBA0g83o3ZtOb8hb9B"/>
+          <connectionDecorators visible="true" locationRelative="true" location="1.0">
+            <graphicsAlgorithm xsi:type="al:Polygon" background="//@subFolders.1/@testElements.0/@diagram/@colors.2" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="true" transparency="0.0">
+              <points x="-6" y="3"/>
+              <points x="1"/>
+              <points x="-6" y="-3"/>
+            </graphicsAlgorithm>
+          </connectionDecorators>
+        </connections>
+        <connections xsi:type="yest:SequenceFlowConnection" visible="true" active="true" start="//@subFolders.1/@testElements.0/@diagram/@children.2/@anchors.0" end="//@subFolders.1/@testElements.0/@diagram/@children.3/@anchors.0" sequenceFlow="EXytsfjP1AXTzxhCPHUV0D1tmnX7Yw1z">
+          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" lineStyle="UNSPECIFIED"/>
+          <link businessObjects="EXytsfjP1AXTzxhCPHUV0D1tmnX7Yw1z"/>
+          <connectionDecorators visible="true" locationRelative="true" location="1.0">
+            <graphicsAlgorithm xsi:type="al:Polygon" background="//@subFolders.1/@testElements.0/@diagram/@colors.2" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="true" transparency="0.0">
+              <points x="-6" y="3"/>
+              <points x="1"/>
+              <points x="-6" y="-3"/>
+            </graphicsAlgorithm>
+          </connectionDecorators>
+        </connections>
+        <connections xsi:type="yest:SequenceFlowConnection" visible="true" active="true" start="//@subFolders.1/@testElements.0/@diagram/@children.8/@anchors.0" end="//@subFolders.1/@testElements.0/@diagram/@children.4/@anchors.0" sequenceFlow="pgGdROVwJ7L4s5NP3Hr4vhKqMMIIN8KO">
+          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" lineStyle="UNSPECIFIED"/>
+          <link businessObjects="pgGdROVwJ7L4s5NP3Hr4vhKqMMIIN8KO"/>
+          <connectionDecorators visible="true" locationRelative="true" location="1.0">
+            <graphicsAlgorithm xsi:type="al:Polygon" background="//@subFolders.1/@testElements.0/@diagram/@colors.2" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="true" transparency="0.0">
+              <points x="-6" y="3"/>
+              <points x="1"/>
+              <points x="-6" y="-3"/>
+            </graphicsAlgorithm>
+          </connectionDecorators>
+          <bendpoints x="154" y="444"/>
+        </connections>
+        <connections xsi:type="yest:SequenceFlowConnection" visible="true" active="true" start="//@subFolders.1/@testElements.0/@diagram/@children.4/@anchors.0" end="//@subFolders.1/@testElements.0/@diagram/@children.9/@anchors.0" sequenceFlow="UvzlebXB7uJi3s4KCGdtTmOzuPsUUn7R">
+          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" lineStyle="UNSPECIFIED"/>
+          <link businessObjects="UvzlebXB7uJi3s4KCGdtTmOzuPsUUn7R"/>
+          <connectionDecorators visible="true" locationRelative="true" location="1.0">
+            <graphicsAlgorithm xsi:type="al:Polygon" background="//@subFolders.1/@testElements.0/@diagram/@colors.2" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="true" transparency="0.0">
+              <points x="-6" y="3"/>
+              <points x="1"/>
+              <points x="-6" y="-3"/>
+            </graphicsAlgorithm>
+          </connectionDecorators>
+          <bendpoints x="156" y="640"/>
+        </connections>
+        <connections xsi:type="yest:SequenceFlowConnection" visible="true" active="true" start="//@subFolders.1/@testElements.0/@diagram/@children.3/@anchors.0" end="//@subFolders.1/@testElements.0/@diagram/@children.8/@anchors.0" sequenceFlow="gDLtJrHPoY4W8QMvY1rYoEyQZanZ4f0O">
+          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" lineStyle="UNSPECIFIED"/>
+          <link businessObjects="gDLtJrHPoY4W8QMvY1rYoEyQZanZ4f0O"/>
+          <connectionDecorators visible="true" locationRelative="true" location="1.0">
+            <graphicsAlgorithm xsi:type="al:Polygon" background="//@subFolders.1/@testElements.0/@diagram/@colors.2" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="true" transparency="0.0">
+              <points x="-6" y="3"/>
+              <points x="1"/>
+              <points x="-6" y="-3"/>
+            </graphicsAlgorithm>
+          </connectionDecorators>
+        </connections>
+        <connections xsi:type="yest:SequenceFlowConnection" visible="true" active="true" start="//@subFolders.1/@testElements.0/@diagram/@children.8/@anchors.0" end="//@subFolders.1/@testElements.0/@diagram/@children.6/@anchors.0" sequenceFlow="7D6qTF90vPVVNP2SfDo3Ybz9IYsR3LxX">
+          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" lineStyle="UNSPECIFIED"/>
+          <link businessObjects="7D6qTF90vPVVNP2SfDo3Ybz9IYsR3LxX"/>
+          <connectionDecorators visible="true" locationRelative="true" location="1.0">
+            <graphicsAlgorithm xsi:type="al:Polygon" background="//@subFolders.1/@testElements.0/@diagram/@colors.2" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="true" transparency="0.0">
+              <points x="-6" y="3"/>
+              <points x="1"/>
+              <points x="-6" y="-3"/>
+            </graphicsAlgorithm>
+          </connectionDecorators>
+          <bendpoints x="354" y="444"/>
+        </connections>
+        <connections xsi:type="yest:SequenceFlowConnection" visible="true" active="true" start="//@subFolders.1/@testElements.0/@diagram/@children.6/@anchors.0" end="//@subFolders.1/@testElements.0/@diagram/@children.9/@anchors.0" sequenceFlow="B6xSFEGXZpxb167TLTV9aGRZaiS7RLkN">
+          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" lineStyle="UNSPECIFIED"/>
+          <link businessObjects="B6xSFEGXZpxb167TLTV9aGRZaiS7RLkN"/>
+          <connectionDecorators visible="true" locationRelative="true" location="1.0">
+            <graphicsAlgorithm xsi:type="al:Polygon" background="//@subFolders.1/@testElements.0/@diagram/@colors.2" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="true" transparency="0.0">
+              <points x="-6" y="3"/>
+              <points x="1"/>
+              <points x="-6" y="-3"/>
+            </graphicsAlgorithm>
+          </connectionDecorators>
+          <bendpoints x="354" y="636"/>
+        </connections>
+        <connections xsi:type="yest:SequenceFlowConnection" visible="true" active="true" start="//@subFolders.1/@testElements.0/@diagram/@children.9/@anchors.0" end="//@subFolders.1/@testElements.0/@diagram/@children.5/@anchors.0" sequenceFlow="DvdV5pMwiWEvMvJqkyaF94ZBJd4DRyw6">
+          <graphicsAlgorithm xsi:type="al:Polyline" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" lineStyle="UNSPECIFIED"/>
+          <link businessObjects="DvdV5pMwiWEvMvJqkyaF94ZBJd4DRyw6"/>
+          <connectionDecorators visible="true" locationRelative="true" location="1.0">
+            <graphicsAlgorithm xsi:type="al:Polygon" background="//@subFolders.1/@testElements.0/@diagram/@colors.2" foreground="//@subFolders.1/@testElements.0/@diagram/@colors.2" lineWidth="1" filled="true" transparency="0.0">
+              <points x="-6" y="3"/>
+              <points x="1"/>
+              <points x="-6" y="-3"/>
+            </graphicsAlgorithm>
+          </connectionDecorators>
+        </connections>
+        <colors red="227" green="238" blue="249"/>
+        <colors red="164" green="193" blue="162"/>
+        <colors red="51" green="51" blue="51"/>
+        <colors red="174" green="198" blue="207"/>
+        <colors red="239" green="126" blue="138"/>
+        <colors red="191" green="191" blue="191"/>
+        <colors red="100" green="100" blue="100"/>
+        <colors red="171" green="171" blue="171"/>
+        <colors red="255" green="198" blue="64"/>
+        <fonts name="Segoe UI" size="9"/>
+      </diagram>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="9LMvQnwnReFTeuAM21h9apIU7koOSDMk" name="Addieren-zero-Success" associatedWorkflow="GO3Z3YhoqYgaI5wx9Zwf60NXaZEBrpq9">
+      <testActions id="uEOlwvRHhfkFygIpkCtXWehQmeohZWJT" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="wSINhAbeKJu9rKepOnA4RlJrvIURm8oS" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2">
+        <dataFieldValues referencedDataField="sJich1Bbffyg4sYJjJqhPYlZiJtiNJz5" value="D3BwwKwUNoNEb5eSwzb3xf0vaRyQLojR"/>
+      </testActions>
+      <testActions id="tTVEo8c7lJcf88efrJvyeF2pJIL65yuZ" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+      </testActions>
+      <testActions id="ZsL1EZCdIMCp3q3792tJw4VVaYkhVQnw" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="zERz17aCClMLwIPH8MSbs7OTEUYtGuLu" name="Subtrahieren-notZero-Success" associatedWorkflow="GO3Z3YhoqYgaI5wx9Zwf60NXaZEBrpq9">
+      <testActions id="Yeebe0eNqmTlpHgajEogYUqFsG8sYIBF" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="QfHJEjzSZkfwSCEJBZGARPHbAIY6te8f" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2">
+        <dataFieldValues referencedDataField="sJich1Bbffyg4sYJjJqhPYlZiJtiNJz5" value="VkL16hDQW81mW7uhXqUaulP2o6nIUbyn"/>
+      </testActions>
+      <testActions id="r5eu0tLY0b9RZi4QAyar2Jy9FGXs8noe" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+      </testActions>
+      <testActions id="qwg3KnIKHL7natQk2n1XEQamYBAhFR0R" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="jv0IJlVA7casJQ3qwUkY7xpuywyCFoPo" name="Multiplizieren-zero-Success" associatedWorkflow="GO3Z3YhoqYgaI5wx9Zwf60NXaZEBrpq9">
+      <testActions id="zpk8BtnUYSAjlbXK85OQDtzSYkPwu3mk" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="LLQxSpnOQFywKiN2yCyGeym8d2woGvtx" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2">
+        <dataFieldValues referencedDataField="sJich1Bbffyg4sYJjJqhPYlZiJtiNJz5" value="ut4Z0e55HPAzb2SIuwDvsy1f4rlqOv4d"/>
+      </testActions>
+      <testActions id="QcqgkMqpqGChTZEtKiOMhhOCj63gbyvb" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+      </testActions>
+      <testActions id="oxVI4KN7oqWD60EWX14Q67Biq7Xl1LCK" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="MwBhWVjBxaAuukAshQiF4682fXAUKtZL" name="Dividieren-notZero-Success" associatedWorkflow="GO3Z3YhoqYgaI5wx9Zwf60NXaZEBrpq9">
+      <testActions id="zlougPw26As31qSpTgjx5DIUvWQuYZtY" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="ja3OtsnJYTnsLzw3uUHZW2nBBKISv5aN" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2">
+        <dataFieldValues referencedDataField="sJich1Bbffyg4sYJjJqhPYlZiJtiNJz5" value="YsKPnPNDxn1QoHNYjYANBCYkHNRm1Ct7"/>
+      </testActions>
+      <testActions id="NGnHqw1ADd4mLySwr3VLkk0nZUHC8TPi" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+      </testActions>
+      <testActions id="Yvh0U0tbSLwmsTqOarVKZ8nZ3znEEwlw" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="HgY4QZhM0s1blnLulkCu8SZZsNlN7woX" name="Addieren-notZero-Success" associatedWorkflow="GO3Z3YhoqYgaI5wx9Zwf60NXaZEBrpq9">
+      <testActions id="XKAPnZSvXfj9AUImVN8m0mnbwsr5l3fy" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="JIO8qwOs79jyEe9sVrki98FiVkJkgVcR" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2">
+        <dataFieldValues referencedDataField="sJich1Bbffyg4sYJjJqhPYlZiJtiNJz5" value="D3BwwKwUNoNEb5eSwzb3xf0vaRyQLojR"/>
+      </testActions>
+      <testActions id="Ou34YzML8YfqxaoMVyOaYNV9ZDwwwtTC" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+      </testActions>
+      <testActions id="v8jMDbmMRcsoDIx4X1Z1HoQXAdXjpLOS" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="XYwArH6T7JahjkNGs6K50FTVFrJjStQo" name="Subtrahieren-zero-Success" associatedWorkflow="GO3Z3YhoqYgaI5wx9Zwf60NXaZEBrpq9">
+      <testActions id="1Lt2tjESU4UxofMHJlw53r3azGSDyxyk" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="A9y0a63m4iNDaCFNL5fYAl6pIY8CdvfP" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2">
+        <dataFieldValues referencedDataField="sJich1Bbffyg4sYJjJqhPYlZiJtiNJz5" value="VkL16hDQW81mW7uhXqUaulP2o6nIUbyn"/>
+      </testActions>
+      <testActions id="eZWngWsjtcvarunkZHGNpWGuyN1U0Iyy" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+      </testActions>
+      <testActions id="lwKWspe7jBd5I8RiuxfYuhVNgYeCKvAr" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="ZJMUbc97BOMlk8wtjBMmdvOws0ysuwIT" name="Multiplizieren-notZero-Success" associatedWorkflow="GO3Z3YhoqYgaI5wx9Zwf60NXaZEBrpq9">
+      <testActions id="Cqy2oUMckePZW2hLkNM314ItYFRLWe2q" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="9wVPHT9HvJAZo5awrFBRehWNlJpi9FDM" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2">
+        <dataFieldValues referencedDataField="sJich1Bbffyg4sYJjJqhPYlZiJtiNJz5" value="ut4Z0e55HPAzb2SIuwDvsy1f4rlqOv4d"/>
+      </testActions>
+      <testActions id="T9fVikNUFDH8y4lOOuNXpKwUbJAz4Vog" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+      </testActions>
+      <testActions id="4CkxJ8h8WGXMpxiAL4mrmcwLVh4FvHt0" operation="DCiT9mLEdecLTEo0zF8NYBKx1w2VimQ1"/>
+    </testElements>
+    <testElements xsi:type="yest:TestScenario" id="UXNwJZESkyAvo2BW37ZpiBjzWx7fXZox" name="Dividieren-zero-Error" associatedWorkflow="GO3Z3YhoqYgaI5wx9Zwf60NXaZEBrpq9">
+      <testActions id="gqCHpLzzGYGQt9AR39et1pAgJa4lIwDU" operation="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z"/>
+      <testActions id="go4Yv3H9kaIYgd6eB8pZn9cqHQecQI1S" operation="m7lf8LCRAfI7ZcMLf9KTp4R72i7h4cN2">
+        <dataFieldValues referencedDataField="sJich1Bbffyg4sYJjJqhPYlZiJtiNJz5" value="YsKPnPNDxn1QoHNYjYANBCYkHNRm1Ct7"/>
+      </testActions>
+      <testActions id="DWyfemKlJXO3eMYfuyoMSoiYmBUQU9id" operation="BG2k342V4gSa5hLukfKVaVecJNHSWwZn">
+        <dataFieldValues referencedDataField="k3g2PFSchifp3jLriXdIRSAM8hT7mAEp" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+      </testActions>
+      <testActions id="2QlxruAWtPjiRnfQIN4gzwxRtedU6aKn" operation="h4VGgPy0prXswtwX14JRJHEgIHnMgERW"/>
     </testElements>
   </subFolders>
   <testElements xsi:type="yest:TestOperation" id="FVZV87BWHBURLsnCoUgNktK2Oo6vEW8Z">
@@ -1548,6 +2482,64 @@
           <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
           <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
           <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+        </dataSets>
+      </dataSetCollections>
+      <dataSetCollections name="CimtJako" id="TmiViBo4Z62KYF1kDq9EilJ0zUre2OjY">
+        <dataSets name="Addieren-notZero-Success" id="nTYIXk1RVchIjACxGDyBRtcevsMOiswf">
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+          <values data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5" value="D3BwwKwUNoNEb5eSwzb3xf0vaRyQLojR"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
+        </dataSets>
+        <dataSets name="Addieren-zero-Success" id="jvN8KUVCSBzwVKMLnEpsjjeag13vLFuR">
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+          <values data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5" value="D3BwwKwUNoNEb5eSwzb3xf0vaRyQLojR"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
+        </dataSets>
+        <dataSets name="Dividieren-notZero-Success" id="zbn5o2wgHvGzfmiL3m2ZppItSck6Ofoa">
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+          <values data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5" value="YsKPnPNDxn1QoHNYjYANBCYkHNRm1Ct7"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
+        </dataSets>
+        <dataSets name="Dividieren-zero-Error" id="zKTdVeKOEANFsw8IKBCvQbA1GwNnWts7">
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+          <values data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5" value="YsKPnPNDxn1QoHNYjYANBCYkHNRm1Ct7"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
+        </dataSets>
+        <dataSets name="Multiplizieren-notZero-Success" id="92rOl27mcMgQeunDtOfDUh3ujkbuDOuR">
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+          <values data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5" value="ut4Z0e55HPAzb2SIuwDvsy1f4rlqOv4d"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
+        </dataSets>
+        <dataSets name="Multiplizieren-zero-Success" id="sUjezQpOZeyUbiwRuumCIprHmaWqiKxS">
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+          <values data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5" value="ut4Z0e55HPAzb2SIuwDvsy1f4rlqOv4d"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
+        </dataSets>
+        <dataSets name="Subtrahieren-notZero-Success" id="xGl4BhouNG1NnTAxYccuwawzrXAUCHwF">
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="fIwhvcI62uCjqfzaFOZnGVpdg9HKvtCd"/>
+          <values data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5" value="VkL16hDQW81mW7uhXqUaulP2o6nIUbyn"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
+        </dataSets>
+        <dataSets name="Subtrahieren-zero-Success" id="B17tQxM84cz1tbCvgtTNx9gmIz6tulkI">
+          <values data="4lvm7QNI4VrpfqGbi0P3nwl2alzSAMGK" value="T0hpuIB6Q2hK42bobIfD6NeMn0Po6pEv"/>
+          <values data="SGxImdf0Vv1xmLaW4HRQHbC7xb0TUNP5" value="VkL16hDQW81mW7uhXqUaulP2o6nIUbyn"/>
+          <values data="5onqMtUO2uxxyjTrjBy5F3hDovDttMOP"/>
+          <values data="ddfVGjjNj3H2n4NDCWLy6cqdgj3zJdRE"/>
+          <values data="CBh78X3pI7RKu8FAaMmUJSFv5pW5nFQn"/>
         </dataSets>
       </dataSetCollections>
     </subCategories>

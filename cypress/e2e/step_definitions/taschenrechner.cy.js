@@ -38,7 +38,7 @@ Then('ich prüfe ob das Ergebnis {string} ist', ergebnis => {
     cy.get('#display').should('have.value', ergebnis);
 });
 
-When('I press button "{string}"', input => {
+When('I press button {string}', input => {
     
     for (let i = 0; i < input.length; i++) {
         let taste = input.charAt(i);
@@ -52,7 +52,7 @@ When('I press button "{string}"', input => {
     
 });
 
-Then('I verify that the result is "{string}"', ergebnis => {
+Then('I verify that the result is {string}', ergebnis => {
     cy.get('[onclick="display.value = eval(display.value);"]').click();
     cy.get('#display').should('have.value', ergebnis);
 });

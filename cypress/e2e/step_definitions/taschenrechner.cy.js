@@ -36,4 +36,23 @@ When('ich drücke Taste {string}', input => {
 Then('ich prüfe ob das Ergebnis {string} ist', ergebnis => {
     cy.get('[onclick="display.value = eval(display.value);"]').click();
     cy.get('#display').should('have.value', ergebnis);
-})
+});
+
+When('I press button {string}', input => {
+    
+    for (let i = 0; i < input.length; i++) {
+        let taste = input.charAt(i);
+
+        if(taste == '+' ) {taste = ' + '}
+        else if (taste == '*' ) {taste = ' * '}
+        else if (taste == '-' ) {taste = ' - '}
+        cy.get(`[onclick="display.value += '${taste}';"]`).click();
+
+      }
+    
+});
+
+Then('I verify that the result is {string}', ergebnis => {
+    cy.get('[onclick="display.value = eval(display.value);"]').click();
+    cy.get('#display').should('have.value', ergebnis);
+});

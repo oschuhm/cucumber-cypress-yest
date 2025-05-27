@@ -60,6 +60,7 @@ async function uploadCucumberJson(token, cucumberJsonPath) {
 
 async function uploadCucumberJsonMultipart(token, cucumberJsonPath, testPlanKey) {
     const apiUrl = 'https://xray.cloud.getxray.app/api/v2/import/execution/cucumber/multipart';
+    const timestamp = getFormattedTimestamp();
 
     try {
         // 1. Validiere den Datei-Pfad
@@ -79,7 +80,7 @@ async function uploadCucumberJsonMultipart(token, cucumberJsonPath, testPlanKey)
         const infoData = {
             "fields": {
                 "project": { "id": "10004" },
-                "summary": `Automated Test Execution - ${testPlanKey}`,
+                "summary": `Automated TE Result - ${testPlanKey} (${timestamp})`,
                 "issuetype": { "id": "10011" }
             },
             "xrayFields": {
@@ -126,4 +127,18 @@ async function uploadToXrayCloud(xrayClientId, xrayClientSecret, testPlanKey) {
         uploadCucumberJsonMultipart(token, cucumberJsonPath, testPlanKey);
     });
 
+}
+
+function getFormattedTimestamp() {
+    const now = new Date();
+    const pad = (num) => String(num).padStart(2, '0');
+
+    const year = now.getFullYear();
+    const month = pad(now.getMonth() + 1); // Monate beginnen bei 0
+    const day = pad(now.getDate());
+    const hours = pad(now.getHours());
+    const minutes = pad(now.getMinutes());
+    const seconds = pad(now.getSeconds());
+
+    return `${year}${month}${day}-${hours}${minutes}${seconds}`;
 }

@@ -19,7 +19,7 @@ const AdmZip = require('adm-zip');
 //folders
 const featureFolder = "./cypress/e2e/features";
 const downloadFolder = "./cypress/downloads"
-const authUrl = 'https://xray.cloud.getxray.app/api/v2/authenticate';
+const authUrl = 'https://eu.xray.cloud.getxray.app/api/v2/authenticate';
 
 main();
 
@@ -53,7 +53,7 @@ async function authenticate(clientId, clientSecret) {
 }
 
 async function exportCucumberTests(token, testPlanKey) {
-    const apiUrl = 'https://xray.cloud.getxray.app/api/v2/export/cucumber';
+    const apiUrl = 'https://eu.xray.cloud.getxray.app/api/v2/export/cucumber';
 
 
     // 1. Testfälle aus Xray Cloud exportieren

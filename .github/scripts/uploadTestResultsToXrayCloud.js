@@ -7,7 +7,7 @@ const yargs = require('yargs/yargs');
 const { hideBin } = require('yargs/helpers');
 const argv = yargs(hideBin(process.argv)).argv;
 
-const authUrl = 'https://xray.cloud.getxray.app/api/v2/authenticate';
+const authUrl = 'https://eu.xray.cloud.getxray.app/api/v2/authenticate';
 
 main();
 function main() {
@@ -38,7 +38,7 @@ async function authenticate(clientId, clientSecret) {
 }
 
 async function uploadCucumberJson(token, cucumberJsonPath) {
-    const apiUrl = 'https://xray.cloud.getxray.app/api/v2/import/execution/cucumber';
+    const apiUrl = 'https://eu.xray.cloud.getxray.app/api/v2/import/execution/cucumber';
 
     try {
         // 1. Datei lesen
@@ -59,7 +59,7 @@ async function uploadCucumberJson(token, cucumberJsonPath) {
 }
 
 async function uploadCucumberJsonMultipart(token, cucumberJsonPath, testPlanKey) {
-    const apiUrl = 'https://xray.cloud.getxray.app/api/v2/import/execution/cucumber/multipart';
+    const apiUrl = 'https://eu.xray.cloud.getxray.app/api/v2/import/execution/cucumber/multipart';
     const timestamp = getFormattedTimestamp();
 
     try {

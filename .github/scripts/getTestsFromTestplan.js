@@ -69,20 +69,25 @@ async function exportCucumberTests(token, testPlanKey) {
             responseType: 'arraybuffer' // Wichtig für Binärdaten (ZIP-Datei)
         });
 
-       // 2. ZIP-Datei speichern
-       const zipFilePath = `${downloadFolder}/cucumber_tests.zip`;
-       const dir = path.dirname(zipFilePath);
-       fs.mkdirSync(dir, { recursive: true });
-       fs.writeFileSync(zipFilePath, response.data);
-       console.log(`ZIP-Datei gespeichert: ${zipFilePath}`);
+        // 2. ZIP-Datei speichern
+        const zipFilePath = `${downloadFolder}/cucumber_tests.zip`;
+        const dir = path.dirname(zipFilePath);
+        fs.mkdirSync(dir, { recursive: true });
+        fs.writeFileSync(zipFilePath, response.data);
+        console.log(`ZIP-Datei gespeichert: ${zipFilePath}`);
 
-       // 3. ZIP-Datei entpacken
-       const zip = new AdmZip(zipFilePath);
-       zip.extractAllTo(featureFolder, true); // Entpackt den Inhalt
-       console.log(`Dateien entpackt in: ${featureFolder}`);
+        // 3. ZIP-Datei entpacken
+        const zip = new AdmZip(zipFilePath);
+        zip.extractAllTo(featureFolder, true); // Entpackt den Inhalt
+        console.log(`Dateien entpackt in: ${featureFolder}`);
 
     } catch (error) {
-        console.error('Fehler beim Export von Cucumber-Tests:', error.response?.data || error.message);
+        console.error(
+            'Fehler beim Export von Cucumber-Tests:',
+            error.response?.data
+                ? Buffer.from(error.response.data).toString('utf8')
+                : error.message
+        );
     }
 }
 
